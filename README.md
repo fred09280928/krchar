@@ -1,5 +1,7 @@
 # KRChar — Korean Dubeolsik typing drill
 
+**Live:** https://krchar-d1.fred0928.workers.dev/ · **Repo:** https://github.com/fred09280928/krchar
+
 Drill table of Korean Hangul characters with the exact 두벌식 (Dubeolsik) keystrokes that
 produce each one, filtered down to characters that actually occur in Korean text.
 
