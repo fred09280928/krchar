@@ -18,7 +18,7 @@
     --fs-input: clamp(1.5rem, 3.4vh, 2.2rem);
     --fs-fb: clamp(1.1rem, 2.4vh, 1.5rem);
     --fs-memo: clamp(1.15rem, 2.6vh, 1.6rem);
-    --fs-char: clamp(5.5rem, 24vh, 13rem);
+    --fs-char: clamp(5rem, min(26vh, 42vw), 12rem);
   }
   @media (prefers-color-scheme: dark){
     :root{ --bg:#181a1d; --card:#23252b; --fg:#e8e8ea; --muted:#9aa0a6; --border:#34373d;
@@ -86,11 +86,13 @@
   #feedback.ok{color:var(--ok)} #feedback.err{color:var(--err)}
   #answerline{text-align:center;font-size:var(--fs-ui);color:var(--muted);min-height:1.2em}
   @media (max-width:520px){
-    .row{gap:8px;padding-top:clamp(40px,6vh,52px)}
-    .home{top:0;transform:none}
+    .row{gap:6px}
+    select{padding:8px 6px;font-size:.95rem}
+    .seg button{padding:8px 10px;font-size:.85rem}
+    .iconlink,.home{width:34px;height:34px;font-size:1rem}
+    .statrow{gap:12px}
     #answer{flex:1 1 auto}
-    #check{position:static;width:auto;min-width:clamp(56px,8vh,76px);padding:0 0}
-    .iconlink,.home{width:40px;height:40px}
+    #check{position:static;width:auto;min-width:clamp(52px,8vh,70px);padding:0}
   }
   dialog{border:1px solid var(--border);border-radius:16px;background:var(--card);color:var(--fg);
     padding:0;max-width:460px;width:calc(100% - 32px)}
