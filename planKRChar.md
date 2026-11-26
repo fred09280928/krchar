@@ -177,7 +177,7 @@ E 欄是提示欄，格式 `<圖像詞> = <鍵位>`（大寫＝Shift）：
 - [x] 測驗頁（level 累積、RR／Dubeolsik toggle、keydown 計分、3 次鎖卡公布答案、2 秒跳題、發音）
 - [x] `/table` 瀏覽頁（833 筆、100 列／頁、搜尋／篩選／排序、就地編輯）
 - [x] 本機驗證：smoke 17 條全過；瀏覽器實測（答對→2 秒跳題、三錯→公布＋鎖卡、RR 模式大小寫不敏感、音檔可播）
-- [ ] repo push → `wrangler secret put ADMIN_TOKEN` → `wrangler deploy` → 正式站複驗 → 入口站登錄
+- [x] repo push（`github.com/fred09280928/krchar`, public）→ `wrangler secret put ADMIN_TOKEN` → `wrangler deploy` → 正式站 smoke 17/17 → 入口站 `apps.json` 已登錄
 - [x] 專案上 GitHub（比照其他專案）→ 待 push
 - [ ] 若日後改 Google Sheet：重新匯出並跑驗證（目前雲端與 `data/` 同步，833 列）
 - [ ] （未定）是否把 `memo` 欄用於記錄個人常錯鍵位
