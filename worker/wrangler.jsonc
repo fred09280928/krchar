@@ -1,0 +1,16 @@
+{
+  "name": "krchar-d1",
+  "main": "src/index.js",
+  "compatibility_date": "2026-11-01",
+  "assets": {
+    "directory": "./public",
+    "binding": "ASSETS"
+  },
+  "d1_databases": [
+    {
+      "binding": "DB",
+      "database_name": "krchar",
+      "database_id": "550364a8-da18-43a9-9291-76107bbb1760"
+    }
+  ]
+}

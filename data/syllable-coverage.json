@@ -1,0 +1,4880 @@
+{
+ "ㄱ": {
+  "kind": "jamo"
+ },
+ "ㄲ": {
+  "kind": "jamo"
+ },
+ "ㄴ": {
+  "kind": "jamo"
+ },
+ "ㄷ": {
+  "kind": "jamo"
+ },
+ "ㄸ": {
+  "kind": "jamo"
+ },
+ "ㄹ": {
+  "kind": "jamo"
+ },
+ "ㅁ": {
+  "kind": "jamo"
+ },
+ "ㅂ": {
+  "kind": "jamo"
+ },
+ "ㅃ": {
+  "kind": "jamo"
+ },
+ "ㅅ": {
+  "kind": "jamo"
+ },
+ "ㅆ": {
+  "kind": "jamo"
+ },
+ "ㅇ": {
+  "kind": "jamo"
+ },
+ "ㅈ": {
+  "kind": "jamo"
+ },
+ "ㅉ": {
+  "kind": "jamo"
+ },
+ "ㅊ": {
+  "kind": "jamo"
+ },
+ "ㅋ": {
+  "kind": "jamo"
+ },
+ "ㅌ": {
+  "kind": "jamo"
+ },
+ "ㅍ": {
+  "kind": "jamo"
+ },
+ "ㅎ": {
+  "kind": "jamo"
+ },
+ "ㅏ": {
+  "kind": "jamo"
+ },
+ "ㅑ": {
+  "kind": "jamo"
+ },
+ "ㅓ": {
+  "kind": "jamo"
+ },
+ "ㅕ": {
+  "kind": "jamo"
+ },
+ "ㅗ": {
+  "kind": "jamo"
+ },
+ "ㅛ": {
+  "kind": "jamo"
+ },
+ "ㅜ": {
+  "kind": "jamo"
+ },
+ "ㅠ": {
+  "kind": "jamo"
+ },
+ "ㅡ": {
+  "kind": "jamo"
+ },
+ "ㅣ": {
+  "kind": "jamo"
+ },
+ "ㅐ": {
+  "kind": "jamo"
+ },
+ "ㅒ": {
+  "kind": "jamo"
+ },
+ "ㅔ": {
+  "kind": "jamo"
+ },
+ "ㅖ": {
+  "kind": "jamo"
+ },
+ "ㅘ": {
+  "kind": "jamo"
+ },
+ "ㅙ": {
+  "kind": "jamo"
+ },
+ "ㅚ": {
+  "kind": "jamo"
+ },
+ "ㅝ": {
+  "kind": "jamo"
+ },
+ "ㅞ": {
+  "kind": "jamo"
+ },
+ "ㅟ": {
+  "kind": "jamo"
+ },
+ "ㅢ": {
+  "kind": "jamo"
+ },
+ "아": {
+  "kind": "syllable",
+  "corpus_hits": 363744,
+  "corpus_words": 32867,
+  "in_corpus_or_dict": true
+ },
+ "야": {
+  "kind": "syllable",
+  "corpus_hits": 188874,
+  "corpus_words": 30127,
+  "in_corpus_or_dict": true
+ },
+ "어": {
+  "kind": "syllable",
+  "corpus_hits": 399291,
+  "corpus_words": 43381,
+  "in_corpus_or_dict": true
+ },
+ "여": {
+  "kind": "syllable",
+  "corpus_hits": 79445,
+  "corpus_words": 7877,
+  "in_corpus_or_dict": true
+ },
+ "오": {
+  "kind": "syllable",
+  "corpus_hits": 67979,
+  "corpus_words": 10540,
+  "in_corpus_or_dict": true
+ },
+ "요": {
+  "kind": "syllable",
+  "corpus_hits": 452881,
+  "corpus_words": 74952,
+  "in_corpus_or_dict": true
+ },
+ "우": {
+  "kind": "syllable",
+  "corpus_hits": 84225,
+  "corpus_words": 7203,
+  "in_corpus_or_dict": true
+ },
+ "유": {
+  "kind": "syllable",
+  "corpus_hits": 20863,
+  "corpus_words": 5374,
+  "in_corpus_or_dict": true
+ },
+ "으": {
+  "kind": "syllable",
+  "corpus_hits": 73072,
+  "corpus_words": 16056,
+  "in_corpus_or_dict": true
+ },
+ "이": {
+  "kind": "syllable",
+  "corpus_hits": 600231,
+  "corpus_words": 101477,
+  "in_corpus_or_dict": true
+ },
+ "애": {
+  "kind": "syllable",
+  "corpus_hits": 18270,
+  "corpus_words": 3234,
+  "in_corpus_or_dict": true
+ },
+ "얘": {
+  "kind": "syllable",
+  "corpus_hits": 16924,
+  "corpus_words": 1131,
+  "in_corpus_or_dict": true
+ },
+ "에": {
+  "kind": "syllable",
+  "corpus_hits": 265320,
+  "corpus_words": 49016,
+  "in_corpus_or_dict": true
+ },
+ "예": {
+  "kind": "syllable",
+  "corpus_hits": 32513,
+  "corpus_words": 5974,
+  "in_corpus_or_dict": true
+ },
+ "와": {
+  "kind": "syllable",
+  "corpus_hits": 42651,
+  "corpus_words": 7326,
+  "in_corpus_or_dict": true
+ },
+ "왜": {
+  "kind": "syllable",
+  "corpus_hits": 26331,
+  "corpus_words": 259,
+  "in_corpus_or_dict": true
+ },
+ "외": {
+  "kind": "syllable",
+  "corpus_hits": 6404,
+  "corpus_words": 1980,
+  "in_corpus_or_dict": true
+ },
+ "워": {
+  "kind": "syllable",
+  "corpus_hits": 25364,
+  "corpus_words": 4374,
+  "in_corpus_or_dict": true
+ },
+ "웨": {
+  "kind": "syllable",
+  "corpus_hits": 2835,
+  "corpus_words": 800,
+  "in_corpus_or_dict": true
+ },
+ "위": {
+  "kind": "syllable",
+  "corpus_hits": 30194,
+  "corpus_words": 4749,
+  "in_corpus_or_dict": true
+ },
+ "의": {
+  "kind": "syllable",
+  "corpus_hits": 112311,
+  "corpus_words": 21450,
+  "in_corpus_or_dict": true
+ },
+ "가": {
+  "kind": "syllable",
+  "corpus_hits": 370351,
+  "corpus_words": 39289,
+  "in_corpus_or_dict": true
+ },
+ "갸": {
+  "kind": "syllable",
+  "corpus_hits": 42,
+  "corpus_words": 25,
+  "in_corpus_or_dict": true
+ },
+ "거": {
+  "kind": "syllable",
+  "corpus_hits": 189018,
+  "corpus_words": 31256,
+  "in_corpus_or_dict": true
+ },
+ "겨": {
+  "kind": "syllable",
+  "corpus_hits": 8289,
+  "corpus_words": 2460,
+  "in_corpus_or_dict": true
+ },
+ "고": {
+  "kind": "syllable",
+  "corpus_hits": 295504,
+  "corpus_words": 49071,
+  "in_corpus_or_dict": true
+ },
+ "교": {
+  "kind": "syllable",
+  "corpus_hits": 10633,
+  "corpus_words": 3128,
+  "in_corpus_or_dict": true
+ },
+ "구": {
+  "kind": "syllable",
+  "corpus_hits": 65067,
+  "corpus_words": 16966,
+  "in_corpus_or_dict": true
+ },
+ "규": {
+  "kind": "syllable",
+  "corpus_hits": 1780,
+  "corpus_words": 457,
+  "in_corpus_or_dict": true
+ },
+ "그": {
+  "kind": "syllable",
+  "corpus_hits": 316787,
+  "corpus_words": 9049,
+  "in_corpus_or_dict": true
+ },
+ "기": {
+  "kind": "syllable",
+  "corpus_hits": 167401,
+  "corpus_words": 27883,
+  "in_corpus_or_dict": true
+ },
+ "까": {
+  "kind": "syllable",
+  "corpus_hits": 64889,
+  "corpus_words": 15889,
+  "in_corpus_or_dict": true
+ },
+ "꺄": {
+  "kind": "syllable",
+  "corpus_hits": 88,
+  "corpus_words": 23,
+  "in_corpus_or_dict": true
+ },
+ "꺼": {
+  "kind": "syllable",
+  "corpus_hits": 6915,
+  "corpus_words": 2288,
+  "in_corpus_or_dict": true
+ },
+ "껴": {
+  "kind": "syllable",
+  "corpus_hits": 1630,
+  "corpus_words": 405,
+  "in_corpus_or_dict": true
+ },
+ "꼬": {
+  "kind": "syllable",
+  "corpus_hits": 2553,
+  "corpus_words": 770,
+  "in_corpus_or_dict": true
+ },
+ "꾸": {
+  "kind": "syllable",
+  "corpus_hits": 3404,
+  "corpus_words": 843,
+  "in_corpus_or_dict": true
+ },
+ "뀨": {
+  "kind": "syllable",
+  "corpus_hits": 50,
+  "corpus_words": 1,
+  "in_corpus_or_dict": true
+ },
+ "끄": {
+  "kind": "syllable",
+  "corpus_hits": 1875,
+  "corpus_words": 514,
+  "in_corpus_or_dict": true
+ },
+ "끼": {
+  "kind": "syllable",
+  "corpus_hits": 6881,
+  "corpus_words": 1684,
+  "in_corpus_or_dict": true
+ },
+ "나": {
+  "kind": "syllable",
+  "corpus_hits": 186070,
+  "corpus_words": 28573,
+  "in_corpus_or_dict": true
+ },
+ "냐": {
+  "kind": "syllable",
+  "corpus_hits": 20182,
+  "corpus_words": 3630,
+  "in_corpus_or_dict": true
+ },
+ "너": {
+  "kind": "syllable",
+  "corpus_hits": 46487,
+  "corpus_words": 2140,
+  "in_corpus_or_dict": true
+ },
+ "녀": {
+  "kind": "syllable",
+  "corpus_hits": 18428,
+  "corpus_words": 1746,
+  "in_corpus_or_dict": true
+ },
+ "노": {
+  "kind": "syllable",
+  "corpus_hits": 12475,
+  "corpus_words": 3631,
+  "in_corpus_or_dict": true
+ },
+ "뇨": {
+  "kind": "syllable",
+  "corpus_hits": 5777,
+  "corpus_words": 324,
+  "in_corpus_or_dict": true
+ },
+ "누": {
+  "kind": "syllable",
+  "corpus_hits": 25594,
+  "corpus_words": 1648,
+  "in_corpus_or_dict": true
+ },
+ "뉴": {
+  "kind": "syllable",
+  "corpus_hits": 2253,
+  "corpus_words": 479,
+  "in_corpus_or_dict": true
+ },
+ "느": {
+  "kind": "syllable",
+  "corpus_hits": 9378,
+  "corpus_words": 2058,
+  "in_corpus_or_dict": true
+ },
+ "니": {
+  "kind": "syllable",
+  "corpus_hits": 215810,
+  "corpus_words": 34679,
+  "in_corpus_or_dict": true
+ },
+ "다": {
+  "kind": "syllable",
+  "corpus_hits": 319416,
+  "corpus_words": 59442,
+  "in_corpus_or_dict": true
+ },
+ "댜": {
+  "kind": "syllable",
+  "corpus_hits": 20,
+  "corpus_words": 19,
+  "in_corpus_or_dict": true
+ },
+ "더": {
+  "kind": "syllable",
+  "corpus_hits": 36944,
+  "corpus_words": 6385,
+  "in_corpus_or_dict": true
+ },
+ "뎌": {
+  "kind": "syllable",
+  "corpus_hits": 247,
+  "corpus_words": 110,
+  "in_corpus_or_dict": true
+ },
+ "도": {
+  "kind": "syllable",
+  "corpus_hits": 177529,
+  "corpus_words": 34166,
+  "in_corpus_or_dict": true
+ },
+ "됴": {
+  "kind": "syllable",
+  "corpus_hits": 3,
+  "corpus_words": 3,
+  "in_corpus_or_dict": true
+ },
+ "두": {
+  "kind": "syllable",
+  "corpus_hits": 28806,
+  "corpus_words": 4194,
+  "in_corpus_or_dict": true
+ },
+ "듀": {
+  "kind": "syllable",
+  "corpus_hits": 493,
+  "corpus_words": 210,
+  "in_corpus_or_dict": true
+ },
+ "드": {
+  "kind": "syllable",
+  "corpus_hits": 40958,
+  "corpus_words": 10642,
+  "in_corpus_or_dict": true
+ },
+ "디": {
+  "kind": "syllable",
+  "corpus_hits": 26902,
+  "corpus_words": 3770,
+  "in_corpus_or_dict": true
+ },
+ "따": {
+  "kind": "syllable",
+  "corpus_hits": 9299,
+  "corpus_words": 1820,
+  "in_corpus_or_dict": true
+ },
+ "땨": {
+  "kind": "syllable",
+  "corpus_hits": 2,
+  "corpus_words": 2,
+  "in_corpus_or_dict": true
+ },
+ "떠": {
+  "kind": "syllable",
+  "corpus_hits": 8270,
+  "corpus_words": 1377,
+  "in_corpus_or_dict": true
+ },
+ "뗘": {
+  "kind": "syllable",
+  "corpus_hits": 7,
+  "corpus_words": 2,
+  "in_corpus_or_dict": true
+ },
+ "또": {
+  "kind": "syllable",
+  "corpus_hits": 8163,
+  "corpus_words": 225,
+  "in_corpus_or_dict": true
+ },
+ "뚜": {
+  "kind": "syllable",
+  "corpus_hits": 301,
+  "corpus_words": 107,
+  "in_corpus_or_dict": true
+ },
+ "뜨": {
+  "kind": "syllable",
+  "corpus_hits": 2410,
+  "corpus_words": 909,
+  "in_corpus_or_dict": true
+ },
+ "띠": {
+  "kind": "syllable",
+  "corpus_hits": 173,
+  "corpus_words": 87,
+  "in_corpus_or_dict": true
+ },
+ "라": {
+  "kind": "syllable",
+  "corpus_hits": 134012,
+  "corpus_words": 38595,
+  "in_corpus_or_dict": true
+ },
+ "랴": {
+  "kind": "syllable",
+  "corpus_hits": 210,
+  "corpus_words": 77,
+  "in_corpus_or_dict": true
+ },
+ "러": {
+  "kind": "syllable",
+  "corpus_hits": 54521,
+  "corpus_words": 8343,
+  "in_corpus_or_dict": true
+ },
+ "려": {
+  "kind": "syllable",
+  "corpus_hits": 56960,
+  "corpus_words": 14056,
+  "in_corpus_or_dict": true
+ },
+ "로": {
+  "kind": "syllable",
+  "corpus_hits": 131540,
+  "corpus_words": 26484,
+  "in_corpus_or_dict": true
+ },
+ "료": {
+  "kind": "syllable",
+  "corpus_hits": 6328,
+  "corpus_words": 1737,
+  "in_corpus_or_dict": true
+ },
+ "루": {
+  "kind": "syllable",
+  "corpus_hits": 13609,
+  "corpus_words": 3073,
+  "in_corpus_or_dict": true
+ },
+ "류": {
+  "kind": "syllable",
+  "corpus_hits": 3871,
+  "corpus_words": 1220,
+  "in_corpus_or_dict": true
+ },
+ "르": {
+  "kind": "syllable",
+  "corpus_hits": 31018,
+  "corpus_words": 5734,
+  "in_corpus_or_dict": true
+ },
+ "리": {
+  "kind": "syllable",
+  "corpus_hits": 191291,
+  "corpus_words": 27840,
+  "in_corpus_or_dict": true
+ },
+ "마": {
+  "kind": "syllable",
+  "corpus_hits": 95719,
+  "corpus_words": 11188,
+  "in_corpus_or_dict": true
+ },
+ "먀": {
+  "kind": "syllable",
+  "corpus_hits": 4,
+  "corpus_words": 4,
+  "in_corpus_or_dict": true
+ },
+ "머": {
+  "kind": "syllable",
+  "corpus_hits": 15563,
+  "corpus_words": 2434,
+  "in_corpus_or_dict": true
+ },
+ "며": {
+  "kind": "syllable",
+  "corpus_hits": 5279,
+  "corpus_words": 2265,
+  "in_corpus_or_dict": true
+ },
+ "모": {
+  "kind": "syllable",
+  "corpus_hits": 54021,
+  "corpus_words": 5960,
+  "in_corpus_or_dict": true
+ },
+ "묘": {
+  "kind": "syllable",
+  "corpus_hits": 667,
+  "corpus_words": 271,
+  "in_corpus_or_dict": true
+ },
+ "무": {
+  "kind": "syllable",
+  "corpus_hits": 68764,
+  "corpus_words": 6883,
+  "in_corpus_or_dict": true
+ },
+ "뮤": {
+  "kind": "syllable",
+  "corpus_hits": 374,
+  "corpus_words": 159,
+  "in_corpus_or_dict": true
+ },
+ "므": {
+  "kind": "syllable",
+  "corpus_hits": 250,
+  "corpus_words": 115,
+  "in_corpus_or_dict": true
+ },
+ "미": {
+  "kind": "syllable",
+  "corpus_hits": 41979,
+  "corpus_words": 6924,
+  "in_corpus_or_dict": true
+ },
+ "바": {
+  "kind": "syllable",
+  "corpus_hits": 33632,
+  "corpus_words": 6227,
+  "in_corpus_or_dict": true
+ },
+ "뱌": {
+  "kind": "syllable",
+  "corpus_hits": 1,
+  "corpus_words": 1,
+  "in_corpus_or_dict": true
+ },
+ "버": {
+  "kind": "syllable",
+  "corpus_hits": 30119,
+  "corpus_words": 7466,
+  "in_corpus_or_dict": true
+ },
+ "벼": {
+  "kind": "syllable",
+  "corpus_hits": 623,
+  "corpus_words": 191,
+  "in_corpus_or_dict": true
+ },
+ "보": {
+  "kind": "syllable",
+  "corpus_hits": 90209,
+  "corpus_words": 17641,
+  "in_corpus_or_dict": true
+ },
+ "뵤": {
+  "kind": "syllable",
+  "corpus_hits": 1,
+  "corpus_words": 1,
+  "in_corpus_or_dict": true
+ },
+ "부": {
+  "kind": "syllable",
+  "corpus_hits": 52000,
+  "corpus_words": 13016,
+  "in_corpus_or_dict": true
+ },
+ "뷰": {
+  "kind": "syllable",
+  "corpus_hits": 588,
+  "corpus_words": 141,
+  "in_corpus_or_dict": true
+ },
+ "브": {
+  "kind": "syllable",
+  "corpus_hits": 9507,
+  "corpus_words": 2767,
+  "in_corpus_or_dict": true
+ },
+ "비": {
+  "kind": "syllable",
+  "corpus_hits": 35919,
+  "corpus_words": 8877,
+  "in_corpus_or_dict": true
+ },
+ "빠": {
+  "kind": "syllable",
+  "corpus_hits": 17804,
+  "corpus_words": 1716,
+  "in_corpus_or_dict": true
+ },
+ "뻐": {
+  "kind": "syllable",
+  "corpus_hits": 1058,
+  "corpus_words": 225,
+  "in_corpus_or_dict": true
+ },
+ "뼈": {
+  "kind": "syllable",
+  "corpus_hits": 731,
+  "corpus_words": 200,
+  "in_corpus_or_dict": true
+ },
+ "뽀": {
+  "kind": "syllable",
+  "corpus_hits": 141,
+  "corpus_words": 74,
+  "in_corpus_or_dict": true
+ },
+ "뾰": {
+  "kind": "syllable",
+  "corpus_hits": 92,
+  "corpus_words": 28,
+  "in_corpus_or_dict": true
+ },
+ "뿌": {
+  "kind": "syllable",
+  "corpus_hits": 630,
+  "corpus_words": 301,
+  "in_corpus_or_dict": true
+ },
+ "쀼": {
+  "kind": "syllable",
+  "corpus_hits": 2,
+  "corpus_words": 1,
+  "in_corpus_or_dict": true
+ },
+ "쁘": {
+  "kind": "syllable",
+  "corpus_hits": 2837,
+  "corpus_words": 409,
+  "in_corpus_or_dict": true
+ },
+ "삐": {
+  "kind": "syllable",
+  "corpus_hits": 310,
+  "corpus_words": 168,
+  "in_corpus_or_dict": true
+ },
+ "사": {
+  "kind": "syllable",
+  "corpus_hits": 134918,
+  "corpus_words": 21520,
+  "in_corpus_or_dict": true
+ },
+ "샤": {
+  "kind": "syllable",
+  "corpus_hits": 2186,
+  "corpus_words": 678,
+  "in_corpus_or_dict": true
+ },
+ "서": {
+  "kind": "syllable",
+  "corpus_hits": 155776,
+  "corpus_words": 26521,
+  "in_corpus_or_dict": true
+ },
+ "셔": {
+  "kind": "syllable",
+  "corpus_hits": 6700,
+  "corpus_words": 2129,
+  "in_corpus_or_dict": true
+ },
+ "소": {
+  "kind": "syllable",
+  "corpus_hits": 42873,
+  "corpus_words": 10016,
+  "in_corpus_or_dict": true
+ },
+ "쇼": {
+  "kind": "syllable",
+  "corpus_hits": 2304,
+  "corpus_words": 713,
+  "in_corpus_or_dict": true
+ },
+ "수": {
+  "kind": "syllable",
+  "corpus_hits": 86698,
+  "corpus_words": 13576,
+  "in_corpus_or_dict": true
+ },
+ "슈": {
+  "kind": "syllable",
+  "corpus_hits": 1918,
+  "corpus_words": 671,
+  "in_corpus_or_dict": true
+ },
+ "스": {
+  "kind": "syllable",
+  "corpus_hits": 84926,
+  "corpus_words": 22416,
+  "in_corpus_or_dict": true
+ },
+ "시": {
+  "kind": "syllable",
+  "corpus_hits": 112705,
+  "corpus_words": 25915,
+  "in_corpus_or_dict": true
+ },
+ "싸": {
+  "kind": "syllable",
+  "corpus_hits": 6251,
+  "corpus_words": 1430,
+  "in_corpus_or_dict": true
+ },
+ "쌰": {
+  "kind": "syllable",
+  "corpus_hits": 5,
+  "corpus_words": 3,
+  "in_corpus_or_dict": true
+ },
+ "써": {
+  "kind": "syllable",
+  "corpus_hits": 4800,
+  "corpus_words": 972,
+  "in_corpus_or_dict": true
+ },
+ "쎠": {
+  "kind": "syllable",
+  "corpus_hits": 2,
+  "corpus_words": 2,
+  "in_corpus_or_dict": true
+ },
+ "쏘": {
+  "kind": "syllable",
+  "corpus_hits": 1140,
+  "corpus_words": 267,
+  "in_corpus_or_dict": true
+ },
+ "쑈": {
+  "kind": "syllable",
+  "corpus_hits": 9,
+  "corpus_words": 8,
+  "in_corpus_or_dict": true
+ },
+ "쑤": {
+  "kind": "syllable",
+  "corpus_hits": 223,
+  "corpus_words": 109,
+  "in_corpus_or_dict": true
+ },
+ "쓔": {
+  "kind": "syllable",
+  "corpus_hits": 6,
+  "corpus_words": 1,
+  "in_corpus_or_dict": true
+ },
+ "쓰": {
+  "kind": "syllable",
+  "corpus_hits": 6960,
+  "corpus_words": 1460,
+  "in_corpus_or_dict": true
+ },
+ "씨": {
+  "kind": "syllable",
+  "corpus_hits": 13561,
+  "corpus_words": 2941,
+  "in_corpus_or_dict": true
+ },
+ "자": {
+  "kind": "syllable",
+  "corpus_hits": 129718,
+  "corpus_words": 21720,
+  "in_corpus_or_dict": true
+ },
+ "쟈": {
+  "kind": "syllable",
+  "corpus_hits": 148,
+  "corpus_words": 52,
+  "in_corpus_or_dict": true
+ },
+ "저": {
+  "kind": "syllable",
+  "corpus_hits": 58395,
+  "corpus_words": 3806,
+  "in_corpus_or_dict": true
+ },
+ "져": {
+  "kind": "syllable",
+  "corpus_hits": 14732,
+  "corpus_words": 3209,
+  "in_corpus_or_dict": true
+ },
+ "조": {
+  "kind": "syllable",
+  "corpus_hits": 28545,
+  "corpus_words": 6798,
+  "in_corpus_or_dict": true
+ },
+ "죠": {
+  "kind": "syllable",
+  "corpus_hits": 67690,
+  "corpus_words": 13054,
+  "in_corpus_or_dict": true
+ },
+ "주": {
+  "kind": "syllable",
+  "corpus_hits": 63236,
+  "corpus_words": 14811,
+  "in_corpus_or_dict": true
+ },
+ "쥬": {
+  "kind": "syllable",
+  "corpus_hits": 314,
+  "corpus_words": 120,
+  "in_corpus_or_dict": true
+ },
+ "즈": {
+  "kind": "syllable",
+  "corpus_hits": 5994,
+  "corpus_words": 1989,
+  "in_corpus_or_dict": true
+ },
+ "지": {
+  "kind": "syllable",
+  "corpus_hits": 340158,
+  "corpus_words": 57057,
+  "in_corpus_or_dict": true
+ },
+ "짜": {
+  "kind": "syllable",
+  "corpus_hits": 11339,
+  "corpus_words": 1267,
+  "in_corpus_or_dict": true
+ },
+ "쨔": {
+  "kind": "syllable",
+  "corpus_hits": 7,
+  "corpus_words": 4,
+  "in_corpus_or_dict": true
+ },
+ "쩌": {
+  "kind": "syllable",
+  "corpus_hits": 3351,
+  "corpus_words": 170,
+  "in_corpus_or_dict": true
+ },
+ "쪄": {
+  "kind": "syllable",
+  "corpus_hits": 31,
+  "corpus_words": 25,
+  "in_corpus_or_dict": true
+ },
+ "쪼": {
+  "kind": "syllable",
+  "corpus_hits": 380,
+  "corpus_words": 195,
+  "in_corpus_or_dict": true
+ },
+ "쬬": {
+  "kind": "syllable",
+  "corpus_hits": 7,
+  "corpus_words": 7,
+  "in_corpus_or_dict": true
+ },
+ "쭈": {
+  "kind": "syllable",
+  "corpus_hits": 74,
+  "corpus_words": 38,
+  "in_corpus_or_dict": true
+ },
+ "쮸": {
+  "kind": "syllable",
+  "corpus_hits": 1,
+  "corpus_words": 1,
+  "in_corpus_or_dict": true
+ },
+ "쯔": {
+  "kind": "syllable",
+  "corpus_hits": 32,
+  "corpus_words": 20,
+  "in_corpus_or_dict": true
+ },
+ "찌": {
+  "kind": "syllable",
+  "corpus_hits": 1551,
+  "corpus_words": 479,
+  "in_corpus_or_dict": true
+ },
+ "차": {
+  "kind": "syllable",
+  "corpus_hits": 18313,
+  "corpus_words": 3890,
+  "in_corpus_or_dict": true
+ },
+ "챠": {
+  "kind": "syllable",
+  "corpus_hits": 45,
+  "corpus_words": 30,
+  "in_corpus_or_dict": true
+ },
+ "처": {
+  "kind": "syllable",
+  "corpus_hits": 21604,
+  "corpus_words": 5194,
+  "in_corpus_or_dict": true
+ },
+ "쳐": {
+  "kind": "syllable",
+  "corpus_hits": 7975,
+  "corpus_words": 2333,
+  "in_corpus_or_dict": true
+ },
+ "초": {
+  "kind": "syllable",
+  "corpus_hits": 6326,
+  "corpus_words": 2147,
+  "in_corpus_or_dict": true
+ },
+ "쵸": {
+  "kind": "syllable",
+  "corpus_hits": 229,
+  "corpus_words": 35,
+  "in_corpus_or_dict": true
+ },
+ "추": {
+  "kind": "syllable",
+  "corpus_hits": 8086,
+  "corpus_words": 2687,
+  "in_corpus_or_dict": true
+ },
+ "츄": {
+  "kind": "syllable",
+  "corpus_hits": 128,
+  "corpus_words": 69,
+  "in_corpus_or_dict": true
+ },
+ "츠": {
+  "kind": "syllable",
+  "corpus_hits": 2662,
+  "corpus_words": 951,
+  "in_corpus_or_dict": true
+ },
+ "치": {
+  "kind": "syllable",
+  "corpus_hits": 33432,
+  "corpus_words": 8920,
+  "in_corpus_or_dict": true
+ },
+ "카": {
+  "kind": "syllable",
+  "corpus_hits": 15384,
+  "corpus_words": 4173,
+  "in_corpus_or_dict": true
+ },
+ "캬": {
+  "kind": "syllable",
+  "corpus_hits": 27,
+  "corpus_words": 20,
+  "in_corpus_or_dict": true
+ },
+ "커": {
+  "kind": "syllable",
+  "corpus_hits": 6106,
+  "corpus_words": 1668,
+  "in_corpus_or_dict": true
+ },
+ "켜": {
+  "kind": "syllable",
+  "corpus_hits": 6338,
+  "corpus_words": 1984,
+  "in_corpus_or_dict": true
+ },
+ "코": {
+  "kind": "syllable",
+  "corpus_hits": 10686,
+  "corpus_words": 3250,
+  "in_corpus_or_dict": true
+ },
+ "쿄": {
+  "kind": "syllable",
+  "corpus_hits": 122,
+  "corpus_words": 38,
+  "in_corpus_or_dict": true
+ },
+ "쿠": {
+  "kind": "syllable",
+  "corpus_hits": 2176,
+  "corpus_words": 650,
+  "in_corpus_or_dict": true
+ },
+ "큐": {
+  "kind": "syllable",
+  "corpus_hits": 512,
+  "corpus_words": 188,
+  "in_corpus_or_dict": true
+ },
+ "크": {
+  "kind": "syllable",
+  "corpus_hits": 20738,
+  "corpus_words": 4534,
+  "in_corpus_or_dict": true
+ },
+ "키": {
+  "kind": "syllable",
+  "corpus_hits": 14175,
+  "corpus_words": 4554,
+  "in_corpus_or_dict": true
+ },
+ "타": {
+  "kind": "syllable",
+  "corpus_hits": 18831,
+  "corpus_words": 5215,
+  "in_corpus_or_dict": true
+ },
+ "탸": {
+  "kind": "syllable",
+  "corpus_hits": 1,
+  "corpus_words": 1,
+  "in_corpus_or_dict": true
+ },
+ "터": {
+  "kind": "syllable",
+  "corpus_hits": 27148,
+  "corpus_words": 6453,
+  "in_corpus_or_dict": true
+ },
+ "텨": {
+  "kind": "syllable",
+  "corpus_hits": 260,
+  "corpus_words": 70,
+  "in_corpus_or_dict": true
+ },
+ "토": {
+  "kind": "syllable",
+  "corpus_hits": 8569,
+  "corpus_words": 2719,
+  "in_corpus_or_dict": true
+ },
+ "투": {
+  "kind": "syllable",
+  "corpus_hits": 5170,
+  "corpus_words": 2047,
+  "in_corpus_or_dict": true
+ },
+ "튜": {
+  "kind": "syllable",
+  "corpus_hits": 925,
+  "corpus_words": 196,
+  "in_corpus_or_dict": true
+ },
+ "트": {
+  "kind": "syllable",
+  "corpus_hits": 30027,
+  "corpus_words": 9194,
+  "in_corpus_or_dict": true
+ },
+ "티": {
+  "kind": "syllable",
+  "corpus_hits": 11234,
+  "corpus_words": 2881,
+  "in_corpus_or_dict": true
+ },
+ "파": {
+  "kind": "syllable",
+  "corpus_hits": 17770,
+  "corpus_words": 4954,
+  "in_corpus_or_dict": true
+ },
+ "퍼": {
+  "kind": "syllable",
+  "corpus_hits": 6674,
+  "corpus_words": 1824,
+  "in_corpus_or_dict": true
+ },
+ "펴": {
+  "kind": "syllable",
+  "corpus_hits": 1004,
+  "corpus_words": 278,
+  "in_corpus_or_dict": true
+ },
+ "포": {
+  "kind": "syllable",
+  "corpus_hits": 10896,
+  "corpus_words": 3623,
+  "in_corpus_or_dict": true
+ },
+ "표": {
+  "kind": "syllable",
+  "corpus_hits": 5865,
+  "corpus_words": 1777,
+  "in_corpus_or_dict": true
+ },
+ "푸": {
+  "kind": "syllable",
+  "corpus_hits": 1220,
+  "corpus_words": 509,
+  "in_corpus_or_dict": true
+ },
+ "퓨": {
+  "kind": "syllable",
+  "corpus_hits": 851,
+  "corpus_words": 126,
+  "in_corpus_or_dict": true
+ },
+ "프": {
+  "kind": "syllable",
+  "corpus_hits": 18466,
+  "corpus_words": 5235,
+  "in_corpus_or_dict": true
+ },
+ "피": {
+  "kind": "syllable",
+  "corpus_hits": 18604,
+  "corpus_words": 4449,
+  "in_corpus_or_dict": true
+ },
+ "하": {
+  "kind": "syllable",
+  "corpus_hits": 267979,
+  "corpus_words": 50086,
+  "in_corpus_or_dict": true
+ },
+ "햐": {
+  "kind": "syllable",
+  "corpus_hits": 41,
+  "corpus_words": 14,
+  "in_corpus_or_dict": true
+ },
+ "허": {
+  "kind": "syllable",
+  "corpus_hits": 4604,
+  "corpus_words": 1526,
+  "in_corpus_or_dict": true
+ },
+ "혀": {
+  "kind": "syllable",
+  "corpus_hits": 5571,
+  "corpus_words": 1200,
+  "in_corpus_or_dict": true
+ },
+ "호": {
+  "kind": "syllable",
+  "corpus_hits": 15076,
+  "corpus_words": 4386,
+  "in_corpus_or_dict": true
+ },
+ "효": {
+  "kind": "syllable",
+  "corpus_hits": 1309,
+  "corpus_words": 339,
+  "in_corpus_or_dict": true
+ },
+ "후": {
+  "kind": "syllable",
+  "corpus_hits": 10335,
+  "corpus_words": 2109,
+  "in_corpus_or_dict": true
+ },
+ "휴": {
+  "kind": "syllable",
+  "corpus_hits": 2332,
+  "corpus_words": 555,
+  "in_corpus_or_dict": true
+ },
+ "흐": {
+  "kind": "syllable",
+  "corpus_hits": 886,
+  "corpus_words": 330,
+  "in_corpus_or_dict": true
+ },
+ "히": {
+  "kind": "syllable",
+  "corpus_hits": 26455,
+  "corpus_words": 2048,
+  "in_corpus_or_dict": true
+ },
+ "개": {
+  "kind": "syllable",
+  "corpus_hits": 15445,
+  "corpus_words": 4407,
+  "in_corpus_or_dict": true
+ },
+ "걔": {
+  "kind": "syllable",
+  "corpus_hits": 2882,
+  "corpus_words": 123,
+  "in_corpus_or_dict": true
+ },
+ "게": {
+  "kind": "syllable",
+  "corpus_hits": 172021,
+  "corpus_words": 17897,
+  "in_corpus_or_dict": true
+ },
+ "계": {
+  "kind": "syllable",
+  "corpus_hits": 24783,
+  "corpus_words": 4359,
+  "in_corpus_or_dict": true
+ },
+ "과": {
+  "kind": "syllable",
+  "corpus_hits": 30955,
+  "corpus_words": 8951,
+  "in_corpus_or_dict": true
+ },
+ "괘": {
+  "kind": "syllable",
+  "corpus_hits": 53,
+  "corpus_words": 29,
+  "in_corpus_or_dict": true
+ },
+ "괴": {
+  "kind": "syllable",
+  "corpus_hits": 3671,
+  "corpus_words": 1062,
+  "in_corpus_or_dict": true
+ },
+ "궈": {
+  "kind": "syllable",
+  "corpus_hits": 105,
+  "corpus_words": 69,
+  "in_corpus_or_dict": true
+ },
+ "궤": {
+  "kind": "syllable",
+  "corpus_hits": 218,
+  "corpus_words": 81,
+  "in_corpus_or_dict": true
+ },
+ "귀": {
+  "kind": "syllable",
+  "corpus_hits": 5080,
+  "corpus_words": 1363,
+  "in_corpus_or_dict": true
+ },
+ "긔": {
+  "kind": "syllable",
+  "corpus_hits": 3,
+  "corpus_words": 2,
+  "in_corpus_or_dict": true
+ },
+ "깨": {
+  "kind": "syllable",
+  "corpus_hits": 4163,
+  "corpus_words": 1106,
+  "in_corpus_or_dict": true
+ },
+ "꺠": {
+  "kind": "syllable",
+  "corpus_hits": 7,
+  "corpus_words": 7,
+  "in_corpus_or_dict": true
+ },
+ "께": {
+  "kind": "syllable",
+  "corpus_hits": 11928,
+  "corpus_words": 2309,
+  "in_corpus_or_dict": true
+ },
+ "꼐": {
+  "kind": "syllable",
+  "corpus_hits": 46,
+  "corpus_words": 35,
+  "in_corpus_or_dict": true
+ },
+ "꽈": {
+  "kind": "syllable",
+  "corpus_hits": 14,
+  "corpus_words": 9,
+  "in_corpus_or_dict": true
+ },
+ "꽤": {
+  "kind": "syllable",
+  "corpus_hits": 397,
+  "corpus_words": 17,
+  "in_corpus_or_dict": true
+ },
+ "꾀": {
+  "kind": "syllable",
+  "corpus_hits": 83,
+  "corpus_words": 58,
+  "in_corpus_or_dict": true
+ },
+ "꿔": {
+  "kind": "syllable",
+  "corpus_hits": 975,
+  "corpus_words": 327,
+  "in_corpus_or_dict": true
+ },
+ "꿰": {
+  "kind": "syllable",
+  "corpus_hits": 216,
+  "corpus_words": 101,
+  "in_corpus_or_dict": true
+ },
+ "뀌": {
+  "kind": "syllable",
+  "corpus_hits": 763,
+  "corpus_words": 186,
+  "in_corpus_or_dict": true
+ },
+ "내": {
+  "kind": "syllable",
+  "corpus_hits": 114954,
+  "corpus_words": 8705,
+  "in_corpus_or_dict": true
+ },
+ "네": {
+  "kind": "syllable",
+  "corpus_hits": 101672,
+  "corpus_words": 12701,
+  "in_corpus_or_dict": true
+ },
+ "녜": {
+  "kind": "syllable",
+  "corpus_hits": 922,
+  "corpus_words": 19,
+  "in_corpus_or_dict": true
+ },
+ "놔": {
+  "kind": "syllable",
+  "corpus_hits": 2824,
+  "corpus_words": 651,
+  "in_corpus_or_dict": true
+ },
+ "놰": {
+  "kind": "syllable",
+  "corpus_hits": 2,
+  "corpus_words": 2,
+  "in_corpus_or_dict": true
+ },
+ "뇌": {
+  "kind": "syllable",
+  "corpus_hits": 1844,
+  "corpus_words": 542,
+  "in_corpus_or_dict": true
+ },
+ "눠": {
+  "kind": "syllable",
+  "corpus_hits": 418,
+  "corpus_words": 144,
+  "in_corpus_or_dict": true
+ },
+ "눼": {
+  "kind": "syllable",
+  "corpus_hits": 1,
+  "corpus_words": 1,
+  "in_corpus_or_dict": true
+ },
+ "뉘": {
+  "kind": "syllable",
+  "corpus_hits": 117,
+  "corpus_words": 66,
+  "in_corpus_or_dict": true
+ },
+ "늬": {
+  "kind": "syllable",
+  "corpus_hits": 119,
+  "corpus_words": 50,
+  "in_corpus_or_dict": true
+ },
+ "대": {
+  "kind": "syllable",
+  "corpus_hits": 76043,
+  "corpus_words": 14605,
+  "in_corpus_or_dict": true
+ },
+ "데": {
+  "kind": "syllable",
+  "corpus_hits": 86585,
+  "corpus_words": 15579,
+  "in_corpus_or_dict": true
+ },
+ "뎨": {
+  "kind": "syllable",
+  "corpus_hits": 1,
+  "corpus_words": 1,
+  "in_corpus_or_dict": true
+ },
+ "돠": {
+  "kind": "syllable",
+  "corpus_hits": 12,
+  "corpus_words": 12,
+  "in_corpus_or_dict": true
+ },
+ "돼": {
+  "kind": "syllable",
+  "corpus_hits": 27076,
+  "corpus_words": 1514,
+  "in_corpus_or_dict": true
+ },
+ "되": {
+  "kind": "syllable",
+  "corpus_hits": 33583,
+  "corpus_words": 7182,
+  "in_corpus_or_dict": true
+ },
+ "둬": {
+  "kind": "syllable",
+  "corpus_hits": 1738,
+  "corpus_words": 402,
+  "in_corpus_or_dict": true
+ },
+ "뒈": {
+  "kind": "syllable",
+  "corpus_hits": 112,
+  "corpus_words": 34,
+  "in_corpus_or_dict": true
+ },
+ "뒤": {
+  "kind": "syllable",
+  "corpus_hits": 5733,
+  "corpus_words": 977,
+  "in_corpus_or_dict": true
+ },
+ "듸": {
+  "kind": "syllable",
+  "corpus_hits": 1,
+  "corpus_words": 1,
+  "in_corpus_or_dict": true
+ },
+ "때": {
+  "kind": "syllable",
+  "corpus_hits": 36225,
+  "corpus_words": 3890,
+  "in_corpus_or_dict": true
+ },
+ "떄": {
+  "kind": "syllable",
+  "corpus_hits": 101,
+  "corpus_words": 47,
+  "in_corpus_or_dict": true
+ },
+ "떼": {
+  "kind": "syllable",
+  "corpus_hits": 1007,
+  "corpus_words": 451,
+  "in_corpus_or_dict": true
+ },
+ "뗴": {
+  "kind": "syllable",
+  "corpus_hits": 1,
+  "corpus_words": 1,
+  "in_corpus_or_dict": true
+ },
+ "똬": {
+  "kind": "syllable",
+  "corpus_hits": 1,
+  "corpus_words": 1,
+  "in_corpus_or_dict": true
+ },
+ "뙈": {
+  "kind": "syllable",
+  "corpus_hits": 1,
+  "corpus_words": 1,
+  "in_corpus_or_dict": true
+ },
+ "뙤": {
+  "kind": "syllable",
+  "corpus_hits": 2,
+  "corpus_words": 1,
+  "in_corpus_or_dict": true
+ },
+ "뛰": {
+  "kind": "syllable",
+  "corpus_hits": 2607,
+  "corpus_words": 640,
+  "in_corpus_or_dict": true
+ },
+ "띄": {
+  "kind": "syllable",
+  "corpus_hits": 455,
+  "corpus_words": 152,
+  "in_corpus_or_dict": true
+ },
+ "래": {
+  "kind": "syllable",
+  "corpus_hits": 69528,
+  "corpus_words": 5684,
+  "in_corpus_or_dict": true
+ },
+ "레": {
+  "kind": "syllable",
+  "corpus_hits": 22314,
+  "corpus_words": 5836,
+  "in_corpus_or_dict": true
+ },
+ "례": {
+  "kind": "syllable",
+  "corpus_hits": 3448,
+  "corpus_words": 569,
+  "in_corpus_or_dict": true
+ },
+ "롸": {
+  "kind": "syllable",
+  "corpus_hits": 8,
+  "corpus_words": 8,
+  "in_corpus_or_dict": true
+ },
+ "뢔": {
+  "kind": "syllable",
+  "corpus_hits": 2,
+  "corpus_words": 2,
+  "in_corpus_or_dict": true
+ },
+ "뢰": {
+  "kind": "syllable",
+  "corpus_hits": 1038,
+  "corpus_words": 301,
+  "in_corpus_or_dict": true
+ },
+ "뤄": {
+  "kind": "syllable",
+  "corpus_hits": 488,
+  "corpus_words": 228,
+  "in_corpus_or_dict": true
+ },
+ "뤠": {
+  "kind": "syllable",
+  "corpus_hits": 1,
+  "corpus_words": 1,
+  "in_corpus_or_dict": true
+ },
+ "뤼": {
+  "kind": "syllable",
+  "corpus_hits": 84,
+  "corpus_words": 36,
+  "in_corpus_or_dict": true
+ },
+ "릐": {
+  "kind": "syllable",
+  "corpus_hits": 3,
+  "corpus_words": 2,
+  "in_corpus_or_dict": true
+ },
+ "매": {
+  "kind": "syllable",
+  "corpus_hits": 10844,
+  "corpus_words": 2537,
+  "in_corpus_or_dict": true
+ },
+ "메": {
+  "kind": "syllable",
+  "corpus_hits": 9669,
+  "corpus_words": 2177,
+  "in_corpus_or_dict": true
+ },
+ "뫄": {
+  "kind": "syllable",
+  "corpus_hits": 3,
+  "corpus_words": 2,
+  "in_corpus_or_dict": true
+ },
+ "뫼": {
+  "kind": "syllable",
+  "corpus_hits": 19,
+  "corpus_words": 7,
+  "in_corpus_or_dict": true
+ },
+ "뭐": {
+  "kind": "syllable",
+  "corpus_hits": 24990,
+  "corpus_words": 803,
+  "in_corpus_or_dict": true
+ },
+ "뭬": {
+  "kind": "syllable",
+  "corpus_hits": 1,
+  "corpus_words": 1,
+  "in_corpus_or_dict": true
+ },
+ "뮈": {
+  "kind": "syllable",
+  "corpus_hits": 13,
+  "corpus_words": 11,
+  "in_corpus_or_dict": true
+ },
+ "배": {
+  "kind": "syllable",
+  "corpus_hits": 14025,
+  "corpus_words": 3588,
+  "in_corpus_or_dict": true
+ },
+ "베": {
+  "kind": "syllable",
+  "corpus_hits": 8533,
+  "corpus_words": 2283,
+  "in_corpus_or_dict": true
+ },
+ "봐": {
+  "kind": "syllable",
+  "corpus_hits": 27066,
+  "corpus_words": 3810,
+  "in_corpus_or_dict": true
+ },
+ "봬": {
+  "kind": "syllable",
+  "corpus_hits": 86,
+  "corpus_words": 12,
+  "in_corpus_or_dict": true
+ },
+ "뵈": {
+  "kind": "syllable",
+  "corpus_hits": 220,
+  "corpus_words": 80,
+  "in_corpus_or_dict": true
+ },
+ "뷔": {
+  "kind": "syllable",
+  "corpus_hits": 66,
+  "corpus_words": 37,
+  "in_corpus_or_dict": true
+ },
+ "븨": {
+  "kind": "syllable",
+  "corpus_hits": 14,
+  "corpus_words": 7,
+  "in_corpus_or_dict": true
+ },
+ "빼": {
+  "kind": "syllable",
+  "corpus_hits": 2660,
+  "corpus_words": 732,
+  "in_corpus_or_dict": true
+ },
+ "뺴": {
+  "kind": "syllable",
+  "corpus_hits": 8,
+  "corpus_words": 7,
+  "in_corpus_or_dict": true
+ },
+ "뻬": {
+  "kind": "syllable",
+  "corpus_hits": 15,
+  "corpus_words": 11,
+  "in_corpus_or_dict": true
+ },
+ "뽜": {
+  "kind": "syllable",
+  "corpus_hits": 1,
+  "corpus_words": 1,
+  "in_corpus_or_dict": true
+ },
+ "새": {
+  "kind": "syllable",
+  "corpus_hits": 12998,
+  "corpus_words": 1903,
+  "in_corpus_or_dict": true
+ },
+ "섀": {
+  "kind": "syllable",
+  "corpus_hits": 68,
+  "corpus_words": 42,
+  "in_corpus_or_dict": true
+ },
+ "세": {
+  "kind": "syllable",
+  "corpus_hits": 54409,
+  "corpus_words": 7333,
+  "in_corpus_or_dict": true
+ },
+ "셰": {
+  "kind": "syllable",
+  "corpus_hits": 1100,
+  "corpus_words": 247,
+  "in_corpus_or_dict": true
+ },
+ "솨": {
+  "kind": "syllable",
+  "corpus_hits": 8,
+  "corpus_words": 6,
+  "in_corpus_or_dict": true
+ },
+ "쇄": {
+  "kind": "syllable",
+  "corpus_hits": 921,
+  "corpus_words": 413,
+  "in_corpus_or_dict": true
+ },
+ "쇠": {
+  "kind": "syllable",
+  "corpus_hits": 1407,
+  "corpus_words": 313,
+  "in_corpus_or_dict": true
+ },
+ "숴": {
+  "kind": "syllable",
+  "corpus_hits": 166,
+  "corpus_words": 84,
+  "in_corpus_or_dict": true
+ },
+ "쉐": {
+  "kind": "syllable",
+  "corpus_hits": 828,
+  "corpus_words": 183,
+  "in_corpus_or_dict": true
+ },
+ "쉬": {
+  "kind": "syllable",
+  "corpus_hits": 4449,
+  "corpus_words": 1045,
+  "in_corpus_or_dict": true
+ },
+ "쌔": {
+  "kind": "syllable",
+  "corpus_hits": 63,
+  "corpus_words": 37,
+  "in_corpus_or_dict": true
+ },
+ "쎄": {
+  "kind": "syllable",
+  "corpus_hits": 2131,
+  "corpus_words": 53,
+  "in_corpus_or_dict": true
+ },
+ "쎼": {
+  "kind": "syllable",
+  "corpus_hits": 16,
+  "corpus_words": 4,
+  "in_corpus_or_dict": true
+ },
+ "쏴": {
+  "kind": "syllable",
+  "corpus_hits": 467,
+  "corpus_words": 145,
+  "in_corpus_or_dict": true
+ },
+ "쐐": {
+  "kind": "syllable",
+  "corpus_hits": 19,
+  "corpus_words": 12,
+  "in_corpus_or_dict": true
+ },
+ "쐬": {
+  "kind": "syllable",
+  "corpus_hits": 100,
+  "corpus_words": 42,
+  "in_corpus_or_dict": true
+ },
+ "쒀": {
+  "kind": "syllable",
+  "corpus_hits": 7,
+  "corpus_words": 4,
+  "in_corpus_or_dict": true
+ },
+ "쒸": {
+  "kind": "syllable",
+  "corpus_hits": 3,
+  "corpus_words": 3,
+  "in_corpus_or_dict": true
+ },
+ "씌": {
+  "kind": "syllable",
+  "corpus_hits": 282,
+  "corpus_words": 171,
+  "in_corpus_or_dict": true
+ },
+ "재": {
+  "kind": "syllable",
+  "corpus_hits": 13769,
+  "corpus_words": 3778,
+  "in_corpus_or_dict": true
+ },
+ "쟤": {
+  "kind": "syllable",
+  "corpus_hits": 1275,
+  "corpus_words": 96,
+  "in_corpus_or_dict": true
+ },
+ "제": {
+  "kind": "syllable",
+  "corpus_hits": 86055,
+  "corpus_words": 7499,
+  "in_corpus_or_dict": true
+ },
+ "졔": {
+  "kind": "syllable",
+  "corpus_hits": 1,
+  "corpus_words": 1,
+  "in_corpus_or_dict": true
+ },
+ "좌": {
+  "kind": "syllable",
+  "corpus_hits": 1424,
+  "corpus_words": 496,
+  "in_corpus_or_dict": true
+ },
+ "죄": {
+  "kind": "syllable",
+  "corpus_hits": 8152,
+  "corpus_words": 983,
+  "in_corpus_or_dict": true
+ },
+ "줘": {
+  "kind": "syllable",
+  "corpus_hits": 13736,
+  "corpus_words": 2066,
+  "in_corpus_or_dict": true
+ },
+ "줴": {
+  "kind": "syllable",
+  "corpus_hits": 2,
+  "corpus_words": 2,
+  "in_corpus_or_dict": true
+ },
+ "쥐": {
+  "kind": "syllable",
+  "corpus_hits": 1501,
+  "corpus_words": 489,
+  "in_corpus_or_dict": true
+ },
+ "째": {
+  "kind": "syllable",
+  "corpus_hits": 4499,
+  "corpus_words": 782,
+  "in_corpus_or_dict": true
+ },
+ "쨰": {
+  "kind": "syllable",
+  "corpus_hits": 10,
+  "corpus_words": 8,
+  "in_corpus_or_dict": true
+ },
+ "쩨": {
+  "kind": "syllable",
+  "corpus_hits": 30,
+  "corpus_words": 7,
+  "in_corpus_or_dict": true
+ },
+ "쫘": {
+  "kind": "syllable",
+  "corpus_hits": 2,
+  "corpus_words": 2,
+  "in_corpus_or_dict": true
+ },
+ "쫴": {
+  "kind": "syllable",
+  "corpus_hits": 1,
+  "corpus_words": 1,
+  "in_corpus_or_dict": true
+ },
+ "쬐": {
+  "kind": "syllable",
+  "corpus_hits": 65,
+  "corpus_words": 32,
+  "in_corpus_or_dict": true
+ },
+ "쭤": {
+  "kind": "syllable",
+  "corpus_hits": 186,
+  "corpus_words": 60,
+  "in_corpus_or_dict": true
+ },
+ "쮜": {
+  "kind": "syllable",
+  "corpus_hits": 1,
+  "corpus_words": 1,
+  "in_corpus_or_dict": true
+ },
+ "채": {
+  "kind": "syllable",
+  "corpus_hits": 3340,
+  "corpus_words": 1222,
+  "in_corpus_or_dict": true
+ },
+ "체": {
+  "kind": "syllable",
+  "corpus_hits": 13507,
+  "corpus_words": 3018,
+  "in_corpus_or_dict": true
+ },
+ "쵀": {
+  "kind": "syllable",
+  "corpus_hits": 2,
+  "corpus_words": 2,
+  "in_corpus_or_dict": true
+ },
+ "최": {
+  "kind": "syllable",
+  "corpus_hits": 8555,
+  "corpus_words": 1035,
+  "in_corpus_or_dict": true
+ },
+ "춰": {
+  "kind": "syllable",
+  "corpus_hits": 2620,
+  "corpus_words": 474,
+  "in_corpus_or_dict": true
+ },
+ "췌": {
+  "kind": "syllable",
+  "corpus_hits": 92,
+  "corpus_words": 47,
+  "in_corpus_or_dict": true
+ },
+ "취": {
+  "kind": "syllable",
+  "corpus_hits": 3973,
+  "corpus_words": 1517,
+  "in_corpus_or_dict": true
+ },
+ "캐": {
+  "kind": "syllable",
+  "corpus_hits": 2827,
+  "corpus_words": 820,
+  "in_corpus_or_dict": true
+ },
+ "케": {
+  "kind": "syllable",
+  "corpus_hits": 5967,
+  "corpus_words": 1432,
+  "in_corpus_or_dict": true
+ },
+ "켸": {
+  "kind": "syllable",
+  "corpus_hits": 1,
+  "corpus_words": 1,
+  "in_corpus_or_dict": true
+ },
+ "콰": {
+  "kind": "syllable",
+  "corpus_hits": 51,
+  "corpus_words": 36,
+  "in_corpus_or_dict": true
+ },
+ "쾌": {
+  "kind": "syllable",
+  "corpus_hits": 452,
+  "corpus_words": 176,
+  "in_corpus_or_dict": true
+ },
+ "쾨": {
+  "kind": "syllable",
+  "corpus_hits": 24,
+  "corpus_words": 15,
+  "in_corpus_or_dict": true
+ },
+ "쿼": {
+  "kind": "syllable",
+  "corpus_hits": 121,
+  "corpus_words": 72,
+  "in_corpus_or_dict": true
+ },
+ "퀘": {
+  "kind": "syllable",
+  "corpus_hits": 100,
+  "corpus_words": 49,
+  "in_corpus_or_dict": true
+ },
+ "퀴": {
+  "kind": "syllable",
+  "corpus_hits": 503,
+  "corpus_words": 224,
+  "in_corpus_or_dict": true
+ },
+ "태": {
+  "kind": "syllable",
+  "corpus_hits": 8286,
+  "corpus_words": 2226,
+  "in_corpus_or_dict": true
+ },
+ "테": {
+  "kind": "syllable",
+  "corpus_hits": 31071,
+  "corpus_words": 6565,
+  "in_corpus_or_dict": true
+ },
+ "퇘": {
+  "kind": "syllable",
+  "corpus_hits": 7,
+  "corpus_words": 6,
+  "in_corpus_or_dict": true
+ },
+ "퇴": {
+  "kind": "syllable",
+  "corpus_hits": 1524,
+  "corpus_words": 734,
+  "in_corpus_or_dict": true
+ },
+ "퉈": {
+  "kind": "syllable",
+  "corpus_hits": 4,
+  "corpus_words": 4,
+  "in_corpus_or_dict": true
+ },
+ "퉤": {
+  "kind": "syllable",
+  "corpus_hits": 2,
+  "corpus_words": 1,
+  "in_corpus_or_dict": true
+ },
+ "튀": {
+  "kind": "syllable",
+  "corpus_hits": 580,
+  "corpus_words": 222,
+  "in_corpus_or_dict": true
+ },
+ "틔": {
+  "kind": "syllable",
+  "corpus_hits": 4,
+  "corpus_words": 4,
+  "in_corpus_or_dict": true
+ },
+ "패": {
+  "kind": "syllable",
+  "corpus_hits": 4094,
+  "corpus_words": 1424,
+  "in_corpus_or_dict": true
+ },
+ "페": {
+  "kind": "syllable",
+  "corpus_hits": 3988,
+  "corpus_words": 1370,
+  "in_corpus_or_dict": true
+ },
+ "폐": {
+  "kind": "syllable",
+  "corpus_hits": 2275,
+  "corpus_words": 766,
+  "in_corpus_or_dict": true
+ },
+ "퐈": {
+  "kind": "syllable",
+  "corpus_hits": 3,
+  "corpus_words": 3,
+  "in_corpus_or_dict": true
+ },
+ "풔": {
+  "kind": "syllable",
+  "corpus_hits": 1,
+  "corpus_words": 1,
+  "in_corpus_or_dict": true
+ },
+ "퓌": {
+  "kind": "syllable",
+  "corpus_hits": 6,
+  "corpus_words": 6,
+  "in_corpus_or_dict": true
+ },
+ "해": {
+  "kind": "syllable",
+  "corpus_hits": 181017,
+  "corpus_words": 26974,
+  "in_corpus_or_dict": true
+ },
+ "햬": {
+  "kind": "syllable",
+  "corpus_hits": 2,
+  "corpus_words": 1,
+  "in_corpus_or_dict": true
+ },
+ "헤": {
+  "kind": "syllable",
+  "corpus_hits": 4365,
+  "corpus_words": 1165,
+  "in_corpus_or_dict": true
+ },
+ "혜": {
+  "kind": "syllable",
+  "corpus_hits": 596,
+  "corpus_words": 177,
+  "in_corpus_or_dict": true
+ },
+ "화": {
+  "kind": "syllable",
+  "corpus_hits": 23739,
+  "corpus_words": 5827,
+  "in_corpus_or_dict": true
+ },
+ "홰": {
+  "kind": "syllable",
+  "corpus_hits": 0,
+  "corpus_words": 0,
+  "in_corpus_or_dict": true
+ },
+ "회": {
+  "kind": "syllable",
+  "corpus_hits": 12435,
+  "corpus_words": 3392,
+  "in_corpus_or_dict": true
+ },
+ "훠": {
+  "kind": "syllable",
+  "corpus_hits": 21,
+  "corpus_words": 5,
+  "in_corpus_or_dict": true
+ },
+ "훼": {
+  "kind": "syllable",
+  "corpus_hits": 93,
+  "corpus_words": 63,
+  "in_corpus_or_dict": true
+ },
+ "휘": {
+  "kind": "syllable",
+  "corpus_hits": 1180,
+  "corpus_words": 527,
+  "in_corpus_or_dict": true
+ },
+ "희": {
+  "kind": "syllable",
+  "corpus_hits": 11392,
+  "corpus_words": 999,
+  "in_corpus_or_dict": true
+ },
+ "각": {
+  "kind": "syllable",
+  "corpus_hits": 31570,
+  "corpus_words": 3229,
+  "in_corpus_or_dict": true
+ },
+ "간": {
+  "kind": "syllable",
+  "corpus_hits": 34478,
+  "corpus_words": 5660,
+  "in_corpus_or_dict": true
+ },
+ "갈": {
+  "kind": "syllable",
+  "corpus_hits": 13918,
+  "corpus_words": 2155,
+  "in_corpus_or_dict": true
+ },
+ "감": {
+  "kind": "syllable",
+  "corpus_hits": 19824,
+  "corpus_words": 4369,
+  "in_corpus_or_dict": true
+ },
+ "갑": {
+  "kind": "syllable",
+  "corpus_hits": 4719,
+  "corpus_words": 590,
+  "in_corpus_or_dict": true
+ },
+ "강": {
+  "kind": "syllable",
+  "corpus_hits": 6883,
+  "corpus_words": 2078,
+  "in_corpus_or_dict": true
+ },
+ "같": {
+  "kind": "syllable",
+  "corpus_hits": 42561,
+  "corpus_words": 3739,
+  "in_corpus_or_dict": true
+ },
+ "건": {
+  "kind": "syllable",
+  "corpus_hits": 58410,
+  "corpus_words": 6732,
+  "in_corpus_or_dict": true
+ },
+ "걸": {
+  "kind": "syllable",
+  "corpus_hits": 41225,
+  "corpus_words": 5780,
+  "in_corpus_or_dict": true
+ },
+ "검": {
+  "kind": "syllable",
+  "corpus_hits": 4085,
+  "corpus_words": 1302,
+  "in_corpus_or_dict": true
+ },
+ "겁": {
+  "kind": "syllable",
+  "corpus_hits": 10703,
+  "corpus_words": 1534,
+  "in_corpus_or_dict": true
+ },
+ "견": {
+  "kind": "syllable",
+  "corpus_hits": 4597,
+  "corpus_words": 1160,
+  "in_corpus_or_dict": true
+ },
+ "결": {
+  "kind": "syllable",
+  "corpus_hits": 16390,
+  "corpus_words": 3243,
+  "in_corpus_or_dict": true
+ },
+ "겸": {
+  "kind": "syllable",
+  "corpus_hits": 283,
+  "corpus_words": 109,
+  "in_corpus_or_dict": true
+ },
+ "격": {
+  "kind": "syllable",
+  "corpus_hits": 7613,
+  "corpus_words": 2265,
+  "in_corpus_or_dict": true
+ },
+ "곁": {
+  "kind": "syllable",
+  "corpus_hits": 717,
+  "corpus_words": 47,
+  "in_corpus_or_dict": true
+ },
+ "곤": {
+  "kind": "syllable",
+  "corpus_hits": 3968,
+  "corpus_words": 1362,
+  "in_corpus_or_dict": true
+ },
+ "골": {
+  "kind": "syllable",
+  "corpus_hits": 3653,
+  "corpus_words": 1360,
+  "in_corpus_or_dict": true
+ },
+ "곰": {
+  "kind": "syllable",
+  "corpus_hits": 426,
+  "corpus_words": 134,
+  "in_corpus_or_dict": true
+ },
+ "곱": {
+  "kind": "syllable",
+  "corpus_hits": 518,
+  "corpus_words": 162,
+  "in_corpus_or_dict": true
+ },
+ "공": {
+  "kind": "syllable",
+  "corpus_hits": 17509,
+  "corpus_words": 5136,
+  "in_corpus_or_dict": true
+ },
+ "관": {
+  "kind": "syllable",
+  "corpus_hits": 19512,
+  "corpus_words": 5189,
+  "in_corpus_or_dict": true
+ },
+ "괄": {
+  "kind": "syllable",
+  "corpus_hits": 68,
+  "corpus_words": 35,
+  "in_corpus_or_dict": true
+ },
+ "광": {
+  "kind": "syllable",
+  "corpus_hits": 3202,
+  "corpus_words": 1166,
+  "in_corpus_or_dict": true
+ },
+ "국": {
+  "kind": "syllable",
+  "corpus_hits": 12395,
+  "corpus_words": 2736,
+  "in_corpus_or_dict": true
+ },
+ "군": {
+  "kind": "syllable",
+  "corpus_hits": 36327,
+  "corpus_words": 9995,
+  "in_corpus_or_dict": true
+ },
+ "굴": {
+  "kind": "syllable",
+  "corpus_hits": 5611,
+  "corpus_words": 917,
+  "in_corpus_or_dict": true
+ },
+ "굽": {
+  "kind": "syllable",
+  "corpus_hits": 292,
+  "corpus_words": 112,
+  "in_corpus_or_dict": true
+ },
+ "궁": {
+  "kind": "syllable",
+  "corpus_hits": 2304,
+  "corpus_words": 610,
+  "in_corpus_or_dict": true
+ },
+ "극": {
+  "kind": "syllable",
+  "corpus_hits": 2291,
+  "corpus_words": 830,
+  "in_corpus_or_dict": true
+ },
+ "근": {
+  "kind": "syllable",
+  "corpus_hits": 11861,
+  "corpus_words": 1648,
+  "in_corpus_or_dict": true
+ },
+ "글": {
+  "kind": "syllable",
+  "corpus_hits": 6161,
+  "corpus_words": 1135,
+  "in_corpus_or_dict": true
+ },
+ "금": {
+  "kind": "syllable",
+  "corpus_hits": 33129,
+  "corpus_words": 2649,
+  "in_corpus_or_dict": true
+ },
+ "급": {
+  "kind": "syllable",
+  "corpus_hits": 5034,
+  "corpus_words": 1817,
+  "in_corpus_or_dict": true
+ },
+ "긍": {
+  "kind": "syllable",
+  "corpus_hits": 239,
+  "corpus_words": 75,
+  "in_corpus_or_dict": true
+ },
+ "긴": {
+  "kind": "syllable",
+  "corpus_hits": 12473,
+  "corpus_words": 2282,
+  "in_corpus_or_dict": true
+ },
+ "길": {
+  "kind": "syllable",
+  "corpus_hits": 15270,
+  "corpus_words": 2987,
+  "in_corpus_or_dict": true
+ },
+ "김": {
+  "kind": "syllable",
+  "corpus_hits": 1036,
+  "corpus_words": 431,
+  "in_corpus_or_dict": true
+ },
+ "난": {
+  "kind": "syllable",
+  "corpus_hits": 48836,
+  "corpus_words": 2382,
+  "in_corpus_or_dict": true
+ },
+ "날": {
+  "kind": "syllable",
+  "corpus_hits": 25547,
+  "corpus_words": 2433,
+  "in_corpus_or_dict": true
+ },
+ "남": {
+  "kind": "syllable",
+  "corpus_hits": 20783,
+  "corpus_words": 3040,
+  "in_corpus_or_dict": true
+ },
+ "납": {
+  "kind": "syllable",
+  "corpus_hits": 1590,
+  "corpus_words": 568,
+  "in_corpus_or_dict": true
+ },
+ "낭": {
+  "kind": "syllable",
+  "corpus_hits": 1173,
+  "corpus_words": 435,
+  "in_corpus_or_dict": true
+ },
+ "냉": {
+  "kind": "syllable",
+  "corpus_hits": 693,
+  "corpus_words": 299,
+  "in_corpus_or_dict": true
+ },
+ "넌": {
+  "kind": "syllable",
+  "corpus_hits": 13560,
+  "corpus_words": 106,
+  "in_corpus_or_dict": true
+ },
+ "널": {
+  "kind": "syllable",
+  "corpus_hits": 7641,
+  "corpus_words": 350,
+  "in_corpus_or_dict": true
+ },
+ "넘": {
+  "kind": "syllable",
+  "corpus_hits": 3884,
+  "corpus_words": 1164,
+  "in_corpus_or_dict": true
+ },
+ "년": {
+  "kind": "syllable",
+  "corpus_hits": 12848,
+  "corpus_words": 3286,
+  "in_corpus_or_dict": true
+ },
+ "념": {
+  "kind": "syllable",
+  "corpus_hits": 951,
+  "corpus_words": 370,
+  "in_corpus_or_dict": true
+ },
+ "녕": {
+  "kind": "syllable",
+  "corpus_hits": 9892,
+  "corpus_words": 168,
+  "in_corpus_or_dict": true
+ },
+ "녹": {
+  "kind": "syllable",
+  "corpus_hits": 1176,
+  "corpus_words": 471,
+  "in_corpus_or_dict": true
+ },
+ "논": {
+  "kind": "syllable",
+  "corpus_hits": 1460,
+  "corpus_words": 470,
+  "in_corpus_or_dict": true
+ },
+ "놀": {
+  "kind": "syllable",
+  "corpus_hits": 5688,
+  "corpus_words": 1392,
+  "in_corpus_or_dict": true
+ },
+ "농": {
+  "kind": "syllable",
+  "corpus_hits": 2529,
+  "corpus_words": 613,
+  "in_corpus_or_dict": true
+ },
+ "눈": {
+  "kind": "syllable",
+  "corpus_hits": 6219,
+  "corpus_words": 803,
+  "in_corpus_or_dict": true
+ },
+ "눌": {
+  "kind": "syllable",
+  "corpus_hits": 518,
+  "corpus_words": 164,
+  "in_corpus_or_dict": true
+ },
+ "늑": {
+  "kind": "syllable",
+  "corpus_hits": 603,
+  "corpus_words": 158,
+  "in_corpus_or_dict": true
+ },
+ "능": {
+  "kind": "syllable",
+  "corpus_hits": 6992,
+  "corpus_words": 1225,
+  "in_corpus_or_dict": true
+ },
+ "닉": {
+  "kind": "syllable",
+  "corpus_hits": 1417,
+  "corpus_words": 306,
+  "in_corpus_or_dict": true
+ },
+ "닌": {
+  "kind": "syllable",
+  "corpus_hits": 4558,
+  "corpus_words": 384,
+  "in_corpus_or_dict": true
+ },
+ "닐": {
+  "kind": "syllable",
+  "corpus_hits": 2079,
+  "corpus_words": 313,
+  "in_corpus_or_dict": true
+ },
+ "님": {
+  "kind": "syllable",
+  "corpus_hits": 26934,
+  "corpus_words": 3550,
+  "in_corpus_or_dict": true
+ },
+ "닙": {
+  "kind": "syllable",
+  "corpus_hits": 1864,
+  "corpus_words": 27,
+  "in_corpus_or_dict": true
+ },
+ "닝": {
+  "kind": "syllable",
+  "corpus_hits": 532,
+  "corpus_words": 247,
+  "in_corpus_or_dict": true
+ },
+ "단": {
+  "kind": "syllable",
+  "corpus_hits": 23270,
+  "corpus_words": 6123,
+  "in_corpus_or_dict": true
+ },
+ "달": {
+  "kind": "syllable",
+  "corpus_hits": 14732,
+  "corpus_words": 4102,
+  "in_corpus_or_dict": true
+ },
+ "담": {
+  "kind": "syllable",
+  "corpus_hits": 6680,
+  "corpus_words": 1833,
+  "in_corpus_or_dict": true
+ },
+ "답": {
+  "kind": "syllable",
+  "corpus_hits": 5417,
+  "corpus_words": 1434,
+  "in_corpus_or_dict": true
+ },
+ "당": {
+  "kind": "syllable",
+  "corpus_hits": 63020,
+  "corpus_words": 4238,
+  "in_corpus_or_dict": true
+ },
+ "덕": {
+  "kind": "syllable",
+  "corpus_hits": 1885,
+  "corpus_words": 471,
+  "in_corpus_or_dict": true
+ },
+ "던": {
+  "kind": "syllable",
+  "corpus_hits": 23820,
+  "corpus_words": 7431,
+  "in_corpus_or_dict": true
+ },
+ "덜": {
+  "kind": "syllable",
+  "corpus_hits": 818,
+  "corpus_words": 242,
+  "in_corpus_or_dict": true
+ },
+ "덤": {
+  "kind": "syllable",
+  "corpus_hits": 859,
+  "corpus_words": 238,
+  "in_corpus_or_dict": true
+ },
+ "덥": {
+  "kind": "syllable",
+  "corpus_hits": 134,
+  "corpus_words": 60,
+  "in_corpus_or_dict": true
+ },
+ "덩": {
+  "kind": "syllable",
+  "corpus_hits": 1600,
+  "corpus_words": 463,
+  "in_corpus_or_dict": true
+ },
+ "독": {
+  "kind": "syllable",
+  "corpus_hits": 5558,
+  "corpus_words": 1925,
+  "in_corpus_or_dict": true
+ },
+ "돈": {
+  "kind": "syllable",
+  "corpus_hits": 7002,
+  "corpus_words": 594,
+  "in_corpus_or_dict": true
+ },
+ "돌": {
+  "kind": "syllable",
+  "corpus_hits": 17916,
+  "corpus_words": 3404,
+  "in_corpus_or_dict": true
+ },
+ "동": {
+  "kind": "syllable",
+  "corpus_hits": 27930,
+  "corpus_words": 6793,
+  "in_corpus_or_dict": true
+ },
+ "둑": {
+  "kind": "syllable",
+  "corpus_hits": 789,
+  "corpus_words": 290,
+  "in_corpus_or_dict": true
+ },
+ "둔": {
+  "kind": "syllable",
+  "corpus_hits": 902,
+  "corpus_words": 369,
+  "in_corpus_or_dict": true
+ },
+ "둘": {
+  "kind": "syllable",
+  "corpus_hits": 9186,
+  "corpus_words": 841,
+  "in_corpus_or_dict": true
+ },
+ "둠": {
+  "kind": "syllable",
+  "corpus_hits": 646,
+  "corpus_words": 57,
+  "in_corpus_or_dict": true
+ },
+ "둥": {
+  "kind": "syllable",
+  "corpus_hits": 1394,
+  "corpus_words": 468,
+  "in_corpus_or_dict": true
+ },
+ "득": {
+  "kind": "syllable",
+  "corpus_hits": 1800,
+  "corpus_words": 590,
+  "in_corpus_or_dict": true
+ },
+ "든": {
+  "kind": "syllable",
+  "corpus_hits": 36429,
+  "corpus_words": 6667,
+  "in_corpus_or_dict": true
+ },
+ "들": {
+  "kind": "syllable",
+  "corpus_hits": 142625,
+  "corpus_words": 25621,
+  "in_corpus_or_dict": true
+ },
+ "듬": {
+  "kind": "syllable",
+  "corpus_hits": 341,
+  "corpus_words": 176,
+  "in_corpus_or_dict": true
+ },
+ "듭": {
+  "kind": "syllable",
+  "corpus_hits": 262,
+  "corpus_words": 88,
+  "in_corpus_or_dict": true
+ },
+ "등": {
+  "kind": "syllable",
+  "corpus_hits": 3477,
+  "corpus_words": 1182,
+  "in_corpus_or_dict": true
+ },
+ "딘": {
+  "kind": "syllable",
+  "corpus_hits": 1576,
+  "corpus_words": 219,
+  "in_corpus_or_dict": true
+ },
+ "딜": {
+  "kind": "syllable",
+  "corpus_hits": 1507,
+  "corpus_words": 229,
+  "in_corpus_or_dict": true
+ },
+ "락": {
+  "kind": "syllable",
+  "corpus_hits": 6414,
+  "corpus_words": 1764,
+  "in_corpus_or_dict": true
+ },
+ "란": {
+  "kind": "syllable",
+  "corpus_hits": 12115,
+  "corpus_words": 4687,
+  "in_corpus_or_dict": true
+ },
+ "랄": {
+  "kind": "syllable",
+  "corpus_hits": 2191,
+  "corpus_words": 523,
+  "in_corpus_or_dict": true
+ },
+ "람": {
+  "kind": "syllable",
+  "corpus_hits": 38821,
+  "corpus_words": 2145,
+  "in_corpus_or_dict": true
+ },
+ "랍": {
+  "kind": "syllable",
+  "corpus_hits": 1676,
+  "corpus_words": 445,
+  "in_corpus_or_dict": true
+ },
+ "랑": {
+  "kind": "syllable",
+  "corpus_hits": 30153,
+  "corpus_words": 6145,
+  "in_corpus_or_dict": true
+ },
+ "랙": {
+  "kind": "syllable",
+  "corpus_hits": 923,
+  "corpus_words": 272,
+  "in_corpus_or_dict": true
+ },
+ "량": {
+  "kind": "syllable",
+  "corpus_hits": 1790,
+  "corpus_words": 712,
+  "in_corpus_or_dict": true
+ },
+ "럭": {
+  "kind": "syllable",
+  "corpus_hits": 1161,
+  "corpus_words": 230,
+  "in_corpus_or_dict": true
+ },
+ "력": {
+  "kind": "syllable",
+  "corpus_hits": 9431,
+  "corpus_words": 2369,
+  "in_corpus_or_dict": true
+ },
+ "련": {
+  "kind": "syllable",
+  "corpus_hits": 3458,
+  "corpus_words": 994,
+  "in_corpus_or_dict": true
+ },
+ "렬": {
+  "kind": "syllable",
+  "corpus_hits": 357,
+  "corpus_words": 118,
+  "in_corpus_or_dict": true
+ },
+ "렴": {
+  "kind": "syllable",
+  "corpus_hits": 2426,
+  "corpus_words": 535,
+  "in_corpus_or_dict": true
+ },
+ "렵": {
+  "kind": "syllable",
+  "corpus_hits": 1089,
+  "corpus_words": 241,
+  "in_corpus_or_dict": true
+ },
+ "령": {
+  "kind": "syllable",
+  "corpus_hits": 5828,
+  "corpus_words": 1196,
+  "in_corpus_or_dict": true
+ },
+ "록": {
+  "kind": "syllable",
+  "corpus_hits": 9449,
+  "corpus_words": 2441,
+  "in_corpus_or_dict": true
+ },
+ "론": {
+  "kind": "syllable",
+  "corpus_hits": 8429,
+  "corpus_words": 1436,
+  "in_corpus_or_dict": true
+ },
+ "롤": {
+  "kind": "syllable",
+  "corpus_hits": 1622,
+  "corpus_words": 456,
+  "in_corpus_or_dict": true
+ },
+ "룡": {
+  "kind": "syllable",
+  "corpus_hits": 350,
+  "corpus_words": 115,
+  "in_corpus_or_dict": true
+ },
+ "룩": {
+  "kind": "syllable",
+  "corpus_hits": 662,
+  "corpus_words": 275,
+  "in_corpus_or_dict": true
+ },
+ "륜": {
+  "kind": "syllable",
+  "corpus_hits": 145,
+  "corpus_words": 69,
+  "in_corpus_or_dict": true
+ },
+ "률": {
+  "kind": "syllable",
+  "corpus_hits": 578,
+  "corpus_words": 205,
+  "in_corpus_or_dict": true
+ },
+ "륭": {
+  "kind": "syllable",
+  "corpus_hits": 1570,
+  "corpus_words": 87,
+  "in_corpus_or_dict": true
+ },
+ "륵": {
+  "kind": "syllable",
+  "corpus_hits": 24,
+  "corpus_words": 17,
+  "in_corpus_or_dict": true
+ },
+ "른": {
+  "kind": "syllable",
+  "corpus_hits": 17460,
+  "corpus_words": 1250,
+  "in_corpus_or_dict": true
+ },
+ "를": {
+  "kind": "syllable",
+  "corpus_hits": 116863,
+  "corpus_words": 14422,
+  "in_corpus_or_dict": true
+ },
+ "름": {
+  "kind": "syllable",
+  "corpus_hits": 11314,
+  "corpus_words": 1291,
+  "in_corpus_or_dict": true
+ },
+ "릅": {
+  "kind": "syllable",
+  "corpus_hits": 669,
+  "corpus_words": 90,
+  "in_corpus_or_dict": true
+ },
+ "릉": {
+  "kind": "syllable",
+  "corpus_hits": 105,
+  "corpus_words": 41,
+  "in_corpus_or_dict": true
+ },
+ "린": {
+  "kind": "syllable",
+  "corpus_hits": 22711,
+  "corpus_words": 3306,
+  "in_corpus_or_dict": true
+ },
+ "릴": {
+  "kind": "syllable",
+  "corpus_hits": 14164,
+  "corpus_words": 2491,
+  "in_corpus_or_dict": true
+ },
+ "림": {
+  "kind": "syllable",
+  "corpus_hits": 3972,
+  "corpus_words": 1096,
+  "in_corpus_or_dict": true
+ },
+ "립": {
+  "kind": "syllable",
+  "corpus_hits": 3128,
+  "corpus_words": 918,
+  "in_corpus_or_dict": true
+ },
+ "막": {
+  "kind": "syllable",
+  "corpus_hits": 10148,
+  "corpus_words": 1726,
+  "in_corpus_or_dict": true
+ },
+ "만": {
+  "kind": "syllable",
+  "corpus_hits": 112725,
+  "corpus_words": 19691,
+  "in_corpus_or_dict": true
+ },
+ "말": {
+  "kind": "syllable",
+  "corpus_hits": 108060,
+  "corpus_words": 6772,
+  "in_corpus_or_dict": true
+ },
+ "맘": {
+  "kind": "syllable",
+  "corpus_hits": 1936,
+  "corpus_words": 198,
+  "in_corpus_or_dict": true
+ },
+ "맙": {
+  "kind": "syllable",
+  "corpus_hits": 5687,
+  "corpus_words": 132,
+  "in_corpus_or_dict": true
+ },
+ "망": {
+  "kind": "syllable",
+  "corpus_hits": 12088,
+  "corpus_words": 3012,
+  "in_corpus_or_dict": true
+ },
+ "맥": {
+  "kind": "syllable",
+  "corpus_hits": 3952,
+  "corpus_words": 1157,
+  "in_corpus_or_dict": true
+ },
+ "먹": {
+  "kind": "syllable",
+  "corpus_hits": 13666,
+  "corpus_words": 2837,
+  "in_corpus_or_dict": true
+ },
+ "먼": {
+  "kind": "syllable",
+  "corpus_hits": 5413,
+  "corpus_words": 865,
+  "in_corpus_or_dict": true
+ },
+ "멀": {
+  "kind": "syllable",
+  "corpus_hits": 2592,
+  "corpus_words": 549,
+  "in_corpus_or_dict": true
+ },
+ "멍": {
+  "kind": "syllable",
+  "corpus_hits": 3289,
+  "corpus_words": 533,
+  "in_corpus_or_dict": true
+ },
+ "면": {
+  "kind": "syllable",
+  "corpus_hits": 90687,
+  "corpus_words": 15719,
+  "in_corpus_or_dict": true
+ },
+ "멸": {
+  "kind": "syllable",
+  "corpus_hits": 676,
+  "corpus_words": 400,
+  "in_corpus_or_dict": true
+ },
+ "명": {
+  "kind": "syllable",
+  "corpus_hits": 22812,
+  "corpus_words": 5119,
+  "in_corpus_or_dict": true
+ },
+ "목": {
+  "kind": "syllable",
+  "corpus_hits": 8903,
+  "corpus_words": 1807,
+  "in_corpus_or_dict": true
+ },
+ "몰": {
+  "kind": "syllable",
+  "corpus_hits": 11284,
+  "corpus_words": 1072,
+  "in_corpus_or_dict": true
+ },
+ "몸": {
+  "kind": "syllable",
+  "corpus_hits": 3450,
+  "corpus_words": 406,
+  "in_corpus_or_dict": true
+ },
+ "못": {
+  "kind": "syllable",
+  "corpus_hits": 29018,
+  "corpus_words": 2876,
+  "in_corpus_or_dict": true
+ },
+ "몽": {
+  "kind": "syllable",
+  "corpus_hits": 1068,
+  "corpus_words": 320,
+  "in_corpus_or_dict": true
+ },
+ "묵": {
+  "kind": "syllable",
+  "corpus_hits": 582,
+  "corpus_words": 259,
+  "in_corpus_or_dict": true
+ },
+ "문": {
+  "kind": "syllable",
+  "corpus_hits": 32357,
+  "corpus_words": 5012,
+  "in_corpus_or_dict": true
+ },
+ "물": {
+  "kind": "syllable",
+  "corpus_hits": 27172,
+  "corpus_words": 5411,
+  "in_corpus_or_dict": true
+ },
+ "뭉": {
+  "kind": "syllable",
+  "corpus_hits": 361,
+  "corpus_words": 194,
+  "in_corpus_or_dict": true
+ },
+ "민": {
+  "kind": "syllable",
+  "corpus_hits": 3977,
+  "corpus_words": 1459,
+  "in_corpus_or_dict": true
+ },
+ "밀": {
+  "kind": "syllable",
+  "corpus_hits": 5920,
+  "corpus_words": 1727,
+  "in_corpus_or_dict": true
+ },
+ "밉": {
+  "kind": "syllable",
+  "corpus_hits": 27,
+  "corpus_words": 21,
+  "in_corpus_or_dict": true
+ },
+ "및": {
+  "kind": "syllable",
+  "corpus_hits": 311,
+  "corpus_words": 11,
+  "in_corpus_or_dict": true
+ },
+ "박": {
+  "kind": "syllable",
+  "corpus_hits": 8164,
+  "corpus_words": 2439,
+  "in_corpus_or_dict": true
+ },
+ "반": {
+  "kind": "syllable",
+  "corpus_hits": 12610,
+  "corpus_words": 3385,
+  "in_corpus_or_dict": true
+ },
+ "발": {
+  "kind": "syllable",
+  "corpus_hits": 21538,
+  "corpus_words": 4398,
+  "in_corpus_or_dict": true
+ },
+ "밤": {
+  "kind": "syllable",
+  "corpus_hits": 7343,
+  "corpus_words": 546,
+  "in_corpus_or_dict": true
+ },
+ "밥": {
+  "kind": "syllable",
+  "corpus_hits": 1682,
+  "corpus_words": 323,
+  "in_corpus_or_dict": true
+ },
+ "방": {
+  "kind": "syllable",
+  "corpus_hits": 24048,
+  "corpus_words": 4866,
+  "in_corpus_or_dict": true
+ },
+ "밭": {
+  "kind": "syllable",
+  "corpus_hits": 240,
+  "corpus_words": 127,
+  "in_corpus_or_dict": true
+ },
+ "백": {
+  "kind": "syllable",
+  "corpus_hits": 4768,
+  "corpus_words": 1688,
+  "in_corpus_or_dict": true
+ },
+ "번": {
+  "kind": "syllable",
+  "corpus_hits": 20779,
+  "corpus_words": 2462,
+  "in_corpus_or_dict": true
+ },
+ "벌": {
+  "kind": "syllable",
+  "corpus_hits": 6111,
+  "corpus_words": 1447,
+  "in_corpus_or_dict": true
+ },
+ "범": {
+  "kind": "syllable",
+  "corpus_hits": 5488,
+  "corpus_words": 1469,
+  "in_corpus_or_dict": true
+ },
+ "법": {
+  "kind": "syllable",
+  "corpus_hits": 10397,
+  "corpus_words": 1987,
+  "in_corpus_or_dict": true
+ },
+ "벽": {
+  "kind": "syllable",
+  "corpus_hits": 3824,
+  "corpus_words": 580,
+  "in_corpus_or_dict": true
+ },
+ "변": {
+  "kind": "syllable",
+  "corpus_hits": 7178,
+  "corpus_words": 1844,
+  "in_corpus_or_dict": true
+ },
+ "별": {
+  "kind": "syllable",
+  "corpus_hits": 7234,
+  "corpus_words": 1075,
+  "in_corpus_or_dict": true
+ },
+ "병": {
+  "kind": "syllable",
+  "corpus_hits": 8990,
+  "corpus_words": 2374,
+  "in_corpus_or_dict": true
+ },
+ "복": {
+  "kind": "syllable",
+  "corpus_hits": 10142,
+  "corpus_words": 3222,
+  "in_corpus_or_dict": true
+ },
+ "본": {
+  "kind": "syllable",
+  "corpus_hits": 9629,
+  "corpus_words": 1856,
+  "in_corpus_or_dict": true
+ },
+ "볼": {
+  "kind": "syllable",
+  "corpus_hits": 9121,
+  "corpus_words": 1708,
+  "in_corpus_or_dict": true
+ },
+ "봄": {
+  "kind": "syllable",
+  "corpus_hits": 210,
+  "corpus_words": 64,
+  "in_corpus_or_dict": true
+ },
+ "봉": {
+  "kind": "syllable",
+  "corpus_hits": 1620,
+  "corpus_words": 846,
+  "in_corpus_or_dict": true
+ },
+ "북": {
+  "kind": "syllable",
+  "corpus_hits": 1823,
+  "corpus_words": 549,
+  "in_corpus_or_dict": true
+ },
+ "분": {
+  "kind": "syllable",
+  "corpus_hits": 31051,
+  "corpus_words": 5104,
+  "in_corpus_or_dict": true
+ },
+ "불": {
+  "kind": "syllable",
+  "corpus_hits": 15113,
+  "corpus_words": 4217,
+  "in_corpus_or_dict": true
+ },
+ "붕": {
+  "kind": "syllable",
+  "corpus_hits": 567,
+  "corpus_words": 154,
+  "in_corpus_or_dict": true
+ },
+ "빈": {
+  "kind": "syllable",
+  "corpus_hits": 2881,
+  "corpus_words": 711,
+  "in_corpus_or_dict": true
+ },
+ "빌": {
+  "kind": "syllable",
+  "corpus_hits": 4052,
+  "corpus_words": 822,
+  "in_corpus_or_dict": true
+ },
+ "빔": {
+  "kind": "syllable",
+  "corpus_hits": 67,
+  "corpus_words": 23,
+  "in_corpus_or_dict": true
+ },
+ "빕": {
+  "kind": "syllable",
+  "corpus_hits": 118,
+  "corpus_words": 9,
+  "in_corpus_or_dict": true
+ },
+ "빛": {
+  "kind": "syllable",
+  "corpus_hits": 1651,
+  "corpus_words": 320,
+  "in_corpus_or_dict": true
+ },
+ "삭": {
+  "kind": "syllable",
+  "corpus_hits": 502,
+  "corpus_words": 250,
+  "in_corpus_or_dict": true
+ },
+ "산": {
+  "kind": "syllable",
+  "corpus_hits": 8547,
+  "corpus_words": 2936,
+  "in_corpus_or_dict": true
+ },
+ "살": {
+  "kind": "syllable",
+  "corpus_hits": 23791,
+  "corpus_words": 5480,
+  "in_corpus_or_dict": true
+ },
+ "삼": {
+  "kind": "syllable",
+  "corpus_hits": 2531,
+  "corpus_words": 828,
+  "in_corpus_or_dict": true
+ },
+ "삽": {
+  "kind": "syllable",
+  "corpus_hits": 491,
+  "corpus_words": 216,
+  "in_corpus_or_dict": true
+ },
+ "상": {
+  "kind": "syllable",
+  "corpus_hits": 51557,
+  "corpus_words": 9426,
+  "in_corpus_or_dict": true
+ },
+ "색": {
+  "kind": "syllable",
+  "corpus_hits": 4098,
+  "corpus_words": 1482,
+  "in_corpus_or_dict": true
+ },
+ "생": {
+  "kind": "syllable",
+  "corpus_hits": 53497,
+  "corpus_words": 6516,
+  "in_corpus_or_dict": true
+ },
+ "석": {
+  "kind": "syllable",
+  "corpus_hits": 6667,
+  "corpus_words": 1833,
+  "in_corpus_or_dict": true
+ },
+ "선": {
+  "kind": "syllable",
+  "corpus_hits": 25879,
+  "corpus_words": 6285,
+  "in_corpus_or_dict": true
+ },
+ "설": {
+  "kind": "syllable",
+  "corpus_hits": 8104,
+  "corpus_words": 2344,
+  "in_corpus_or_dict": true
+ },
+ "섬": {
+  "kind": "syllable",
+  "corpus_hits": 1340,
+  "corpus_words": 413,
+  "in_corpus_or_dict": true
+ },
+ "섭": {
+  "kind": "syllable",
+  "corpus_hits": 1114,
+  "corpus_words": 319,
+  "in_corpus_or_dict": true
+ },
+ "성": {
+  "kind": "syllable",
+  "corpus_hits": 17945,
+  "corpus_words": 5889,
+  "in_corpus_or_dict": true
+ },
+ "셈": {
+  "kind": "syllable",
+  "corpus_hits": 631,
+  "corpus_words": 153,
+  "in_corpus_or_dict": true
+ },
+ "셋": {
+  "kind": "syllable",
+  "corpus_hits": 1357,
+  "corpus_words": 184,
+  "in_corpus_or_dict": true
+ },
+ "속": {
+  "kind": "syllable",
+  "corpus_hits": 19098,
+  "corpus_words": 3006,
+  "in_corpus_or_dict": true
+ },
+ "손": {
+  "kind": "syllable",
+  "corpus_hits": 9855,
+  "corpus_words": 1631,
+  "in_corpus_or_dict": true
+ },
+ "솔": {
+  "kind": "syllable",
+  "corpus_hits": 2168,
+  "corpus_words": 430,
+  "in_corpus_or_dict": true
+ },
+ "솜": {
+  "kind": "syllable",
+  "corpus_hits": 232,
+  "corpus_words": 79,
+  "in_corpus_or_dict": true
+ },
+ "송": {
+  "kind": "syllable",
+  "corpus_hits": 7109,
+  "corpus_words": 1249,
+  "in_corpus_or_dict": true
+ },
+ "숙": {
+  "kind": "syllable",
+  "corpus_hits": 3189,
+  "corpus_words": 979,
+  "in_corpus_or_dict": true
+ },
+ "순": {
+  "kind": "syllable",
+  "corpus_hits": 7191,
+  "corpus_words": 1329,
+  "in_corpus_or_dict": true
+ },
+ "술": {
+  "kind": "syllable",
+  "corpus_hits": 13261,
+  "corpus_words": 2703,
+  "in_corpus_or_dict": true
+ },
+ "숨": {
+  "kind": "syllable",
+  "corpus_hits": 5775,
+  "corpus_words": 945,
+  "in_corpus_or_dict": true
+ },
+ "숭": {
+  "kind": "syllable",
+  "corpus_hits": 636,
+  "corpus_words": 212,
+  "in_corpus_or_dict": true
+ },
+ "슬": {
+  "kind": "syllable",
+  "corpus_hits": 3941,
+  "corpus_words": 1190,
+  "in_corpus_or_dict": true
+ },
+ "슴": {
+  "kind": "syllable",
+  "corpus_hits": 1374,
+  "corpus_words": 251,
+  "in_corpus_or_dict": true
+ },
+ "습": {
+  "kind": "syllable",
+  "corpus_hits": 38755,
+  "corpus_words": 6017,
+  "in_corpus_or_dict": true
+ },
+ "승": {
+  "kind": "syllable",
+  "corpus_hits": 3792,
+  "corpus_words": 1441,
+  "in_corpus_or_dict": true
+ },
+ "식": {
+  "kind": "syllable",
+  "corpus_hits": 18025,
+  "corpus_words": 4220,
+  "in_corpus_or_dict": true
+ },
+ "신": {
+  "kind": "syllable",
+  "corpus_hits": 88810,
+  "corpus_words": 10169,
+  "in_corpus_or_dict": true
+ },
+ "실": {
+  "kind": "syllable",
+  "corpus_hits": 36762,
+  "corpus_words": 7239,
+  "in_corpus_or_dict": true
+ },
+ "심": {
+  "kind": "syllable",
+  "corpus_hits": 20357,
+  "corpus_words": 4050,
+  "in_corpus_or_dict": true
+ },
+ "십": {
+  "kind": "syllable",
+  "corpus_hits": 5328,
+  "corpus_words": 1543,
+  "in_corpus_or_dict": true
+ },
+ "악": {
+  "kind": "syllable",
+  "corpus_hits": 7332,
+  "corpus_words": 1688,
+  "in_corpus_or_dict": true
+ },
+ "안": {
+  "kind": "syllable",
+  "corpus_hits": 101336,
+  "corpus_words": 9585,
+  "in_corpus_or_dict": true
+ },
+ "알": {
+  "kind": "syllable",
+  "corpus_hits": 67290,
+  "corpus_words": 4309,
+  "in_corpus_or_dict": true
+ },
+ "암": {
+  "kind": "syllable",
+  "corpus_hits": 2892,
+  "corpus_words": 955,
+  "in_corpus_or_dict": true
+ },
+ "압": {
+  "kind": "syllable",
+  "corpus_hits": 2457,
+  "corpus_words": 696,
+  "in_corpus_or_dict": true
+ },
+ "앙": {
+  "kind": "syllable",
+  "corpus_hits": 1099,
+  "corpus_words": 386,
+  "in_corpus_or_dict": true
+ },
+ "액": {
+  "kind": "syllable",
+  "corpus_hits": 1745,
+  "corpus_words": 577,
+  "in_corpus_or_dict": true
+ },
+ "약": {
+  "kind": "syllable",
+  "corpus_hits": 17388,
+  "corpus_words": 2817,
+  "in_corpus_or_dict": true
+ },
+ "양": {
+  "kind": "syllable",
+  "corpus_hits": 10078,
+  "corpus_words": 2631,
+  "in_corpus_or_dict": true
+ },
+ "억": {
+  "kind": "syllable",
+  "corpus_hits": 7332,
+  "corpus_words": 1192,
+  "in_corpus_or_dict": true
+ },
+ "언": {
+  "kind": "syllable",
+  "corpus_hits": 12694,
+  "corpus_words": 1872,
+  "in_corpus_or_dict": true
+ },
+ "얼": {
+  "kind": "syllable",
+  "corpus_hits": 12868,
+  "corpus_words": 1048,
+  "in_corpus_or_dict": true
+ },
+ "엄": {
+  "kind": "syllable",
+  "corpus_hits": 19098,
+  "corpus_words": 944,
+  "in_corpus_or_dict": true
+ },
+ "업": {
+  "kind": "syllable",
+  "corpus_hits": 6690,
+  "corpus_words": 2287,
+  "in_corpus_or_dict": true
+ },
+ "엉": {
+  "kind": "syllable",
+  "corpus_hits": 1743,
+  "corpus_words": 354,
+  "in_corpus_or_dict": true
+ },
+ "염": {
+  "kind": "syllable",
+  "corpus_hits": 2817,
+  "corpus_words": 997,
+  "in_corpus_or_dict": true
+ },
+ "엽": {
+  "kind": "syllable",
+  "corpus_hits": 764,
+  "corpus_words": 208,
+  "in_corpus_or_dict": true
+ },
+ "영": {
+  "kind": "syllable",
+  "corpus_hits": 15281,
+  "corpus_words": 3294,
+  "in_corpus_or_dict": true
+ },
+ "옥": {
+  "kind": "syllable",
+  "corpus_hits": 3506,
+  "corpus_words": 720,
+  "in_corpus_or_dict": true
+ },
+ "온": {
+  "kind": "syllable",
+  "corpus_hits": 11139,
+  "corpus_words": 1620,
+  "in_corpus_or_dict": true
+ },
+ "올": {
+  "kind": "syllable",
+  "corpus_hits": 13238,
+  "corpus_words": 2297,
+  "in_corpus_or_dict": true
+ },
+ "옴": {
+  "kind": "syllable",
+  "corpus_hits": 84,
+  "corpus_words": 46,
+  "in_corpus_or_dict": true
+ },
+ "옵": {
+  "kind": "syllable",
+  "corpus_hits": 554,
+  "corpus_words": 188,
+  "in_corpus_or_dict": true
+ },
+ "옹": {
+  "kind": "syllable",
+  "corpus_hits": 332,
+  "corpus_words": 150,
+  "in_corpus_or_dict": true
+ },
+ "완": {
+  "kind": "syllable",
+  "corpus_hits": 7711,
+  "corpus_words": 924,
+  "in_corpus_or_dict": true
+ },
+ "왕": {
+  "kind": "syllable",
+  "corpus_hits": 5404,
+  "corpus_words": 1201,
+  "in_corpus_or_dict": true
+ },
+ "욕": {
+  "kind": "syllable",
+  "corpus_hits": 2792,
+  "corpus_words": 728,
+  "in_corpus_or_dict": true
+ },
+ "울": {
+  "kind": "syllable",
+  "corpus_hits": 8652,
+  "corpus_words": 2143,
+  "in_corpus_or_dict": true
+ },
+ "움": {
+  "kind": "syllable",
+  "corpus_hits": 8492,
+  "corpus_words": 1123,
+  "in_corpus_or_dict": true
+ },
+ "웁": {
+  "kind": "syllable",
+  "corpus_hits": 114,
+  "corpus_words": 44,
+  "in_corpus_or_dict": true
+ },
+ "웅": {
+  "kind": "syllable",
+  "corpus_hits": 1130,
+  "corpus_words": 303,
+  "in_corpus_or_dict": true
+ },
+ "원": {
+  "kind": "syllable",
+  "corpus_hits": 30323,
+  "corpus_words": 6534,
+  "in_corpus_or_dict": true
+ },
+ "월": {
+  "kind": "syllable",
+  "corpus_hits": 4634,
+  "corpus_words": 1196,
+  "in_corpus_or_dict": true
+ },
+ "육": {
+  "kind": "syllable",
+  "corpus_hits": 1968,
+  "corpus_words": 796,
+  "in_corpus_or_dict": true
+ },
+ "윤": {
+  "kind": "syllable",
+  "corpus_hits": 365,
+  "corpus_words": 171,
+  "in_corpus_or_dict": true
+ },
+ "율": {
+  "kind": "syllable",
+  "corpus_hits": 511,
+  "corpus_words": 268,
+  "in_corpus_or_dict": true
+ },
+ "융": {
+  "kind": "syllable",
+  "corpus_hits": 231,
+  "corpus_words": 138,
+  "in_corpus_or_dict": true
+ },
+ "을": {
+  "kind": "syllable",
+  "corpus_hits": 229488,
+  "corpus_words": 26954,
+  "in_corpus_or_dict": true
+ },
+ "음": {
+  "kind": "syllable",
+  "corpus_hits": 27744,
+  "corpus_words": 3216,
+  "in_corpus_or_dict": true
+ },
+ "읍": {
+  "kind": "syllable",
+  "corpus_hits": 170,
+  "corpus_words": 75,
+  "in_corpus_or_dict": true
+ },
+ "응": {
+  "kind": "syllable",
+  "corpus_hits": 10245,
+  "corpus_words": 1028,
+  "in_corpus_or_dict": true
+ },
+ "익": {
+  "kind": "syllable",
+  "corpus_hits": 1832,
+  "corpus_words": 643,
+  "in_corpus_or_dict": true
+ },
+ "인": {
+  "kind": "syllable",
+  "corpus_hits": 77445,
+  "corpus_words": 22519,
+  "in_corpus_or_dict": true
+ },
+ "일": {
+  "kind": "syllable",
+  "corpus_hits": 85439,
+  "corpus_words": 12827,
+  "in_corpus_or_dict": true
+ },
+ "임": {
+  "kind": "syllable",
+  "corpus_hits": 10549,
+  "corpus_words": 2708,
+  "in_corpus_or_dict": true
+ },
+ "입": {
+  "kind": "syllable",
+  "corpus_hits": 28052,
+  "corpus_words": 8519,
+  "in_corpus_or_dict": true
+ },
+ "있": {
+  "kind": "syllable",
+  "corpus_hits": 166144,
+  "corpus_words": 9612,
+  "in_corpus_or_dict": true
+ },
+ "잊": {
+  "kind": "syllable",
+  "corpus_hits": 3083,
+  "corpus_words": 507,
+  "in_corpus_or_dict": true
+ },
+ "작": {
+  "kind": "syllable",
+  "corpus_hits": 18737,
+  "corpus_words": 3566,
+  "in_corpus_or_dict": true
+ },
+ "잔": {
+  "kind": "syllable",
+  "corpus_hits": 4330,
+  "corpus_words": 926,
+  "in_corpus_or_dict": true
+ },
+ "잘": {
+  "kind": "syllable",
+  "corpus_hits": 29098,
+  "corpus_words": 2104,
+  "in_corpus_or_dict": true
+ },
+ "잠": {
+  "kind": "syllable",
+  "corpus_hits": 13748,
+  "corpus_words": 1052,
+  "in_corpus_or_dict": true
+ },
+ "잡": {
+  "kind": "syllable",
+  "corpus_hits": 10980,
+  "corpus_words": 2392,
+  "in_corpus_or_dict": true
+ },
+ "장": {
+  "kind": "syllable",
+  "corpus_hits": 50252,
+  "corpus_words": 10565,
+  "in_corpus_or_dict": true
+ },
+ "적": {
+  "kind": "syllable",
+  "corpus_hits": 30056,
+  "corpus_words": 7081,
+  "in_corpus_or_dict": true
+ },
+ "전": {
+  "kind": "syllable",
+  "corpus_hits": 71680,
+  "corpus_words": 9682,
+  "in_corpus_or_dict": true
+ },
+ "절": {
+  "kind": "syllable",
+  "corpus_hits": 13180,
+  "corpus_words": 2526,
+  "in_corpus_or_dict": true
+ },
+ "점": {
+  "kind": "syllable",
+  "corpus_hits": 7084,
+  "corpus_words": 1978,
+  "in_corpus_or_dict": true
+ },
+ "접": {
+  "kind": "syllable",
+  "corpus_hits": 5004,
+  "corpus_words": 1114,
+  "in_corpus_or_dict": true
+ },
+ "정": {
+  "kind": "syllable",
+  "corpus_hits": 64681,
+  "corpus_words": 10209,
+  "in_corpus_or_dict": true
+ },
+ "족": {
+  "kind": "syllable",
+  "corpus_hits": 7631,
+  "corpus_words": 1528,
+  "in_corpus_or_dict": true
+ },
+ "존": {
+  "kind": "syllable",
+  "corpus_hits": 6112,
+  "corpus_words": 1072,
+  "in_corpus_or_dict": true
+ },
+ "졸": {
+  "kind": "syllable",
+  "corpus_hits": 1367,
+  "corpus_words": 446,
+  "in_corpus_or_dict": true
+ },
+ "종": {
+  "kind": "syllable",
+  "corpus_hits": 7453,
+  "corpus_words": 2177,
+  "in_corpus_or_dict": true
+ },
+ "죽": {
+  "kind": "syllable",
+  "corpus_hits": 27855,
+  "corpus_words": 2648,
+  "in_corpus_or_dict": true
+ },
+ "준": {
+  "kind": "syllable",
+  "corpus_hits": 11490,
+  "corpus_words": 2150,
+  "in_corpus_or_dict": true
+ },
+ "줄": {
+  "kind": "syllable",
+  "corpus_hits": 22861,
+  "corpus_words": 3872,
+  "in_corpus_or_dict": true
+ },
+ "줍": {
+  "kind": "syllable",
+  "corpus_hits": 265,
+  "corpus_words": 105,
+  "in_corpus_or_dict": true
+ },
+ "중": {
+  "kind": "syllable",
+  "corpus_hits": 25958,
+  "corpus_words": 5269,
+  "in_corpus_or_dict": true
+ },
+ "즉": {
+  "kind": "syllable",
+  "corpus_hits": 957,
+  "corpus_words": 101,
+  "in_corpus_or_dict": true
+ },
+ "즐": {
+  "kind": "syllable",
+  "corpus_hits": 2575,
+  "corpus_words": 588,
+  "in_corpus_or_dict": true
+ },
+ "즘": {
+  "kind": "syllable",
+  "corpus_hits": 1275,
+  "corpus_words": 120,
+  "in_corpus_or_dict": true
+ },
+ "즙": {
+  "kind": "syllable",
+  "corpus_hits": 58,
+  "corpus_words": 38,
+  "in_corpus_or_dict": true
+ },
+ "증": {
+  "kind": "syllable",
+  "corpus_hits": 7592,
+  "corpus_words": 2528,
+  "in_corpus_or_dict": true
+ },
+ "직": {
+  "kind": "syllable",
+  "corpus_hits": 21653,
+  "corpus_words": 2437,
+  "in_corpus_or_dict": true
+ },
+ "진": {
+  "kind": "syllable",
+  "corpus_hits": 39783,
+  "corpus_words": 6949,
+  "in_corpus_or_dict": true
+ },
+ "질": {
+  "kind": "syllable",
+  "corpus_hits": 14177,
+  "corpus_words": 4197,
+  "in_corpus_or_dict": true
+ },
+ "짐": {
+  "kind": "syllable",
+  "corpus_hits": 2069,
+  "corpus_words": 431,
+  "in_corpus_or_dict": true
+ },
+ "집": {
+  "kind": "syllable",
+  "corpus_hits": 19537,
+  "corpus_words": 3142,
+  "in_corpus_or_dict": true
+ },
+ "짓": {
+  "kind": "syllable",
+  "corpus_hits": 8931,
+  "corpus_words": 1201,
+  "in_corpus_or_dict": true
+ },
+ "착": {
+  "kind": "syllable",
+  "corpus_hits": 5270,
+  "corpus_words": 1416,
+  "in_corpus_or_dict": true
+ },
+ "찬": {
+  "kind": "syllable",
+  "corpus_hits": 2639,
+  "corpus_words": 648,
+  "in_corpus_or_dict": true
+ },
+ "찰": {
+  "kind": "syllable",
+  "corpus_hits": 6181,
+  "corpus_words": 1132,
+  "in_corpus_or_dict": true
+ },
+ "참": {
+  "kind": "syllable",
+  "corpus_hits": 7305,
+  "corpus_words": 1326,
+  "in_corpus_or_dict": true
+ },
+ "창": {
+  "kind": "syllable",
+  "corpus_hits": 4073,
+  "corpus_words": 1352,
+  "in_corpus_or_dict": true
+ },
+ "책": {
+  "kind": "syllable",
+  "corpus_hits": 5665,
+  "corpus_words": 1204,
+  "in_corpus_or_dict": true
+ },
+ "척": {
+  "kind": "syllable",
+  "corpus_hits": 2643,
+  "corpus_words": 741,
+  "in_corpus_or_dict": true
+ },
+ "천": {
+  "kind": "syllable",
+  "corpus_hits": 6219,
+  "corpus_words": 1914,
+  "in_corpus_or_dict": true
+ },
+ "철": {
+  "kind": "syllable",
+  "corpus_hits": 2290,
+  "corpus_words": 899,
+  "in_corpus_or_dict": true
+ },
+ "첨": {
+  "kind": "syllable",
+  "corpus_hits": 395,
+  "corpus_words": 195,
+  "in_corpus_or_dict": true
+ },
+ "첩": {
+  "kind": "syllable",
+  "corpus_hits": 402,
+  "corpus_words": 207,
+  "in_corpus_or_dict": true
+ },
+ "청": {
+  "kind": "syllable",
+  "corpus_hits": 9403,
+  "corpus_words": 2014,
+  "in_corpus_or_dict": true
+ },
+ "촉": {
+  "kind": "syllable",
+  "corpus_hits": 615,
+  "corpus_words": 286,
+  "in_corpus_or_dict": true
+ },
+ "총": {
+  "kind": "syllable",
+  "corpus_hits": 5970,
+  "corpus_words": 1001,
+  "in_corpus_or_dict": true
+ },
+ "축": {
+  "kind": "syllable",
+  "corpus_hits": 3458,
+  "corpus_words": 1043,
+  "in_corpus_or_dict": true
+ },
+ "춘": {
+  "kind": "syllable",
+  "corpus_hits": 721,
+  "corpus_words": 285,
+  "in_corpus_or_dict": true
+ },
+ "출": {
+  "kind": "syllable",
+  "corpus_hits": 8912,
+  "corpus_words": 2996,
+  "in_corpus_or_dict": true
+ },
+ "충": {
+  "kind": "syllable",
+  "corpus_hits": 4977,
+  "corpus_words": 1127,
+  "in_corpus_or_dict": true
+ },
+ "층": {
+  "kind": "syllable",
+  "corpus_hits": 1723,
+  "corpus_words": 554,
+  "in_corpus_or_dict": true
+ },
+ "칙": {
+  "kind": "syllable",
+  "corpus_hits": 1338,
+  "corpus_words": 342,
+  "in_corpus_or_dict": true
+ },
+ "친": {
+  "kind": "syllable",
+  "corpus_hits": 17874,
+  "corpus_words": 2433,
+  "in_corpus_or_dict": true
+ },
+ "칠": {
+  "kind": "syllable",
+  "corpus_hits": 3721,
+  "corpus_words": 931,
+  "in_corpus_or_dict": true
+ },
+ "침": {
+  "kind": "syllable",
+  "corpus_hits": 8152,
+  "corpus_words": 1438,
+  "in_corpus_or_dict": true
+ },
+ "칩": {
+  "kind": "syllable",
+  "corpus_hits": 427,
+  "corpus_words": 113,
+  "in_corpus_or_dict": true
+ },
+ "칭": {
+  "kind": "syllable",
+  "corpus_hits": 672,
+  "corpus_words": 306,
+  "in_corpus_or_dict": true
+ },
+ "칸": {
+  "kind": "syllable",
+  "corpus_hits": 833,
+  "corpus_words": 338,
+  "in_corpus_or_dict": true
+ },
+ "칼": {
+  "kind": "syllable",
+  "corpus_hits": 2754,
+  "corpus_words": 611,
+  "in_corpus_or_dict": true
+ },
+ "캄": {
+  "kind": "syllable",
+  "corpus_hits": 127,
+  "corpus_words": 66,
+  "in_corpus_or_dict": true
+ },
+ "캉": {
+  "kind": "syllable",
+  "corpus_hits": 45,
+  "corpus_words": 29,
+  "in_corpus_or_dict": true
+ },
+ "컵": {
+  "kind": "syllable",
+  "corpus_hits": 345,
+  "corpus_words": 127,
+  "in_corpus_or_dict": true
+ },
+ "콕": {
+  "kind": "syllable",
+  "corpus_hits": 155,
+  "corpus_words": 59,
+  "in_corpus_or_dict": true
+ },
+ "콘": {
+  "kind": "syllable",
+  "corpus_hits": 1171,
+  "corpus_words": 473,
+  "in_corpus_or_dict": true
+ },
+ "콜": {
+  "kind": "syllable",
+  "corpus_hits": 2319,
+  "corpus_words": 634,
+  "in_corpus_or_dict": true
+ },
+ "콩": {
+  "kind": "syllable",
+  "corpus_hits": 632,
+  "corpus_words": 222,
+  "in_corpus_or_dict": true
+ },
+ "큼": {
+  "kind": "syllable",
+  "corpus_hits": 2564,
+  "corpus_words": 781,
+  "in_corpus_or_dict": true
+ },
+ "탁": {
+  "kind": "syllable",
+  "corpus_hits": 3690,
+  "corpus_words": 696,
+  "in_corpus_or_dict": true
+ },
+ "탄": {
+  "kind": "syllable",
+  "corpus_hits": 3527,
+  "corpus_words": 1213,
+  "in_corpus_or_dict": true
+ },
+ "탈": {
+  "kind": "syllable",
+  "corpus_hits": 3141,
+  "corpus_words": 1303,
+  "in_corpus_or_dict": true
+ },
+ "탐": {
+  "kind": "syllable",
+  "corpus_hits": 1323,
+  "corpus_words": 491,
+  "in_corpus_or_dict": true
+ },
+ "탑": {
+  "kind": "syllable",
+  "corpus_hits": 632,
+  "corpus_words": 287,
+  "in_corpus_or_dict": true
+ },
+ "탕": {
+  "kind": "syllable",
+  "corpus_hits": 1046,
+  "corpus_words": 364,
+  "in_corpus_or_dict": true
+ },
+ "택": {
+  "kind": "syllable",
+  "corpus_hits": 3547,
+  "corpus_words": 747,
+  "in_corpus_or_dict": true
+ },
+ "턱": {
+  "kind": "syllable",
+  "corpus_hits": 387,
+  "corpus_words": 110,
+  "in_corpus_or_dict": true
+ },
+ "털": {
+  "kind": "syllable",
+  "corpus_hits": 1336,
+  "corpus_words": 504,
+  "in_corpus_or_dict": true
+ },
+ "톤": {
+  "kind": "syllable",
+  "corpus_hits": 1128,
+  "corpus_words": 447,
+  "in_corpus_or_dict": true
+ },
+ "통": {
+  "kind": "syllable",
+  "corpus_hits": 13150,
+  "corpus_words": 3133,
+  "in_corpus_or_dict": true
+ },
+ "툭": {
+  "kind": "syllable",
+  "corpus_hits": 23,
+  "corpus_words": 8,
+  "in_corpus_or_dict": true
+ },
+ "퉁": {
+  "kind": "syllable",
+  "corpus_hits": 167,
+  "corpus_words": 73,
+  "in_corpus_or_dict": true
+ },
+ "특": {
+  "kind": "syllable",
+  "corpus_hits": 3808,
+  "corpus_words": 728,
+  "in_corpus_or_dict": true
+ },
+ "튼": {
+  "kind": "syllable",
+  "corpus_hits": 2348,
+  "corpus_words": 604,
+  "in_corpus_or_dict": true
+ },
+ "틀": {
+  "kind": "syllable",
+  "corpus_hits": 4492,
+  "corpus_words": 1076,
+  "in_corpus_or_dict": true
+ },
+ "틈": {
+  "kind": "syllable",
+  "corpus_hits": 293,
+  "corpus_words": 67,
+  "in_corpus_or_dict": true
+ },
+ "팀": {
+  "kind": "syllable",
+  "corpus_hits": 3313,
+  "corpus_words": 935,
+  "in_corpus_or_dict": true
+ },
+ "판": {
+  "kind": "syllable",
+  "corpus_hits": 5248,
+  "corpus_words": 1890,
+  "in_corpus_or_dict": true
+ },
+ "팔": {
+  "kind": "syllable",
+  "corpus_hits": 3927,
+  "corpus_words": 1100,
+  "in_corpus_or_dict": true
+ },
+ "팜": {
+  "kind": "syllable",
+  "corpus_hits": 121,
+  "corpus_words": 63,
+  "in_corpus_or_dict": true
+ },
+ "팝": {
+  "kind": "syllable",
+  "corpus_hits": 307,
+  "corpus_words": 79,
+  "in_corpus_or_dict": true
+ },
+ "팡": {
+  "kind": "syllable",
+  "corpus_hits": 213,
+  "corpus_words": 60,
+  "in_corpus_or_dict": true
+ },
+ "팩": {
+  "kind": "syllable",
+  "corpus_hits": 226,
+  "corpus_words": 121,
+  "in_corpus_or_dict": true
+ },
+ "팬": {
+  "kind": "syllable",
+  "corpus_hits": 1063,
+  "corpus_words": 367,
+  "in_corpus_or_dict": true
+ },
+ "펄": {
+  "kind": "syllable",
+  "corpus_hits": 280,
+  "corpus_words": 74,
+  "in_corpus_or_dict": true
+ },
+ "펜": {
+  "kind": "syllable",
+  "corpus_hits": 843,
+  "corpus_words": 311,
+  "in_corpus_or_dict": true
+ },
+ "폄": {
+  "kind": "syllable",
+  "corpus_hits": 11,
+  "corpus_words": 9,
+  "in_corpus_or_dict": true
+ },
+ "평": {
+  "kind": "syllable",
+  "corpus_hits": 5127,
+  "corpus_words": 1139,
+  "in_corpus_or_dict": true
+ },
+ "폭": {
+  "kind": "syllable",
+  "corpus_hits": 4415,
+  "corpus_words": 1321,
+  "in_corpus_or_dict": true
+ },
+ "폰": {
+  "kind": "syllable",
+  "corpus_hits": 1575,
+  "corpus_words": 343,
+  "in_corpus_or_dict": true
+ },
+ "폴": {
+  "kind": "syllable",
+  "corpus_hits": 1481,
+  "corpus_words": 412,
+  "in_corpus_or_dict": true
+ },
+ "퐁": {
+  "kind": "syllable",
+  "corpus_hits": 45,
+  "corpus_words": 26,
+  "in_corpus_or_dict": true
+ },
+ "풍": {
+  "kind": "syllable",
+  "corpus_hits": 1692,
+  "corpus_words": 601,
+  "in_corpus_or_dict": true
+ },
+ "픽": {
+  "kind": "syllable",
+  "corpus_hits": 396,
+  "corpus_words": 125,
+  "in_corpus_or_dict": true
+ },
+ "필": {
+  "kind": "syllable",
+  "corpus_hits": 17333,
+  "corpus_words": 1427,
+  "in_corpus_or_dict": true
+ },
+ "핌": {
+  "kind": "syllable",
+  "corpus_hits": 34,
+  "corpus_words": 17,
+  "in_corpus_or_dict": true
+ },
+ "핍": {
+  "kind": "syllable",
+  "corpus_hits": 62,
+  "corpus_words": 45,
+  "in_corpus_or_dict": true
+ },
+ "학": {
+  "kind": "syllable",
+  "corpus_hits": 10278,
+  "corpus_words": 3168,
+  "in_corpus_or_dict": true
+ },
+ "한": {
+  "kind": "syllable",
+  "corpus_hits": 134034,
+  "corpus_words": 17638,
+  "in_corpus_or_dict": true
+ },
+ "할": {
+  "kind": "syllable",
+  "corpus_hits": 64105,
+  "corpus_words": 9123,
+  "in_corpus_or_dict": true
+ },
+ "함": {
+  "kind": "syllable",
+  "corpus_hits": 10916,
+  "corpus_words": 2231,
+  "in_corpus_or_dict": true
+ },
+ "합": {
+  "kind": "syllable",
+  "corpus_hits": 18556,
+  "corpus_words": 3131,
+  "in_corpus_or_dict": true
+ },
+ "항": {
+  "kind": "syllable",
+  "corpus_hits": 7680,
+  "corpus_words": 1381,
+  "in_corpus_or_dict": true
+ },
+ "핵": {
+  "kind": "syllable",
+  "corpus_hits": 597,
+  "corpus_words": 201,
+  "in_corpus_or_dict": true
+ },
+ "행": {
+  "kind": "syllable",
+  "corpus_hits": 17059,
+  "corpus_words": 4200,
+  "in_corpus_or_dict": true
+ },
+ "향": {
+  "kind": "syllable",
+  "corpus_hits": 3736,
+  "corpus_words": 789,
+  "in_corpus_or_dict": true
+ },
+ "헌": {
+  "kind": "syllable",
+  "corpus_hits": 1400,
+  "corpus_words": 431,
+  "in_corpus_or_dict": true
+ },
+ "헐": {
+  "kind": "syllable",
+  "corpus_hits": 242,
+  "corpus_words": 136,
+  "in_corpus_or_dict": true
+ },
+ "험": {
+  "kind": "syllable",
+  "corpus_hits": 7379,
+  "corpus_words": 1401,
+  "in_corpus_or_dict": true
+ },
+ "혁": {
+  "kind": "syllable",
+  "corpus_hits": 413,
+  "corpus_words": 141,
+  "in_corpus_or_dict": true
+ },
+ "현": {
+  "kind": "syllable",
+  "corpus_hits": 5570,
+  "corpus_words": 1311,
+  "in_corpus_or_dict": true
+ },
+ "혈": {
+  "kind": "syllable",
+  "corpus_hits": 3603,
+  "corpus_words": 1063,
+  "in_corpus_or_dict": true
+ },
+ "혐": {
+  "kind": "syllable",
+  "corpus_hits": 508,
+  "corpus_words": 157,
+  "in_corpus_or_dict": true
+ },
+ "협": {
+  "kind": "syllable",
+  "corpus_hits": 2769,
+  "corpus_words": 953,
+  "in_corpus_or_dict": true
+ },
+ "형": {
+  "kind": "syllable",
+  "corpus_hits": 9315,
+  "corpus_words": 2219,
+  "in_corpus_or_dict": true
+ },
+ "혹": {
+  "kind": "syllable",
+  "corpus_hits": 3214,
+  "corpus_words": 321,
+  "in_corpus_or_dict": true
+ },
+ "혼": {
+  "kind": "syllable",
+  "corpus_hits": 12059,
+  "corpus_words": 2123,
+  "in_corpus_or_dict": true
+ },
+ "홀": {
+  "kind": "syllable",
+  "corpus_hits": 1557,
+  "corpus_words": 439,
+  "in_corpus_or_dict": true
+ },
+ "홉": {
+  "kind": "syllable",
+  "corpus_hits": 338,
+  "corpus_words": 103,
+  "in_corpus_or_dict": true
+ },
+ "홍": {
+  "kind": "syllable",
+  "corpus_hits": 668,
+  "corpus_words": 281,
+  "in_corpus_or_dict": true
+ },
+ "확": {
+  "kind": "syllable",
+  "corpus_hits": 11324,
+  "corpus_words": 1515,
+  "in_corpus_or_dict": true
+ },
+ "환": {
+  "kind": "syllable",
+  "corpus_hits": 9305,
+  "corpus_words": 1855,
+  "in_corpus_or_dict": true
+ },
+ "활": {
+  "kind": "syllable",
+  "corpus_hits": 2775,
+  "corpus_words": 937,
+  "in_corpus_or_dict": true
+ },
+ "황": {
+  "kind": "syllable",
+  "corpus_hits": 5343,
+  "corpus_words": 1190,
+  "in_corpus_or_dict": true
+ },
+ "획": {
+  "kind": "syllable",
+  "corpus_hits": 3215,
+  "corpus_words": 528,
+  "in_corpus_or_dict": true
+ },
+ "훈": {
+  "kind": "syllable",
+  "corpus_hits": 1220,
+  "corpus_words": 443,
+  "in_corpus_or_dict": true
+ },
+ "훌": {
+  "kind": "syllable",
+  "corpus_hits": 1662,
+  "corpus_words": 126,
+  "in_corpus_or_dict": true
+ },
+ "훔": {
+  "kind": "syllable",
+  "corpus_hits": 1734,
+  "corpus_words": 426,
+  "in_corpus_or_dict": true
+ },
+ "흑": {
+  "kind": "syllable",
+  "corpus_hits": 812,
+  "corpus_words": 297,
+  "in_corpus_or_dict": true
+ },
+ "흔": {
+  "kind": "syllable",
+  "corpus_hits": 1576,
+  "corpus_words": 338,
+  "in_corpus_or_dict": true
+ },
+ "흘": {
+  "kind": "syllable",
+  "corpus_hits": 1216,
+  "corpus_words": 428,
+  "in_corpus_or_dict": true
+ },
+ "흠": {
+  "kind": "syllable",
+  "corpus_hits": 293,
+  "corpus_words": 69,
+  "in_corpus_or_dict": true
+ },
+ "흡": {
+  "kind": "syllable",
+  "corpus_hits": 964,
+  "corpus_words": 354,
+  "in_corpus_or_dict": true
+ },
+ "흥": {
+  "kind": "syllable",
+  "corpus_hits": 1732,
+  "corpus_words": 489,
+  "in_corpus_or_dict": true
+ },
+ "힘": {
+  "kind": "syllable",
+  "corpus_hits": 6297,
+  "corpus_words": 740,
+  "in_corpus_or_dict": true
+ },
+ "힙": {
+  "kind": "syllable",
+  "corpus_hits": 145,
+  "corpus_words": 60,
+  "in_corpus_or_dict": true
+ },
+ "몫": {
+  "kind": "syllable",
+  "corpus_hits": 269,
+  "corpus_words": 56,
+  "in_corpus_or_dict": true
+ },
+ "넋": {
+  "kind": "syllable",
+  "corpus_hits": 31,
+  "corpus_words": 7,
+  "in_corpus_or_dict": true
+ },
+ "삯": {
+  "kind": "syllable",
+  "corpus_hits": 5,
+  "corpus_words": 5,
+  "in_corpus_or_dict": true
+ },
+ "앉": {
+  "kind": "syllable",
+  "corpus_hits": 4070,
+  "corpus_words": 537,
+  "in_corpus_or_dict": true
+ },
+ "얹": {
+  "kind": "syllable",
+  "corpus_hits": 112,
+  "corpus_words": 49,
+  "in_corpus_or_dict": true
+ },
+ "많": {
+  "kind": "syllable",
+  "corpus_hits": 12871,
+  "corpus_words": 557,
+  "in_corpus_or_dict": true
+ },
+ "않": {
+  "kind": "syllable",
+  "corpus_hits": 43519,
+  "corpus_words": 2137,
+  "in_corpus_or_dict": true
+ },
+ "끊": {
+  "kind": "syllable",
+  "corpus_hits": 1684,
+  "corpus_words": 398,
+  "in_corpus_or_dict": true
+ },
+ "닭": {
+  "kind": "syllable",
+  "corpus_hits": 460,
+  "corpus_words": 147,
+  "in_corpus_or_dict": true
+ },
+ "흙": {
+  "kind": "syllable",
+  "corpus_hits": 295,
+  "corpus_words": 97,
+  "in_corpus_or_dict": true
+ },
+ "맑": {
+  "kind": "syllable",
+  "corpus_hits": 104,
+  "corpus_words": 32,
+  "in_corpus_or_dict": true
+ },
+ "읽": {
+  "kind": "syllable",
+  "corpus_hits": 2343,
+  "corpus_words": 535,
+  "in_corpus_or_dict": true
+ },
+ "삶": {
+  "kind": "syllable",
+  "corpus_hits": 2545,
+  "corpus_words": 154,
+  "in_corpus_or_dict": true
+ },
+ "젊": {
+  "kind": "syllable",
+  "corpus_hits": 1048,
+  "corpus_words": 163,
+  "in_corpus_or_dict": true
+ },
+ "굶": {
+  "kind": "syllable",
+  "corpus_hits": 376,
+  "corpus_words": 134,
+  "in_corpus_or_dict": true
+ },
+ "닮": {
+  "kind": "syllable",
+  "corpus_hits": 551,
+  "corpus_words": 134,
+  "in_corpus_or_dict": true
+ },
+ "앎": {
+  "kind": "syllable",
+  "corpus_hits": 1,
+  "corpus_words": 1,
+  "in_corpus_or_dict": true
+ },
+ "짧": {
+  "kind": "syllable",
+  "corpus_hits": 459,
+  "corpus_words": 81,
+  "in_corpus_or_dict": true
+ },
+ "밟": {
+  "kind": "syllable",
+  "corpus_hits": 514,
+  "corpus_words": 174,
+  "in_corpus_or_dict": true
+ },
+ "넓": {
+  "kind": "syllable",
+  "corpus_hits": 406,
+  "corpus_words": 131,
+  "in_corpus_or_dict": true
+ },
+ "얇": {
+  "kind": "syllable",
+  "corpus_hits": 87,
+  "corpus_words": 22,
+  "in_corpus_or_dict": true
+ },
+ "떫": {
+  "kind": "syllable",
+  "corpus_hits": 2,
+  "corpus_words": 2,
+  "in_corpus_or_dict": true
+ },
+ "핥": {
+  "kind": "syllable",
+  "corpus_hits": 72,
+  "corpus_words": 48,
+  "in_corpus_or_dict": true
+ },
+ "훑": {
+  "kind": "syllable",
+  "corpus_hits": 59,
+  "corpus_words": 35,
+  "in_corpus_or_dict": true
+ },
+ "읊": {
+  "kind": "syllable",
+  "corpus_hits": 55,
+  "corpus_words": 37,
+  "in_corpus_or_dict": true
+ },
+ "옳": {
+  "kind": "syllable",
+  "corpus_hits": 1343,
+  "corpus_words": 123,
+  "in_corpus_or_dict": true
+ },
+ "싫": {
+  "kind": "syllable",
+  "corpus_hits": 7040,
+  "corpus_words": 598,
+  "in_corpus_or_dict": true
+ },
+ "잃": {
+  "kind": "syllable",
+  "corpus_hits": 3480,
+  "corpus_words": 469,
+  "in_corpus_or_dict": true
+ },
+ "앓": {
+  "kind": "syllable",
+  "corpus_hits": 135,
+  "corpus_words": 54,
+  "in_corpus_or_dict": true
+ },
+ "끓": {
+  "kind": "syllable",
+  "corpus_hits": 218,
+  "corpus_words": 99,
+  "in_corpus_or_dict": true
+ },
+ "뚫": {
+  "kind": "syllable",
+  "corpus_hits": 599,
+  "corpus_words": 166,
+  "in_corpus_or_dict": true
+ },
+ "꿇": {
+  "kind": "syllable",
+  "corpus_hits": 329,
+  "corpus_words": 70,
+  "in_corpus_or_dict": true
+ },
+ "없": {
+  "kind": "syllable",
+  "corpus_hits": 66441,
+  "corpus_words": 3289,
+  "in_corpus_or_dict": true
+ },
+ "값": {
+  "kind": "syllable",
+  "corpus_hits": 693,
+  "corpus_words": 237,
+  "in_corpus_or_dict": true
+ }
+}

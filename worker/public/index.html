@@ -1,0 +1,420 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>Korean Dubeolsik Drill</title>
+<style>
+  :root{
+    --bg:#f6f5f2; --card:#ffffff; --fg:#1d1f22; --muted:#6b7280; --border:#e3e1dc;
+    --accent:#2f6f4e; --accent-fg:#ffffff; --memo-bg:#f2ebd9;
+    --ok:#2f6f4e; --err:#b3261e; --warn:#b07d00;
+    --q-dubeolsik:#ffd54a; --q-rr:#c8d6e5;
+  }
+  @media (prefers-color-scheme: dark){
+    :root{ --bg:#181a1d; --card:#23252b; --fg:#e8e8ea; --muted:#9aa0a6; --border:#34373d;
+      --accent:#5aa87f; --accent-fg:#0d1117; --memo-bg:#353945;
+      --ok:#7fc9a2; --err:#ff8a80; --warn:#e0b44a; --q-dubeolsik:#d6a800; --q-rr:#7d97b3; }
+  }
+  *{box-sizing:border-box}
+  html,body{margin:0;background:var(--bg);color:var(--fg);
+    font:16px/1.45 -apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,sans-serif}
+  main{max-width:560px;margin:0 auto;padding:14px 16px 40px;display:flex;flex-direction:column;gap:12px}
+  h1{font-size:1.25rem;text-align:center;margin:4px 0 0}
+  .headstats{display:flex;justify-content:center;gap:18px;font-size:.85rem;color:var(--muted)}
+  .row{display:flex;align-items:center;gap:8px;font-size:.85rem}
+  .home{flex:0 0 auto;width:34px;height:34px;border-radius:50%;border:1px solid var(--border);
+    background:var(--card);display:inline-flex;align-items:center;justify-content:center;
+    text-decoration:none;color:inherit}
+  select,button,input{font:inherit;color:inherit}
+  select{background:var(--card);border:1px solid var(--border);border-radius:10px;padding:6px 8px}
+  .seg{display:inline-flex;border:1px solid var(--border);border-radius:10px;overflow:hidden;background:var(--card)}
+  .seg button{border:0;background:transparent;padding:7px 12px;font-size:.82rem;cursor:pointer}
+  .seg button[aria-pressed="true"]{background:var(--accent);color:var(--accent-fg)}
+  .spacer{flex:1}
+  .statrow{display:flex;justify-content:space-between;gap:6px;font-size:.82rem;color:var(--muted);
+    background:var(--card);border:1px solid var(--border);border-radius:12px;padding:8px 12px}
+  .card{background:var(--card);border:1px solid var(--border);border-radius:16px;padding:22px 16px 18px;
+    display:flex;flex-direction:column;align-items:center;gap:10px}
+  #char{font-size:5rem;line-height:1.1;font-weight:600;color:var(--q-dubeolsik)}
+  body[data-mode="rr"] #char{color:var(--q-rr)}
+  .hintmode{font-size:.75rem;letter-spacing:.12em;text-transform:uppercase;color:var(--muted)}
+  .memo{width:100%;background:var(--memo-bg);border-radius:14px;padding:10px 12px;position:relative;
+    text-align:center;font-size:1rem}
+  .memo .label{font-size:.7rem;letter-spacing:.14em;text-transform:uppercase;color:var(--muted);display:block;margin-bottom:2px}
+  .memo .edit{position:absolute;top:6px;right:8px;border:0;background:transparent;font-size:1rem;cursor:pointer;opacity:.75}
+  .memo.empty{color:var(--muted);font-style:italic}
+  .inputrow{display:flex;gap:8px}
+  #answer{flex:1;min-width:0;padding:12px 14px;border-radius:12px;border:1px solid var(--border);
+    background:var(--card);font-size:1.15rem;letter-spacing:.06em}
+  #answer:focus{outline:2px solid var(--accent);outline-offset:1px}
+  #check{min-width:56px;padding:12px 0;border-radius:12px;border:0;background:var(--accent);
+    color:var(--accent-fg);font-size:1.1rem;cursor:pointer}
+  #check[disabled]{opacity:.5;cursor:default}
+  #feedback{min-height:1.6em;text-align:center;font-size:.88rem;color:var(--muted)}
+  #feedback.ok{color:var(--ok)} #feedback.err{color:var(--err)}
+  #answerline{text-align:center;font-size:.9rem;color:var(--muted);min-height:1.2em}
+  dialog{border:1px solid var(--border);border-radius:16px;background:var(--card);color:var(--fg);
+    padding:0;max-width:460px;width:calc(100% - 32px)}
+  dialog::backdrop{background:rgba(0,0,0,.45)}
+  form.editform{display:flex;flex-direction:column;gap:10px;padding:16px}
+  form.editform h2{margin:0;font-size:1rem}
+  form.editform label{display:flex;flex-direction:column;gap:4px;font-size:.78rem;color:var(--muted)}
+  form.editform input,form.editform select,form.editform textarea{padding:9px 10px;border-radius:10px;
+    border:1px solid var(--border);background:var(--bg);font-size:.95rem}
+  form.editform textarea{min-height:64px;resize:vertical}
+  .btnrow{display:flex;justify-content:center;gap:10px;margin-top:4px}
+  .btn{padding:9px 18px;border-radius:10px;border:1px solid var(--border);background:var(--bg);cursor:pointer}
+  .btn.primary{background:var(--accent);color:var(--accent-fg);border-color:transparent}
+  .err{color:var(--err);font-size:.82rem;min-height:1.2em}
+</style>
+</head>
+<body data-mode="dubeolsik">
+<main>
+  <h1>Korean Dubeolsik Drill</h1>
+  <div class="headstats">
+    <span id="todayCount">#️⃣ 0</span>
+    <span id="todayAcc">🎯 –</span>
+  </div>
+
+  <div class="row">
+    <a class="home" href="https://fred09280928.github.io/" title="Home">🏠</a>
+    <select id="level" aria-label="Level">
+      <option value="L1">L1 (26)</option>
+      <option value="L2">L2 (37)</option>
+      <option value="L3">L3 (211)</option>
+      <option value="L4">L4 (366)</option>
+    </select>
+    <div class="seg" role="group" aria-label="Answer mode">
+      <button id="mode-rr" aria-pressed="false">RR</button>
+      <button id="mode-dubeolsik" aria-pressed="true">Dubeolsik</button>
+    </div>
+    <span class="spacer"></span>
+    <button class="btn" id="replay" title="Replay pronunciation">🔊</button>
+  </div>
+
+  <div class="statrow">
+    <span id="sOk">⭕ 0</span>
+    <span id="sErr">❌ 0</span>
+    <span id="sWeight">⚖️ 12</span>
+    <span id="sPos">👉 0/0</span>
+  </div>
+
+  <section class="card">
+    <div class="hintmode" id="modeHint">Type the Dubeolsik keys</div>
+    <div id="char">…</div>
+    <div class="memo" id="memo"><span class="label">Memo</span><span id="memoText">—</span>
+      <button class="edit" id="editBtn" title="Edit card">✏️</button></div>
+  </section>
+
+  <div class="inputrow">
+    <input id="answer" autocomplete="off" autocapitalize="off" autocorrect="off" spellcheck="false"
+           placeholder="your answer">
+    <button id="check">✅</button>
+  </div>
+  <div id="answerline"></div>
+  <div id="feedback"></div>
+</main>
+
+<dialog id="editDialog">
+  <form class="editform" id="editForm" method="dialog">
+    <h2 id="editTitle">Edit card</h2>
+    <label>Hangul<input id="fHangul" disabled></label>
+    <label>Memo<textarea id="fMemo"></textarea></label>
+    <label>Category
+      <select id="fCategory">
+        <option>L1c</option><option>L1v</option><option>L1</option>
+        <option>L2</option><option>L3</option><option>L4</option>
+      </select>
+    </label>
+    <label>RR<input id="fRr"></label>
+    <label>Dubeolsik keys<input id="fKeys"></label>
+    <label>Weight (1–15)<input id="fWeight" type="number" min="1" max="15" step="1"></label>
+    <div class="err" id="editErr"></div>
+    <div class="btnrow">
+      <button type="button" class="btn" id="cancelEdit">Cancel</button>
+      <button type="button" class="btn primary" id="saveEdit">Save</button>
+    </div>
+  </form>
+</dialog>
+
+<script>
+const state = {
+  level: localStorage.getItem('krchar.level') || 'L1',
+  mode: localStorage.getItem('krchar.mode') || 'dubeolsik',
+  owner: localStorage.getItem('krchar.owner') || 'fred0928',
+  cards: [], pool: [], current: null, weight: 12,
+  attempts: 0, locked: false, inflight: false, timer: null,
+  typed: '', composed: '',
+  okSet: new Set(), errSet: new Set(), doneSet: new Set(),
+};
+
+const $ = (id) => document.getElementById(id);
+const el = {
+  level: $('level'), char: $('char'), memo: $('memo'), memoText: $('memoText'),
+  answer: $('answer'), check: $('check'), feedback: $('feedback'), answerline: $('answerline'),
+  sOk: $('sOk'), sErr: $('sErr'), sWeight: $('sWeight'), sPos: $('sPos'),
+  todayCount: $('todayCount'), todayAcc: $('todayAcc'), modeHint: $('modeHint'),
+  replay: $('replay'), editBtn: $('editBtn'), dialog: $('editDialog'),
+};
+
+const folder = (c) => (c.category === 'L1c' || c.category === 'L1v') ? 'jamo' : 'syl';
+const audioPath = (c) => `audio/${folder(c)}/${c.cp}.mp3`;
+let audioEl = null;
+function playAudio() {
+  if (!state.current) return;
+  try {
+    if (!audioEl) audioEl = new Audio();
+    audioEl.src = audioPath(state.current);
+    audioEl.currentTime = 0;
+    const p = audioEl.play();
+    if (p && p.catch) p.catch(() => { el.replay.textContent = '🔇'; setTimeout(() => el.replay.textContent = '🔊', 1200); });
+  } catch { /* missing clip -> silence */ }
+}
+
+async function api(path, opts = {}) {
+  const res = await fetch(path, opts);
+  const data = await res.json().catch(() => ({}));
+  if (!res.ok) throw Object.assign(new Error(data.error || res.status), { status: res.status, data });
+  return data;
+}
+
+async function loadPool() {
+  const d = await api(`/api/cards?level=${state.level}&owner=${encodeURIComponent(state.owner)}`);
+  state.pool = d.cards;
+  state.okSet.clear(); state.errSet.clear(); state.doneSet.clear();
+  nextCard();
+  refreshStats();
+}
+
+function pickCard() {
+  const total = state.pool.reduce((s, c) => s + c.weight, 0);
+  let r = Math.random() * total;
+  for (const c of state.pool) { r -= c.weight; if (r <= 0) return c; }
+  return state.pool[state.pool.length - 1];
+}
+
+function nextCard() {
+  clearTimeout(state.timer); state.timer = null;
+  state.current = pickCard();
+  state.weight = state.current ? state.current.weight : 12;
+  state.attempts = 0; state.locked = false; state.inflight = false;
+  state.typed = ''; state.composed = '';
+  el.answer.value = ''; el.answer.disabled = false;
+  el.answerline.textContent = ''; el.feedback.textContent = ''; el.feedback.className = '';
+  el.check.textContent = '✅'; el.check.disabled = false;
+  render();
+  playAudio();
+  el.answer.focus();
+}
+
+function render() {
+  const c = state.current;
+  if (!c) { el.char.textContent = '…'; return; }
+  el.char.textContent = c.hangul;
+  el.memoText.textContent = c.memo || 'no memo yet';
+  el.memo.classList.toggle('empty', !c.memo);
+  el.sWeight.textContent = `⚖️ ${state.weight}`;
+  el.sOk.textContent = `⭕ ${state.okSet.size}`;
+  el.sErr.textContent = `❌ ${state.errSet.size}`;
+  el.sPos.textContent = `👉 ${state.doneSet.size}/${state.pool.length}`;
+  el.modeHint.textContent = state.mode === 'rr' ? 'Type the RR romanisation' : 'Type the Dubeolsik keys';
+  el.answer.placeholder = state.mode === 'rr' ? 'e.g. kku' : 'e.g. Rn';
+}
+
+async function refreshStats() {
+  try {
+    const s = await api(`/api/stats?owner=${encodeURIComponent(state.owner)}&level=${state.level}`);
+    el.todayCount.textContent = `#️⃣ ${s.today.count}`;
+    el.todayAcc.textContent = s.today.accuracy == null ? '🎯 –' : `🎯 ${s.today.accuracy}%`;
+  } catch { /* ignore */ }
+}
+
+function revealAnswer() {
+  const c = state.current;
+  el.answerline.textContent = `Answer: ${c.keys}  ·  ${c.rr}`;
+}
+
+async function postReview(result) {
+  if (!state.current) return null;
+  try {
+    return await api('/api/review', {
+      method: 'POST', headers: { 'content-type': 'application/json' },
+      body: JSON.stringify({ owner: state.owner, cp: state.current.cp, result, mode: state.mode }),
+    });
+  } catch { return null; }
+}
+
+async function submit() {
+  if (!state.current || state.locked || state.inflight) return;
+  const c = state.current;
+  let correct = false;
+  if (state.mode === 'rr') {
+    correct = el.answer.value.trim().toLowerCase() === c.rr.toLowerCase();
+  } else {
+    const composed = state.composed;
+    if (composed) correct = composed.normalize('NFC') === c.hangul;
+    else correct = state.typed === c.keys;
+  }
+  state.inflight = true;
+  el.check.disabled = true;
+
+  if (correct) {
+    state.okSet.add(c.hangul); state.doneSet.add(c.hangul);
+    const r = await postReview('correct');
+    if (r) state.weight = r.weight;
+    el.feedback.textContent = 'Correct'; el.feedback.className = 'ok';
+    revealAnswer();
+    state.locked = true;
+    el.feedback.textContent = 'Correct — Next card in 2s…';
+    state.timer = setTimeout(() => { state.inflight = false; nextCard(); }, 2000);
+    render(); el.check.textContent = 'Next'; el.check.disabled = false;
+    refreshStats();
+    return;
+  }
+
+  state.attempts += 1;
+  state.errSet.add(c.hangul); state.doneSet.add(c.hangul);
+  const r = await postReview('wrong');
+  if (r) state.weight = r.weight;
+  el.feedback.className = 'err';
+  el.feedback.textContent = `❌${state.attempts}️⃣ ${state.mode === 'rr' ? el.answer.value.trim() : (state.composed || state.typed)}`;
+  playAudio();
+
+  if (state.attempts >= 3) {
+    revealAnswer();
+    state.locked = true;
+    el.answer.disabled = true;
+    el.check.textContent = 'Next';
+  } else {
+    state.typed = ''; state.composed = ''; el.answer.value = '';
+    el.answer.focus();
+  }
+  state.inflight = false; el.check.disabled = false;
+  render(); refreshStats();
+}
+
+// ── input handling ────────────────────────────────────────────────────────────
+const HANGUL_RE = /[\uAC00-\uD7A3\u3131-\u318E]/;
+const LETTER_RE = /^[A-Za-z]$/;
+
+el.answer.addEventListener('paste', (e) => { if (state.mode === 'dubeolsik') e.preventDefault(); });
+
+el.answer.addEventListener('keydown', (e) => {
+  if (state.mode !== 'dubeolsik' || state.locked) return;
+  if (e.key === 'Enter') { e.preventDefault(); submit(); return; }
+  if (e.key === 'Backspace') {
+    e.preventDefault();
+    state.typed = state.typed.slice(0, -1); state.composed = '';
+    el.answer.value = state.typed; return;
+  }
+  if (e.key.length === 1) {
+    if (HANGUL_RE.test(e.key)) {            // OS Korean IME produced a composed syllable
+      state.composed = e.key; state.typed = '';
+      el.answer.value = e.key; e.preventDefault(); return;
+    }
+    if (LETTER_RE.test(e.key)) {            // physical key: this is what we grade
+      state.typed += e.key; state.composed = '';
+      el.answer.value = state.typed; e.preventDefault(); return;
+    }
+  }
+});
+
+el.answer.addEventListener('keydown', (e) => {
+  if (state.mode === 'rr' && e.key === 'Enter') { e.preventDefault(); submit(); }
+});
+
+el.check.addEventListener('click', () => {
+  if (state.locked) { state.inflight = false; nextCard(); } else { submit(); }
+});
+
+el.replay.addEventListener('click', playAudio);
+
+function setMode(mode) {
+  state.mode = mode; localStorage.setItem('krchar.mode', mode);
+  document.body.dataset.mode = mode;
+  $('mode-rr').setAttribute('aria-pressed', String(mode === 'rr'));
+  $('mode-dubeolsik').setAttribute('aria-pressed', String(mode === 'dubeolsik'));
+  state.attempts = 0; state.locked = false; state.typed = ''; state.composed = '';
+  el.answer.value = ''; el.answer.disabled = false; el.answerline.textContent = '';
+  el.feedback.textContent = ''; el.check.textContent = '✅';
+  render(); el.answer.focus();
+}
+$('mode-rr').addEventListener('click', () => setMode('rr'));
+$('mode-dubeolsik').addEventListener('click', () => setMode('dubeolsik'));
+
+el.level.value = state.level;
+el.level.addEventListener('change', () => {
+  state.level = el.level.value; localStorage.setItem('krchar.level', state.level);
+  loadPool();
+});
+
+// ── edit modal ────────────────────────────────────────────────────────────────
+function openEdit() {
+  const c = state.current; if (!c) return;
+  $('editTitle').textContent = `Edit ${c.hangul} · ${c.category}`;
+  $('fHangul').value = c.hangul;
+  $('fMemo').value = c.memo || '';
+  $('fCategory').value = c.category;
+  $('fRr').value = c.rr;
+  $('fKeys').value = c.keys;
+  $('fWeight').value = state.weight;
+  $('editErr').textContent = '';
+  el.dialog.showModal();
+}
+el.editBtn.addEventListener('click', openEdit);
+$('cancelEdit').addEventListener('click', () => el.dialog.close());
+
+async function saveEdit() {
+  const c = state.current;
+  const body = {
+    owner: state.owner, cp: c.cp,
+    memo: $('fMemo').value,
+    category: $('fCategory').value,
+    rr: $('fRr').value.trim(),
+    keys: $('fKeys').value.trim(),
+    weight: Number($('fWeight').value),
+  };
+  const send = (token) => api('/api/card', {
+    method: 'POST',
+    headers: { 'content-type': 'application/json', 'X-Admin-Token': token },
+    body: JSON.stringify(body),
+  });
+
+  let token = localStorage.getItem('krchar.token') || '';
+  try {
+    if (!token) throw Object.assign(new Error('unauthorized'), { status: 401 });
+    await send(token);
+  } catch (err) {
+    if (err.status === 401) {
+      const entered = window.prompt('Admin token (stored on this device only):');
+      if (!entered) { $('editErr').textContent = 'Cancelled — token required'; return; }
+      localStorage.setItem('krchar.token', entered);
+      try { await send(entered); } catch (e2) {
+        $('editErr').textContent = e2.message || 'Save failed'; return;
+      }
+    } else {
+      $('editErr').textContent = err.message || 'Save failed'; return;
+    }
+  }
+  Object.assign(c, {
+    memo: body.memo, category: body.category, rr: body.rr, keys: body.keys,
+  });
+  c.weight = body.weight; state.weight = body.weight;
+  el.dialog.close();
+  render();
+  // category may have left the open set -> refresh the pool
+  loadPool();
+}
+
+$('saveEdit').addEventListener('click', saveEdit);
+el.dialog.addEventListener('keydown', (e) => { if (e.key === 'Enter' && e.metaKey) saveEdit(); });
+
+// ── boot ──────────────────────────────────────────────────────────────────────
+document.body.dataset.mode = state.mode;
+$('mode-rr').setAttribute('aria-pressed', String(state.mode === 'rr'));
+$('mode-dubeolsik').setAttribute('aria-pressed', String(state.mode === 'dubeolsik'));
+loadPool().catch((e) => { el.char.textContent = '⚠️'; el.feedback.textContent = e.message; });
+</script>
+</body>
+</html>

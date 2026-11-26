@@ -1,0 +1,189 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>KRChar · Table</title>
+<style>
+  :root{ --bg:#f6f5f2; --card:#fff; --fg:#1d1f22; --muted:#6b7280; --border:#e3e1dc;
+         --accent:#2f6f4e; --accent-fg:#fff; --gold:#b8860b; }
+  @media (prefers-color-scheme: dark){ :root{ --bg:#181a1d; --card:#23252b; --fg:#e8e8ea;
+         --muted:#9aa0a6; --border:#34373d; --accent:#5aa87f; --accent-fg:#0d1117; --gold:#e0b44a; } }
+  *{box-sizing:border-box}
+  body{margin:0;background:var(--bg);color:var(--fg);font:15px/1.4 -apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,sans-serif}
+  header{position:sticky;top:0;background:var(--bg);border-bottom:1px solid var(--border);padding:10px 14px;z-index:5}
+  .bar{display:flex;gap:8px;align-items:center;flex-wrap:wrap}
+  h1{font-size:1rem;margin:0 8px 0 0}
+  input,select,button{font:inherit;color:inherit}
+  input[type=search],select{padding:7px 9px;border-radius:9px;border:1px solid var(--border);background:var(--card)}
+  button{padding:7px 12px;border-radius:9px;border:1px solid var(--border);background:var(--card);cursor:pointer}
+  button.primary{background:var(--accent);color:var(--accent-fg);border-color:transparent}
+  .wrap{overflow-x:auto;padding:10px 14px 40px}
+  table{border-collapse:collapse;min-width:720px;width:100%}
+  th,td{padding:6px 8px;border-bottom:1px solid var(--border);text-align:left;vertical-align:top}
+  th{font-size:.75rem;text-transform:uppercase;letter-spacing:.08em;color:var(--muted);cursor:pointer}
+  tbody tr{cursor:pointer}
+  tbody tr:hover{background:rgba(127,127,127,.08)}
+  td.char{font-size:1.3rem}
+  td.keys{font-family:ui-monospace,Menlo,monospace}
+  td.memo{color:var(--muted);max-width:320px}
+  tr.w14 td.weight,tr.w15 td.weight{color:var(--gold);font-weight:600}
+  .pager{display:flex;gap:8px;align-items:center;justify-content:center;padding:12px;color:var(--muted);font-size:.85rem}
+  dialog{border:1px solid var(--border);border-radius:16px;background:var(--card);color:var(--fg);
+         padding:0;max-width:460px;width:calc(100% - 32px)}
+  dialog::backdrop{background:rgba(0,0,0,.45)}
+  form{display:flex;flex-direction:column;gap:10px;padding:16px}
+  form h2{margin:0;font-size:1rem}
+  label{display:flex;flex-direction:column;gap:4px;font-size:.78rem;color:var(--muted)}
+  label input,label select,label textarea{padding:8px 10px;border-radius:9px;border:1px solid var(--border);background:var(--bg);font-size:.95rem}
+  textarea{min-height:60px}
+  .btnrow{display:flex;justify-content:flex-end;gap:8px}
+  .err{color:#b3261e;font-size:.8rem;min-height:1.2em}
+</style>
+</head>
+<body>
+<header>
+  <div class="bar">
+    <h1>KRChar · Table</h1>
+    <a href="/" style="text-decoration:none">← Drill</a>
+    <input type="search" id="q" placeholder="search char / rr / keys / memo" size="26">
+    <select id="cat">
+      <option value="">all categories</option>
+      <option>L0c</option><option>L0v</option><option>L0d</option>
+      <option>L1c</option><option>L1v</option><option>L1</option>
+      <option>L2</option><option>L3</option><option>L4</option><option>L5</option><option>L6</option>
+    </select>
+    <select id="sort">
+      <option value="ord">sort: ord</option>
+      <option value="weight_desc">sort: weight ↓</option>
+      <option value="weight_asc">sort: weight ↑</option>
+      <option value="char">sort: char A→Z</option>
+    </select>
+    <span id="count" style="color:var(--muted);font-size:.85rem"></span>
+  </div>
+</header>
+
+<div class="wrap">
+  <table>
+    <thead><tr><th>#</th><th>char</th><th>cat</th><th>RR</th><th>keys</th><th>w</th><th>memo</th></tr></thead>
+    <tbody id="rows"></tbody>
+  </table>
+  <div class="pager">
+    <button id="prev">Prev</button><span id="page"></span><button id="next">Next</button>
+  </div>
+</div>
+
+<dialog id="dlg">
+  <form id="f" method="dialog">
+    <h2 id="title">Edit</h2>
+    <label>Memo<textarea id="fMemo"></textarea></label>
+    <label>Category
+      <select id="fCategory">
+        <option>L0c</option><option>L0v</option><option>L0d</option>
+        <option>L1c</option><option>L1v</option><option>L1</option>
+        <option>L2</option><option>L3</option><option>L4</option>
+        <option>L5</option><option>L6</option>
+      </select></label>
+    <label>RR<input id="fRr"></label>
+    <label>Keys<input id="fKeys"></label>
+    <label>Weight (1–15)<input id="fWeight" type="number" min="1" max="15" step="1"></label>
+    <div class="err" id="err"></div>
+    <div class="btnrow"><button type="button" id="cancel">Cancel</button>
+      <button type="button" class="primary" id="save">Save</button></div>
+  </form>
+</dialog>
+
+<script>
+const S = { all: [], view: [], page: 0, per: 100, ed: null,
+            owner: localStorage.getItem('krchar.owner') || 'fred0928' };
+const $ = (id) => document.getElementById(id);
+
+async function api(path, opts = {}) {
+  const res = await fetch(path, opts);
+  const data = await res.json().catch(() => ({}));
+  if (!res.ok) throw Object.assign(new Error(data.error || res.status), { status: res.status });
+  return data;
+}
+
+async function load() {
+  const d = await api(`/api/cards?scope=all&owner=${encodeURIComponent(S.owner)}`);
+  S.all = d.cards;
+  applyFilters();
+}
+load().catch((e) => { $('count').textContent = e.message; });
+
+function applyFilters() {
+  const q = $('q').value.trim().toLowerCase();
+  const cat = $('cat').value;
+  let rows = S.all.filter((c) =>
+    (!cat || c.category === cat) &&
+    (!q || [c.hangul, c.rr, c.keys, c.memo, String(c.ord)].some((v) => (v || '').toLowerCase().includes(q))));
+  const sort = $('sort').value;
+  if (sort === 'weight_desc') rows.sort((a, b) => b.weight - a.weight);
+  else if (sort === 'weight_asc') rows.sort((a, b) => a.weight - b.weight);
+  else if (sort === 'char') rows.sort((a, b) => a.hangul.localeCompare(b.hangul));
+  else rows.sort((a, b) => a.ord - b.ord);
+  S.view = rows; S.page = 0; render();
+}
+
+function render() {
+  const start = S.page * S.per;
+  const slice = S.view.slice(start, start + S.per);
+  $('rows').innerHTML = slice.map((c) => `
+    <tr data-cp="${c.cp}" class="w${c.weight}">
+      <td>${c.ord}</td><td class="char">${c.hangul}</td><td>${c.category}</td>
+      <td>${c.rr}</td><td class="keys">${c.keys}</td><td class="weight">${c.weight}</td>
+      <td class="memo">${(c.memo || '').replace(/[<>&]/g, (m) => ({'<':'&lt;','>':'&gt;','&':'&amp;'}[m]))}</td>
+    </tr>`).join('');
+  const pages = Math.max(1, Math.ceil(S.view.length / S.per));
+  $('page').textContent = `${S.page + 1} / ${pages}`;
+  $('count').textContent = `${S.view.length} cards`;
+  $('prev').disabled = S.page === 0;
+  $('next').disabled = S.page >= pages - 1;
+}
+
+$('rows').addEventListener('click', (e) => {
+  const tr = e.target.closest('tr'); if (!tr) return;
+  const c = S.all.find((x) => x.cp === tr.dataset.cp); if (!c) return;
+  S.ed = c;
+  $('title').textContent = `Edit ${c.hangul} · ${c.category} · ${c.cp}`;
+  $('fMemo').value = c.memo || '';
+  $('fCategory').value = c.category;
+  $('fRr').value = c.rr;
+  $('fKeys').value = c.keys;
+  $('fWeight').value = c.weight;
+  $('err').textContent = '';
+  $('dlg').showModal();
+});
+
+$('cancel').addEventListener('click', () => $('dlg').close());
+$('save').addEventListener('click', async () => {
+  const c = S.ed; if (!c) return;
+  const body = { owner: S.owner, cp: c.cp, memo: $('fMemo').value, category: $('fCategory').value,
+                 rr: $('fRr').value.trim(), keys: $('fKeys').value.trim(), weight: Number($('fWeight').value) };
+  const send = (token) => api('/api/card', { method: 'POST',
+    headers: { 'content-type': 'application/json', 'X-Admin-Token': token }, body: JSON.stringify(body) });
+  let token = localStorage.getItem('krchar.token') || '';
+  try {
+    if (!token) throw Object.assign(new Error('unauthorized'), { status: 401 });
+    await send(token);
+  } catch (e) {
+    if (e.status === 401) {
+      const t = window.prompt('Admin token:');
+      if (!t) { $('err').textContent = 'token required'; return; }
+      localStorage.setItem('krchar.token', t);
+      try { await send(t); } catch (e2) { $('err').textContent = e2.message; return; }
+    } else { $('err').textContent = e.message; return; }
+  }
+  Object.assign(c, { memo: body.memo, category: body.category, rr: body.rr, keys: body.keys, weight: body.weight });
+  $('dlg').close(); applyFilters();
+});
+
+$('q').addEventListener('input', applyFilters);
+$('cat').addEventListener('change', applyFilters);
+$('sort').addEventListener('change', applyFilters);
+$('prev').addEventListener('click', () => { if (S.page > 0) { S.page--; render(); } });
+$('next').addEventListener('click', () => { if ((S.page + 1) * S.per < S.view.length) { S.page++; render(); } });
+</script>
+</body>
+</html>

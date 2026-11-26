@@ -1,0 +1,19 @@
+.DS_Store
+
+# Audio IS committed (see README, "Audio"): 809 clips, ~3.2 MB.
+# Regenerating the whole voice rewrites every file — do it as its own commit.
+# Temporary files from code/make_audio.py
+audio/.tmp/
+
+# Private scratch — the author's own notes, never published
+KRChar.txt
+
+# Local planning/review notes
+.hermes/
+
+# Worker build/run artefacts
+worker/.wrangler/
+worker/public/audio/          # copy made by scripts/sync_audio.sh
+worker/.dev.vars              # local ADMIN_TOKEN
+.admin-token                  # generated admin token for deployed edits
+node_modules/
