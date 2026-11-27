@@ -127,7 +127,7 @@ Every quiz-able row has one short clip: 793 syllables + 13 consonant names + 3 v
 | vowel letter | the syllable carrying it | ㅏ → `audio/jamo/314F.mp3`, spoken 「아」 |
 
 **The audio is committed** (`audio/`, 3.2 MB) so the published page can play it. It is
-synthesised by Microsoft Edge TTS (`ko-KR-InJoonNeural`), which is an unofficial client of
+synthesised by Microsoft Edge TTS (`ko-KR-HyunsuMultilingualNeural`), which is an unofficial client of
 the Edge Read Aloud service: Microsoft publishes no licence granting redistribution, so the
 clips are "personal use" in spirit and the project owner accepted the residual risk. If a
 takedown is ever requested, the fix is one commit:

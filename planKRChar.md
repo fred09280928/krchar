@@ -133,7 +133,7 @@ E 欄是提示欄，格式 `<圖像詞> = <鍵位>`（大寫＝Shift）：
 
 - 數量：**809 段**＝793 音節 ＋ 13 子音字母名 ＋ 3 母音音值；L0 不做音檔。
 - 唸法：音節唸該字（가）；子音唸字母名（ㄱ→기역、ㄲ→쌍기역…）；母音唸承載它的音節（ㅏ→아）。
-- 引擎：edge-tts `ko-KR-InJoonNeural`（男聲，中位 F0 110 Hz），輸出 `audio/syl|jamo/<碼點>.mp3`，去靜音＋−16 LUFS 正規化，單聲道 24 kHz 48 kbps，0.3–0.6 秒、2–3 KB。
+- 引擎：edge-tts `ko-KR-HyunsuMultilingualNeural`（男聲），輸出 `audio/syl|jamo/<碼點>.mp3`，去靜音＋−16 LUFS 正規化，單聲道 24 kHz 48 kbps，0.3–0.6 秒、2–3 KB。
 - **授權**：edge-tts 是逆向使用 Edge 朗讀服務，輸出沒有明文授權（Apple `say` 更明文禁止 recording／redistribution）。使用者 2026-11-26 決定**接受殘餘風險、音檔照樣進 repo**，若日後被要求下架即 `rm -rf audio/` 一個 commit 收掉，頁面自動變無聲版。
 - repo 內容：`audio/`（3.2 MB 音檔）＋ `code/make_audio.py` ＋ `data/audio-manifest.json`（char／spoken／duration／sha256）。
 - 換引擎時整批重生成即可：改 `VOICE`，或把寫檔端換成本地引擎（MeloTTS KR 為 MIT 可散布，但單一聲音為女聲 172 Hz）。
@@ -158,7 +158,8 @@ E 欄是提示欄，格式 `<圖像詞> = <鍵位>`（大寫＝Shift）：
 | 14 | 驗證方式 | 每次改動後跑 `code/validate_krchar.py`，回報「PASS / 總列數」 |
 | 15 | 分類前綴語意 | `0c/0v/0d` 改名 `L0c/L0v/L0d`（24 列）：前綴一律 `L`＋級別；`0` = 字母表（不單獨成字、只練鍵位），`1` 以上 = 可練打目標（2026-11-26） |
 | 16 | memo 記憶法 | 26 個圖像詞（一鍵一詞）組成字串，大寫＝Shift，尾附 `= 鍵位`；L0 留空；아/가/강 保留英文單字 peg（2026-11-26） |
-| 17 | 測驗發音 | edge-tts `ko-KR-InJoonNeural`（男聲）生成 809 段；子音唸字母名、母音唸音節（2026-11-26） |
+| 17 | 測驗發音 | edge-tts 男聲生成 809 段；子音唸字母名、母音唸音節（2026-11-26） |
+| 21 | 換聲音 | InJoon 唸短母音（ㅠ）只有 0.12 秒有聲段，聽起來像被切斷 → 全部改用 `HyunsuMultilingualNeural` 重生成，尾端保留 120 ms（2026-11-27） |
 | 18 | 音檔是否進 repo | **進**：使用者接受 Edge TTS 授權的殘餘風險，公開站要能播放；被要求下架時 `rm -rf audio/` 一個 commit（頁面自動無聲），manifest 保留（2026-11-26） |
 | 19 | 長期資料架構 | **Worker + D1**（同 `esflash-d1` 模式）；Google Sheet 只是初稿，定稿後整份複製進 D1 並停用 Sheet；因不再回寫 Sheet，**不需要 `sheet_pending` 與 `row_no`**（2026-11-26） |
 | 20 | D1 內容切分 | `cards`＝共用內容（含 memo）；`card_stats`＝每人 weight／correct／wrong；`reviews`＝作答紀錄；主鍵用碼點 `cp`，排序用 `ord` 保留 L1→L6 進度（2026-11-26） |
