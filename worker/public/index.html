@@ -200,7 +200,7 @@ const state = {
   mode: localStorage.getItem('krchar.mode') || 'dubeolsik',
   owner: localStorage.getItem('krchar.owner') || 'fred0928',
   cards: [], pool: [], current: null, weight: 12,
-  attempts: 0, locked: false, inflight: false, timer: null,
+  attempts: 0, locked: false, inflight: false, timer: null, lastCp: null,
   typed: '', composed: '',
   okSet: new Set(), errSet: new Set(), doneSet: new Set(),
 };
@@ -246,20 +246,25 @@ async function api(path, opts = {}) {
 async function loadPool() {
   const d = await api(`/api/cards?level=${state.level}&owner=${encodeURIComponent(state.owner)}`);
   state.pool = d.cards;
-  state.okSet.clear(); state.errSet.clear(); state.doneSet.clear();
+  state.okSet.clear(); state.errSet.clear(); state.doneSet.clear(); state.lastCp = null;
   nextCard();
   refreshStats();
 }
 
 function pickCard() {
-  const total = state.pool.reduce((s, c) => s + c.weight, 0);
+  // Never serve the same card twice in a row: drop the previous one from the wheel.
+  const pool = (state.lastCp && state.pool.length > 1)
+    ? state.pool.filter((c) => c.cp !== state.lastCp)
+    : state.pool;
+  const total = pool.reduce((s, c) => s + c.weight, 0);
   let r = Math.random() * total;
-  for (const c of state.pool) { r -= c.weight; if (r <= 0) return c; }
-  return state.pool[state.pool.length - 1];
+  for (const c of pool) { r -= c.weight; if (r <= 0) return c; }
+  return pool[pool.length - 1];
 }
 
 function nextCard() {
   clearTimeout(state.timer); state.timer = null;
+  if (state.current) state.lastCp = state.current.cp;
   state.current = pickCard();
   state.weight = state.current ? state.current.weight : 12;
   state.attempts = 0; state.locked = false; state.inflight = false;

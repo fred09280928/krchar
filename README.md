@@ -211,7 +211,7 @@ weight changes, key validation, the admin token and today's counters.
 
 Answer modes: the prompt is always the character; **Dubeolsik** grades the physical keys
 (`R` = Shift+r) captured on `keydown`, **RR** grades the romanisation from `r` column C.
-Levels are cumulative — L2 drills L1\* + L2 (37 cards), L3 → 211, L4 → 366. L0 never appears.
+Levels are cumulative — L2 drills L1\* + L2 (37 cards), L3 → 211, L4 → 366. L0 never appears. Picking is weight roulette and never serves the same card twice in a row.
 
 Deploy: `cd worker && npx wrangler secret put ADMIN_TOKEN && npx wrangler deploy`.
 
