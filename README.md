@@ -95,7 +95,8 @@ keystrokes (`O`, `P`) — the earlier `Shift + o, i` form would have typed an ex
 
 ## Memo column (memory aids)
 
-Column E is a hint, not data: each cell reads `<pictures> = KEYS`, one picture word per key press.
+Column E is a hint, not data: each cell reads `<pictures> = keys`, one picture word per key press and
+then the literal characters to type — copied from column D, so uppercase there really means Shift.
 
 - **Uppercase picture = Shift held.** `dog orange` = 애 (d, o); `dog ORANGE` = 얘 (d, O).
 - The picture words come from one fixed set of 26, so learning 26 words decodes every row:
@@ -107,7 +108,8 @@ o orange  p pen     q queen   r rabbit  s snake   t tiger   u umbrella
 v violin  w whale   x x-ray   y yoyo    z zebra
 ```
 
-- Single letters are just one picture: ㄱ `r` → `rabbit = R`, ㅠ `b` → `ball = B`.
+- Single letters are just one picture: ㄱ `r` → `rabbit = r`, ㅠ `b` → `ball = b`.
+- The part after `=` is the key sequence verbatim: `꾸` → `RABBIT nose = Rn` (Shift on the first key only).
 - A few rows use a real English word whose consonants are the keys, kept as exceptions:
   아 `duke`, 가 `ark`, 강 `arked` (ark + d).
 - **L0 rows are deliberately left blank** — the letter layer is never drilled, so it needs no hint.

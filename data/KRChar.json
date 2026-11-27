@@ -4,7 +4,7 @@
   "Hangul": "ㄱ",
   "RR": "g",
   "Dubeolsik key": "r",
-  "memo": "rabbit = R"
+  "memo": "rabbit = r"
  },
  {
   "category": "L0c",
@@ -18,14 +18,14 @@
   "Hangul": "ㄴ",
   "RR": "n",
   "Dubeolsik key": "s",
-  "memo": "snake = S"
+  "memo": "snake = s"
  },
  {
   "category": "L1c",
   "Hangul": "ㄷ",
   "RR": "d",
   "Dubeolsik key": "e",
-  "memo": "egg = E"
+  "memo": "egg = e"
  },
  {
   "category": "L0c",
@@ -39,21 +39,21 @@
   "Hangul": "ㄹ",
   "RR": "r",
   "Dubeolsik key": "f",
-  "memo": "fish = F"
+  "memo": "fish = f"
  },
  {
   "category": "L1c",
   "Hangul": "ㅁ",
   "RR": "m",
   "Dubeolsik key": "a",
-  "memo": "apple = A"
+  "memo": "apple = a"
  },
  {
   "category": "L1c",
   "Hangul": "ㅂ",
   "RR": "b",
   "Dubeolsik key": "q",
-  "memo": "queen = Q"
+  "memo": "queen = q"
  },
  {
   "category": "L0c",
@@ -67,7 +67,7 @@
   "Hangul": "ㅅ",
   "RR": "s",
   "Dubeolsik key": "t",
-  "memo": "tiger = T"
+  "memo": "tiger = t"
  },
  {
   "category": "L0c",
@@ -81,14 +81,14 @@
   "Hangul": "ㅇ",
   "RR": "ng",
   "Dubeolsik key": "d",
-  "memo": "dog = D"
+  "memo": "dog = d"
  },
  {
   "category": "L1c",
   "Hangul": "ㅈ",
   "RR": "j",
   "Dubeolsik key": "w",
-  "memo": "whale = W"
+  "memo": "whale = w"
  },
  {
   "category": "L0c",
@@ -102,21 +102,21 @@
   "Hangul": "ㅊ",
   "RR": "ch",
   "Dubeolsik key": "c",
-  "memo": "cat = C"
+  "memo": "cat = c"
  },
  {
   "category": "L1c",
   "Hangul": "ㅋ",
   "RR": "k",
   "Dubeolsik key": "z",
-  "memo": "zebra = Z"
+  "memo": "zebra = z"
  },
  {
   "category": "L1c",
   "Hangul": "ㅌ",
   "RR": "t",
   "Dubeolsik key": "x",
-  "memo": "x-ray = X"
+  "memo": "x-ray = x"
  },
  {
   "category": "L0c",
@@ -130,7 +130,7 @@
   "Hangul": "ㅎ",
   "RR": "h",
   "Dubeolsik key": "g",
-  "memo": "gun = G"
+  "memo": "gun = g"
  },
  {
   "category": "L0v",
@@ -165,7 +165,7 @@
   "Hangul": "ㅗ",
   "RR": "o",
   "Dubeolsik key": "h",
-  "memo": "hat = H"
+  "memo": "hat = h"
  },
  {
   "category": "L0v",
@@ -179,14 +179,14 @@
   "Hangul": "ㅜ",
   "RR": "u",
   "Dubeolsik key": "n",
-  "memo": "nose = N"
+  "memo": "nose = n"
  },
  {
   "category": "L1v",
   "Hangul": "ㅠ",
   "RR": "yu",
   "Dubeolsik key": "b",
-  "memo": "ball = B"
+  "memo": "ball = b"
  },
  {
   "category": "L0v",
@@ -284,5550 +284,5550 @@
   "Hangul": "아",
   "RR": "a",
   "Dubeolsik key": "dk",
-  "memo": "duke = D+K"
+  "memo": "duke = dk"
  },
  {
   "category": "L1",
   "Hangul": "야",
   "RR": "ya",
   "Dubeolsik key": "di",
-  "memo": "dog ink = D+I"
+  "memo": "dog ink = di"
  },
  {
   "category": "L1",
   "Hangul": "어",
   "RR": "eo",
   "Dubeolsik key": "dj",
-  "memo": "dog jam = D+J"
+  "memo": "dog jam = dj"
  },
  {
   "category": "L1",
   "Hangul": "여",
   "RR": "yeo",
   "Dubeolsik key": "du",
-  "memo": "dog umbrella = D+U"
+  "memo": "dog umbrella = du"
  },
  {
   "category": "L1",
   "Hangul": "오",
   "RR": "o",
   "Dubeolsik key": "dh",
-  "memo": "dog hat = D+H"
+  "memo": "dog hat = dh"
  },
  {
   "category": "L1",
   "Hangul": "요",
   "RR": "yo",
   "Dubeolsik key": "dy",
-  "memo": "dog yoyo = D+Y"
+  "memo": "dog yoyo = dy"
  },
  {
   "category": "L1",
   "Hangul": "우",
   "RR": "u",
   "Dubeolsik key": "dn",
-  "memo": "dog nose = D+N"
+  "memo": "dog nose = dn"
  },
  {
   "category": "L1",
   "Hangul": "유",
   "RR": "yu",
   "Dubeolsik key": "db",
-  "memo": "dog ball = D+B"
+  "memo": "dog ball = db"
  },
  {
   "category": "L1",
   "Hangul": "으",
   "RR": "eu",
   "Dubeolsik key": "dm",
-  "memo": "dog moon = D+M"
+  "memo": "dog moon = dm"
  },
  {
   "category": "L1",
   "Hangul": "이",
   "RR": "i",
   "Dubeolsik key": "dl",
-  "memo": "dog lion = D+L"
+  "memo": "dog lion = dl"
  },
  {
   "category": "L2",
   "Hangul": "애",
   "RR": "ae",
   "Dubeolsik key": "do",
-  "memo": "dog orange = D+O"
+  "memo": "dog orange = do"
  },
  {
   "category": "L2",
   "Hangul": "얘",
   "RR": "yae",
   "Dubeolsik key": "dO",
-  "memo": "dog ORANGE = D+O"
+  "memo": "dog ORANGE = dO"
  },
  {
   "category": "L2",
   "Hangul": "에",
   "RR": "e",
   "Dubeolsik key": "dp",
-  "memo": "dog pen = D+P"
+  "memo": "dog pen = dp"
  },
  {
   "category": "L2",
   "Hangul": "예",
   "RR": "ye",
   "Dubeolsik key": "dP",
-  "memo": "dog PEN = D+P"
+  "memo": "dog PEN = dP"
  },
  {
   "category": "L2",
   "Hangul": "와",
   "RR": "wa",
   "Dubeolsik key": "dhk",
-  "memo": "dog hat kite = D+H+K"
+  "memo": "dog hat kite = dhk"
  },
  {
   "category": "L2",
   "Hangul": "왜",
   "RR": "wae",
   "Dubeolsik key": "dho",
-  "memo": "dog hat orange = D+H+O"
+  "memo": "dog hat orange = dho"
  },
  {
   "category": "L2",
   "Hangul": "외",
   "RR": "oe",
   "Dubeolsik key": "dhl",
-  "memo": "dog hat lion = D+H+L"
+  "memo": "dog hat lion = dhl"
  },
  {
   "category": "L2",
   "Hangul": "워",
   "RR": "wo",
   "Dubeolsik key": "dnj",
-  "memo": "dog nose jam = D+N+J"
+  "memo": "dog nose jam = dnj"
  },
  {
   "category": "L2",
   "Hangul": "웨",
   "RR": "we",
   "Dubeolsik key": "dnp",
-  "memo": "dog nose pen = D+N+P"
+  "memo": "dog nose pen = dnp"
  },
  {
   "category": "L2",
   "Hangul": "위",
   "RR": "wi",
   "Dubeolsik key": "dnl",
-  "memo": "dog nose lion = D+N+L"
+  "memo": "dog nose lion = dnl"
  },
  {
   "category": "L2",
   "Hangul": "의",
   "RR": "ui",
   "Dubeolsik key": "dml",
-  "memo": "dog moon lion = D+M+L"
+  "memo": "dog moon lion = dml"
  },
  {
   "category": "L3",
   "Hangul": "가",
   "RR": "ga",
   "Dubeolsik key": "rk",
-  "memo": "ark = R+K"
+  "memo": "ark = rk"
  },
  {
   "category": "L3",
   "Hangul": "갸",
   "RR": "gya",
   "Dubeolsik key": "ri",
-  "memo": "rabbit ink = R+I"
+  "memo": "rabbit ink = ri"
  },
  {
   "category": "L3",
   "Hangul": "거",
   "RR": "geo",
   "Dubeolsik key": "rj",
-  "memo": "rabbit jam = R+J"
+  "memo": "rabbit jam = rj"
  },
  {
   "category": "L3",
   "Hangul": "겨",
   "RR": "gyeo",
   "Dubeolsik key": "ru",
-  "memo": "rabbit umbrella = R+U"
+  "memo": "rabbit umbrella = ru"
  },
  {
   "category": "L3",
   "Hangul": "고",
   "RR": "go",
   "Dubeolsik key": "rh",
-  "memo": "rabbit hat = R+H"
+  "memo": "rabbit hat = rh"
  },
  {
   "category": "L3",
   "Hangul": "교",
   "RR": "gyo",
   "Dubeolsik key": "ry",
-  "memo": "rabbit yoyo = R+Y"
+  "memo": "rabbit yoyo = ry"
  },
  {
   "category": "L3",
   "Hangul": "구",
   "RR": "gu",
   "Dubeolsik key": "rn",
-  "memo": "rabbit nose = R+N"
+  "memo": "rabbit nose = rn"
  },
  {
   "category": "L3",
   "Hangul": "규",
   "RR": "gyu",
   "Dubeolsik key": "rb",
-  "memo": "rabbit ball = R+B"
+  "memo": "rabbit ball = rb"
  },
  {
   "category": "L3",
   "Hangul": "그",
   "RR": "geu",
   "Dubeolsik key": "rm",
-  "memo": "rabbit moon = R+M"
+  "memo": "rabbit moon = rm"
  },
  {
   "category": "L3",
   "Hangul": "기",
   "RR": "gi",
   "Dubeolsik key": "rl",
-  "memo": "rabbit lion = R+L"
+  "memo": "rabbit lion = rl"
  },
  {
   "category": "L3",
   "Hangul": "까",
   "RR": "kka",
   "Dubeolsik key": "Rk",
-  "memo": "RABBIT kite = R+K"
+  "memo": "RABBIT kite = Rk"
  },
  {
   "category": "L3",
   "Hangul": "꺄",
   "RR": "kkya",
   "Dubeolsik key": "Ri",
-  "memo": "RABBIT ink = R+I"
+  "memo": "RABBIT ink = Ri"
  },
  {
   "category": "L3",
   "Hangul": "꺼",
   "RR": "kkeo",
   "Dubeolsik key": "Rj",
-  "memo": "RABBIT jam = R+J"
+  "memo": "RABBIT jam = Rj"
  },
  {
   "category": "L3",
   "Hangul": "껴",
   "RR": "kkyeo",
   "Dubeolsik key": "Ru",
-  "memo": "RABBIT umbrella = R+U"
+  "memo": "RABBIT umbrella = Ru"
  },
  {
   "category": "L3",
   "Hangul": "꼬",
   "RR": "kko",
   "Dubeolsik key": "Rh",
-  "memo": "RABBIT hat = R+H"
+  "memo": "RABBIT hat = Rh"
  },
  {
   "category": "L3",
   "Hangul": "꾸",
   "RR": "kku",
   "Dubeolsik key": "Rn",
-  "memo": "RABBIT nose = R+N"
+  "memo": "RABBIT nose = Rn"
  },
  {
   "category": "L3",
   "Hangul": "뀨",
   "RR": "kkyu",
   "Dubeolsik key": "Rb",
-  "memo": "RABBIT ball = R+B"
+  "memo": "RABBIT ball = Rb"
  },
  {
   "category": "L3",
   "Hangul": "끄",
   "RR": "kkeu",
   "Dubeolsik key": "Rm",
-  "memo": "RABBIT moon = R+M"
+  "memo": "RABBIT moon = Rm"
  },
  {
   "category": "L3",
   "Hangul": "끼",
   "RR": "kki",
   "Dubeolsik key": "Rl",
-  "memo": "RABBIT lion = R+L"
+  "memo": "RABBIT lion = Rl"
  },
  {
   "category": "L3",
   "Hangul": "나",
   "RR": "na",
   "Dubeolsik key": "sk",
-  "memo": "snake kite = S+K"
+  "memo": "snake kite = sk"
  },
  {
   "category": "L3",
   "Hangul": "냐",
   "RR": "nya",
   "Dubeolsik key": "si",
-  "memo": "snake ink = S+I"
+  "memo": "snake ink = si"
  },
  {
   "category": "L3",
   "Hangul": "너",
   "RR": "neo",
   "Dubeolsik key": "sj",
-  "memo": "snake jam = S+J"
+  "memo": "snake jam = sj"
  },
  {
   "category": "L3",
   "Hangul": "녀",
   "RR": "nyeo",
   "Dubeolsik key": "su",
-  "memo": "snake umbrella = S+U"
+  "memo": "snake umbrella = su"
  },
  {
   "category": "L3",
   "Hangul": "노",
   "RR": "no",
   "Dubeolsik key": "sh",
-  "memo": "snake hat = S+H"
+  "memo": "snake hat = sh"
  },
  {
   "category": "L3",
   "Hangul": "뇨",
   "RR": "nyo",
   "Dubeolsik key": "sy",
-  "memo": "snake yoyo = S+Y"
+  "memo": "snake yoyo = sy"
  },
  {
   "category": "L3",
   "Hangul": "누",
   "RR": "nu",
   "Dubeolsik key": "sn",
-  "memo": "snake nose = S+N"
+  "memo": "snake nose = sn"
  },
  {
   "category": "L3",
   "Hangul": "뉴",
   "RR": "nyu",
   "Dubeolsik key": "sb",
-  "memo": "snake ball = S+B"
+  "memo": "snake ball = sb"
  },
  {
   "category": "L3",
   "Hangul": "느",
   "RR": "neu",
   "Dubeolsik key": "sm",
-  "memo": "snake moon = S+M"
+  "memo": "snake moon = sm"
  },
  {
   "category": "L3",
   "Hangul": "니",
   "RR": "ni",
   "Dubeolsik key": "sl",
-  "memo": "snake lion = S+L"
+  "memo": "snake lion = sl"
  },
  {
   "category": "L3",
   "Hangul": "다",
   "RR": "da",
   "Dubeolsik key": "ek",
-  "memo": "egg kite = E+K"
+  "memo": "egg kite = ek"
  },
  {
   "category": "L3",
   "Hangul": "댜",
   "RR": "dya",
   "Dubeolsik key": "ei",
-  "memo": "egg ink = E+I"
+  "memo": "egg ink = ei"
  },
  {
   "category": "L3",
   "Hangul": "더",
   "RR": "deo",
   "Dubeolsik key": "ej",
-  "memo": "egg jam = E+J"
+  "memo": "egg jam = ej"
  },
  {
   "category": "L3",
   "Hangul": "뎌",
   "RR": "dyeo",
   "Dubeolsik key": "eu",
-  "memo": "egg umbrella = E+U"
+  "memo": "egg umbrella = eu"
  },
  {
   "category": "L3",
   "Hangul": "도",
   "RR": "do",
   "Dubeolsik key": "eh",
-  "memo": "egg hat = E+H"
+  "memo": "egg hat = eh"
  },
  {
   "category": "L3",
   "Hangul": "됴",
   "RR": "dyo",
   "Dubeolsik key": "ey",
-  "memo": "egg yoyo = E+Y"
+  "memo": "egg yoyo = ey"
  },
  {
   "category": "L3",
   "Hangul": "두",
   "RR": "du",
   "Dubeolsik key": "en",
-  "memo": "egg nose = E+N"
+  "memo": "egg nose = en"
  },
  {
   "category": "L3",
   "Hangul": "듀",
   "RR": "dyu",
   "Dubeolsik key": "eb",
-  "memo": "egg ball = E+B"
+  "memo": "egg ball = eb"
  },
  {
   "category": "L3",
   "Hangul": "드",
   "RR": "deu",
   "Dubeolsik key": "em",
-  "memo": "egg moon = E+M"
+  "memo": "egg moon = em"
  },
  {
   "category": "L3",
   "Hangul": "디",
   "RR": "di",
   "Dubeolsik key": "el",
-  "memo": "egg lion = E+L"
+  "memo": "egg lion = el"
  },
  {
   "category": "L3",
   "Hangul": "따",
   "RR": "tta",
   "Dubeolsik key": "Ek",
-  "memo": "EGG kite = E+K"
+  "memo": "EGG kite = Ek"
  },
  {
   "category": "L3",
   "Hangul": "땨",
   "RR": "ttya",
   "Dubeolsik key": "Ei",
-  "memo": "EGG ink = E+I"
+  "memo": "EGG ink = Ei"
  },
  {
   "category": "L3",
   "Hangul": "떠",
   "RR": "tteo",
   "Dubeolsik key": "Ej",
-  "memo": "EGG jam = E+J"
+  "memo": "EGG jam = Ej"
  },
  {
   "category": "L3",
   "Hangul": "뗘",
   "RR": "ttyeo",
   "Dubeolsik key": "Eu",
-  "memo": "EGG umbrella = E+U"
+  "memo": "EGG umbrella = Eu"
  },
  {
   "category": "L3",
   "Hangul": "또",
   "RR": "tto",
   "Dubeolsik key": "Eh",
-  "memo": "EGG hat = E+H"
+  "memo": "EGG hat = Eh"
  },
  {
   "category": "L3",
   "Hangul": "뚜",
   "RR": "ttu",
   "Dubeolsik key": "En",
-  "memo": "EGG nose = E+N"
+  "memo": "EGG nose = En"
  },
  {
   "category": "L3",
   "Hangul": "뜨",
   "RR": "tteu",
   "Dubeolsik key": "Em",
-  "memo": "EGG moon = E+M"
+  "memo": "EGG moon = Em"
  },
  {
   "category": "L3",
   "Hangul": "띠",
   "RR": "tti",
   "Dubeolsik key": "El",
-  "memo": "EGG lion = E+L"
+  "memo": "EGG lion = El"
  },
  {
   "category": "L3",
   "Hangul": "라",
   "RR": "ra",
   "Dubeolsik key": "fk",
-  "memo": "fish kite = F+K"
+  "memo": "fish kite = fk"
  },
  {
   "category": "L3",
   "Hangul": "랴",
   "RR": "rya",
   "Dubeolsik key": "fi",
-  "memo": "fish ink = F+I"
+  "memo": "fish ink = fi"
  },
  {
   "category": "L3",
   "Hangul": "러",
   "RR": "reo",
   "Dubeolsik key": "fj",
-  "memo": "fish jam = F+J"
+  "memo": "fish jam = fj"
  },
  {
   "category": "L3",
   "Hangul": "려",
   "RR": "ryeo",
   "Dubeolsik key": "fu",
-  "memo": "fish umbrella = F+U"
+  "memo": "fish umbrella = fu"
  },
  {
   "category": "L3",
   "Hangul": "로",
   "RR": "ro",
   "Dubeolsik key": "fh",
-  "memo": "fish hat = F+H"
+  "memo": "fish hat = fh"
  },
  {
   "category": "L3",
   "Hangul": "료",
   "RR": "ryo",
   "Dubeolsik key": "fy",
-  "memo": "fish yoyo = F+Y"
+  "memo": "fish yoyo = fy"
  },
  {
   "category": "L3",
   "Hangul": "루",
   "RR": "ru",
   "Dubeolsik key": "fn",
-  "memo": "fish nose = F+N"
+  "memo": "fish nose = fn"
  },
  {
   "category": "L3",
   "Hangul": "류",
   "RR": "ryu",
   "Dubeolsik key": "fb",
-  "memo": "fish ball = F+B"
+  "memo": "fish ball = fb"
  },
  {
   "category": "L3",
   "Hangul": "르",
   "RR": "reu",
   "Dubeolsik key": "fm",
-  "memo": "fish moon = F+M"
+  "memo": "fish moon = fm"
  },
  {
   "category": "L3",
   "Hangul": "리",
   "RR": "ri",
   "Dubeolsik key": "fl",
-  "memo": "fish lion = F+L"
+  "memo": "fish lion = fl"
  },
  {
   "category": "L3",
   "Hangul": "마",
   "RR": "ma",
   "Dubeolsik key": "ak",
-  "memo": "apple kite = A+K"
+  "memo": "apple kite = ak"
  },
  {
   "category": "L3",
   "Hangul": "먀",
   "RR": "mya",
   "Dubeolsik key": "ai",
-  "memo": "apple ink = A+I"
+  "memo": "apple ink = ai"
  },
  {
   "category": "L3",
   "Hangul": "머",
   "RR": "meo",
   "Dubeolsik key": "aj",
-  "memo": "apple jam = A+J"
+  "memo": "apple jam = aj"
  },
  {
   "category": "L3",
   "Hangul": "며",
   "RR": "myeo",
   "Dubeolsik key": "au",
-  "memo": "apple umbrella = A+U"
+  "memo": "apple umbrella = au"
  },
  {
   "category": "L3",
   "Hangul": "모",
   "RR": "mo",
   "Dubeolsik key": "ah",
-  "memo": "apple hat = A+H"
+  "memo": "apple hat = ah"
  },
  {
   "category": "L3",
   "Hangul": "묘",
   "RR": "myo",
   "Dubeolsik key": "ay",
-  "memo": "apple yoyo = A+Y"
+  "memo": "apple yoyo = ay"
  },
  {
   "category": "L3",
   "Hangul": "무",
   "RR": "mu",
   "Dubeolsik key": "an",
-  "memo": "apple nose = A+N"
+  "memo": "apple nose = an"
  },
  {
   "category": "L3",
   "Hangul": "뮤",
   "RR": "myu",
   "Dubeolsik key": "ab",
-  "memo": "apple ball = A+B"
+  "memo": "apple ball = ab"
  },
  {
   "category": "L3",
   "Hangul": "므",
   "RR": "meu",
   "Dubeolsik key": "am",
-  "memo": "apple moon = A+M"
+  "memo": "apple moon = am"
  },
  {
   "category": "L3",
   "Hangul": "미",
   "RR": "mi",
   "Dubeolsik key": "al",
-  "memo": "apple lion = A+L"
+  "memo": "apple lion = al"
  },
  {
   "category": "L3",
   "Hangul": "바",
   "RR": "ba",
   "Dubeolsik key": "qk",
-  "memo": "queen kite = Q+K"
+  "memo": "queen kite = qk"
  },
  {
   "category": "L3",
   "Hangul": "뱌",
   "RR": "bya",
   "Dubeolsik key": "qi",
-  "memo": "queen ink = Q+I"
+  "memo": "queen ink = qi"
  },
  {
   "category": "L3",
   "Hangul": "버",
   "RR": "beo",
   "Dubeolsik key": "qj",
-  "memo": "queen jam = Q+J"
+  "memo": "queen jam = qj"
  },
  {
   "category": "L3",
   "Hangul": "벼",
   "RR": "byeo",
   "Dubeolsik key": "qu",
-  "memo": "queen umbrella = Q+U"
+  "memo": "queen umbrella = qu"
  },
  {
   "category": "L3",
   "Hangul": "보",
   "RR": "bo",
   "Dubeolsik key": "qh",
-  "memo": "queen hat = Q+H"
+  "memo": "queen hat = qh"
  },
  {
   "category": "L3",
   "Hangul": "뵤",
   "RR": "byo",
   "Dubeolsik key": "qy",
-  "memo": "queen yoyo = Q+Y"
+  "memo": "queen yoyo = qy"
  },
  {
   "category": "L3",
   "Hangul": "부",
   "RR": "bu",
   "Dubeolsik key": "qn",
-  "memo": "queen nose = Q+N"
+  "memo": "queen nose = qn"
  },
  {
   "category": "L3",
   "Hangul": "뷰",
   "RR": "byu",
   "Dubeolsik key": "qb",
-  "memo": "queen ball = Q+B"
+  "memo": "queen ball = qb"
  },
  {
   "category": "L3",
   "Hangul": "브",
   "RR": "beu",
   "Dubeolsik key": "qm",
-  "memo": "queen moon = Q+M"
+  "memo": "queen moon = qm"
  },
  {
   "category": "L3",
   "Hangul": "비",
   "RR": "bi",
   "Dubeolsik key": "ql",
-  "memo": "queen lion = Q+L"
+  "memo": "queen lion = ql"
  },
  {
   "category": "L3",
   "Hangul": "빠",
   "RR": "ppa",
   "Dubeolsik key": "Qk",
-  "memo": "QUEEN kite = Q+K"
+  "memo": "QUEEN kite = Qk"
  },
  {
   "category": "L3",
   "Hangul": "뻐",
   "RR": "ppeo",
   "Dubeolsik key": "Qj",
-  "memo": "QUEEN jam = Q+J"
+  "memo": "QUEEN jam = Qj"
  },
  {
   "category": "L3",
   "Hangul": "뼈",
   "RR": "ppyeo",
   "Dubeolsik key": "Qu",
-  "memo": "QUEEN umbrella = Q+U"
+  "memo": "QUEEN umbrella = Qu"
  },
  {
   "category": "L3",
   "Hangul": "뽀",
   "RR": "ppo",
   "Dubeolsik key": "Qh",
-  "memo": "QUEEN hat = Q+H"
+  "memo": "QUEEN hat = Qh"
  },
  {
   "category": "L3",
   "Hangul": "뾰",
   "RR": "ppyo",
   "Dubeolsik key": "Qy",
-  "memo": "QUEEN yoyo = Q+Y"
+  "memo": "QUEEN yoyo = Qy"
  },
  {
   "category": "L3",
   "Hangul": "뿌",
   "RR": "ppu",
   "Dubeolsik key": "Qn",
-  "memo": "QUEEN nose = Q+N"
+  "memo": "QUEEN nose = Qn"
  },
  {
   "category": "L3",
   "Hangul": "쀼",
   "RR": "ppyu",
   "Dubeolsik key": "Qb",
-  "memo": "QUEEN ball = Q+B"
+  "memo": "QUEEN ball = Qb"
  },
  {
   "category": "L3",
   "Hangul": "쁘",
   "RR": "ppeu",
   "Dubeolsik key": "Qm",
-  "memo": "QUEEN moon = Q+M"
+  "memo": "QUEEN moon = Qm"
  },
  {
   "category": "L3",
   "Hangul": "삐",
   "RR": "ppi",
   "Dubeolsik key": "Ql",
-  "memo": "QUEEN lion = Q+L"
+  "memo": "QUEEN lion = Ql"
  },
  {
   "category": "L3",
   "Hangul": "사",
   "RR": "sa",
   "Dubeolsik key": "tk",
-  "memo": "tiger kite = T+K"
+  "memo": "tiger kite = tk"
  },
  {
   "category": "L3",
   "Hangul": "샤",
   "RR": "sya",
   "Dubeolsik key": "ti",
-  "memo": "tiger ink = T+I"
+  "memo": "tiger ink = ti"
  },
  {
   "category": "L3",
   "Hangul": "서",
   "RR": "seo",
   "Dubeolsik key": "tj",
-  "memo": "tiger jam = T+J"
+  "memo": "tiger jam = tj"
  },
  {
   "category": "L3",
   "Hangul": "셔",
   "RR": "syeo",
   "Dubeolsik key": "tu",
-  "memo": "tiger umbrella = T+U"
+  "memo": "tiger umbrella = tu"
  },
  {
   "category": "L3",
   "Hangul": "소",
   "RR": "so",
   "Dubeolsik key": "th",
-  "memo": "tiger hat = T+H"
+  "memo": "tiger hat = th"
  },
  {
   "category": "L3",
   "Hangul": "쇼",
   "RR": "syo",
   "Dubeolsik key": "ty",
-  "memo": "tiger yoyo = T+Y"
+  "memo": "tiger yoyo = ty"
  },
  {
   "category": "L3",
   "Hangul": "수",
   "RR": "su",
   "Dubeolsik key": "tn",
-  "memo": "tiger nose = T+N"
+  "memo": "tiger nose = tn"
  },
  {
   "category": "L3",
   "Hangul": "슈",
   "RR": "syu",
   "Dubeolsik key": "tb",
-  "memo": "tiger ball = T+B"
+  "memo": "tiger ball = tb"
  },
  {
   "category": "L3",
   "Hangul": "스",
   "RR": "seu",
   "Dubeolsik key": "tm",
-  "memo": "tiger moon = T+M"
+  "memo": "tiger moon = tm"
  },
  {
   "category": "L3",
   "Hangul": "시",
   "RR": "si",
   "Dubeolsik key": "tl",
-  "memo": "tiger lion = T+L"
+  "memo": "tiger lion = tl"
  },
  {
   "category": "L3",
   "Hangul": "싸",
   "RR": "ssa",
   "Dubeolsik key": "Tk",
-  "memo": "TIGER kite = T+K"
+  "memo": "TIGER kite = Tk"
  },
  {
   "category": "L3",
   "Hangul": "쌰",
   "RR": "ssya",
   "Dubeolsik key": "Ti",
-  "memo": "TIGER ink = T+I"
+  "memo": "TIGER ink = Ti"
  },
  {
   "category": "L3",
   "Hangul": "써",
   "RR": "sseo",
   "Dubeolsik key": "Tj",
-  "memo": "TIGER jam = T+J"
+  "memo": "TIGER jam = Tj"
  },
  {
   "category": "L3",
   "Hangul": "쎠",
   "RR": "ssyeo",
   "Dubeolsik key": "Tu",
-  "memo": "TIGER umbrella = T+U"
+  "memo": "TIGER umbrella = Tu"
  },
  {
   "category": "L3",
   "Hangul": "쏘",
   "RR": "sso",
   "Dubeolsik key": "Th",
-  "memo": "TIGER hat = T+H"
+  "memo": "TIGER hat = Th"
  },
  {
   "category": "L3",
   "Hangul": "쑈",
   "RR": "ssyo",
   "Dubeolsik key": "Ty",
-  "memo": "TIGER yoyo = T+Y"
+  "memo": "TIGER yoyo = Ty"
  },
  {
   "category": "L3",
   "Hangul": "쑤",
   "RR": "ssu",
   "Dubeolsik key": "Tn",
-  "memo": "TIGER nose = T+N"
+  "memo": "TIGER nose = Tn"
  },
  {
   "category": "L3",
   "Hangul": "쓔",
   "RR": "ssyu",
   "Dubeolsik key": "Tb",
-  "memo": "TIGER ball = T+B"
+  "memo": "TIGER ball = Tb"
  },
  {
   "category": "L3",
   "Hangul": "쓰",
   "RR": "sseu",
   "Dubeolsik key": "Tm",
-  "memo": "TIGER moon = T+M"
+  "memo": "TIGER moon = Tm"
  },
  {
   "category": "L3",
   "Hangul": "씨",
   "RR": "ssi",
   "Dubeolsik key": "Tl",
-  "memo": "TIGER lion = T+L"
+  "memo": "TIGER lion = Tl"
  },
  {
   "category": "L3",
   "Hangul": "자",
   "RR": "ja",
   "Dubeolsik key": "wk",
-  "memo": "whale kite = W+K"
+  "memo": "whale kite = wk"
  },
  {
   "category": "L3",
   "Hangul": "쟈",
   "RR": "jya",
   "Dubeolsik key": "wi",
-  "memo": "whale ink = W+I"
+  "memo": "whale ink = wi"
  },
  {
   "category": "L3",
   "Hangul": "저",
   "RR": "jeo",
   "Dubeolsik key": "wj",
-  "memo": "whale jam = W+J"
+  "memo": "whale jam = wj"
  },
  {
   "category": "L3",
   "Hangul": "져",
   "RR": "jyeo",
   "Dubeolsik key": "wu",
-  "memo": "whale umbrella = W+U"
+  "memo": "whale umbrella = wu"
  },
  {
   "category": "L3",
   "Hangul": "조",
   "RR": "jo",
   "Dubeolsik key": "wh",
-  "memo": "whale hat = W+H"
+  "memo": "whale hat = wh"
  },
  {
   "category": "L3",
   "Hangul": "죠",
   "RR": "jyo",
   "Dubeolsik key": "wy",
-  "memo": "whale yoyo = W+Y"
+  "memo": "whale yoyo = wy"
  },
  {
   "category": "L3",
   "Hangul": "주",
   "RR": "ju",
   "Dubeolsik key": "wn",
-  "memo": "whale nose = W+N"
+  "memo": "whale nose = wn"
  },
  {
   "category": "L3",
   "Hangul": "쥬",
   "RR": "jyu",
   "Dubeolsik key": "wb",
-  "memo": "whale ball = W+B"
+  "memo": "whale ball = wb"
  },
  {
   "category": "L3",
   "Hangul": "즈",
   "RR": "jeu",
   "Dubeolsik key": "wm",
-  "memo": "whale moon = W+M"
+  "memo": "whale moon = wm"
  },
  {
   "category": "L3",
   "Hangul": "지",
   "RR": "ji",
   "Dubeolsik key": "wl",
-  "memo": "whale lion = W+L"
+  "memo": "whale lion = wl"
  },
  {
   "category": "L3",
   "Hangul": "짜",
   "RR": "jja",
   "Dubeolsik key": "Wk",
-  "memo": "WHALE kite = W+K"
+  "memo": "WHALE kite = Wk"
  },
  {
   "category": "L3",
   "Hangul": "쨔",
   "RR": "jjya",
   "Dubeolsik key": "Wi",
-  "memo": "WHALE ink = W+I"
+  "memo": "WHALE ink = Wi"
  },
  {
   "category": "L3",
   "Hangul": "쩌",
   "RR": "jjeo",
   "Dubeolsik key": "Wj",
-  "memo": "WHALE jam = W+J"
+  "memo": "WHALE jam = Wj"
  },
  {
   "category": "L3",
   "Hangul": "쪄",
   "RR": "jjyeo",
   "Dubeolsik key": "Wu",
-  "memo": "WHALE umbrella = W+U"
+  "memo": "WHALE umbrella = Wu"
  },
  {
   "category": "L3",
   "Hangul": "쪼",
   "RR": "jjo",
   "Dubeolsik key": "Wh",
-  "memo": "WHALE hat = W+H"
+  "memo": "WHALE hat = Wh"
  },
  {
   "category": "L3",
   "Hangul": "쬬",
   "RR": "jjyo",
   "Dubeolsik key": "Wy",
-  "memo": "WHALE yoyo = W+Y"
+  "memo": "WHALE yoyo = Wy"
  },
  {
   "category": "L3",
   "Hangul": "쭈",
   "RR": "jju",
   "Dubeolsik key": "Wn",
-  "memo": "WHALE nose = W+N"
+  "memo": "WHALE nose = Wn"
  },
  {
   "category": "L3",
   "Hangul": "쮸",
   "RR": "jjyu",
   "Dubeolsik key": "Wb",
-  "memo": "WHALE ball = W+B"
+  "memo": "WHALE ball = Wb"
  },
  {
   "category": "L3",
   "Hangul": "쯔",
   "RR": "jjeu",
   "Dubeolsik key": "Wm",
-  "memo": "WHALE moon = W+M"
+  "memo": "WHALE moon = Wm"
  },
  {
   "category": "L3",
   "Hangul": "찌",
   "RR": "jji",
   "Dubeolsik key": "Wl",
-  "memo": "WHALE lion = W+L"
+  "memo": "WHALE lion = Wl"
  },
  {
   "category": "L3",
   "Hangul": "차",
   "RR": "cha",
   "Dubeolsik key": "ck",
-  "memo": "cat kite = C+K"
+  "memo": "cat kite = ck"
  },
  {
   "category": "L3",
   "Hangul": "챠",
   "RR": "chya",
   "Dubeolsik key": "ci",
-  "memo": "cat ink = C+I"
+  "memo": "cat ink = ci"
  },
  {
   "category": "L3",
   "Hangul": "처",
   "RR": "cheo",
   "Dubeolsik key": "cj",
-  "memo": "cat jam = C+J"
+  "memo": "cat jam = cj"
  },
  {
   "category": "L3",
   "Hangul": "쳐",
   "RR": "chyeo",
   "Dubeolsik key": "cu",
-  "memo": "cat umbrella = C+U"
+  "memo": "cat umbrella = cu"
  },
  {
   "category": "L3",
   "Hangul": "초",
   "RR": "cho",
   "Dubeolsik key": "ch",
-  "memo": "cat hat = C+H"
+  "memo": "cat hat = ch"
  },
  {
   "category": "L3",
   "Hangul": "쵸",
   "RR": "chyo",
   "Dubeolsik key": "cy",
-  "memo": "cat yoyo = C+Y"
+  "memo": "cat yoyo = cy"
  },
  {
   "category": "L3",
   "Hangul": "추",
   "RR": "chu",
   "Dubeolsik key": "cn",
-  "memo": "cat nose = C+N"
+  "memo": "cat nose = cn"
  },
  {
   "category": "L3",
   "Hangul": "츄",
   "RR": "chyu",
   "Dubeolsik key": "cb",
-  "memo": "cat ball = C+B"
+  "memo": "cat ball = cb"
  },
  {
   "category": "L3",
   "Hangul": "츠",
   "RR": "cheu",
   "Dubeolsik key": "cm",
-  "memo": "cat moon = C+M"
+  "memo": "cat moon = cm"
  },
  {
   "category": "L3",
   "Hangul": "치",
   "RR": "chi",
   "Dubeolsik key": "cl",
-  "memo": "cat lion = C+L"
+  "memo": "cat lion = cl"
  },
  {
   "category": "L3",
   "Hangul": "카",
   "RR": "ka",
   "Dubeolsik key": "zk",
-  "memo": "zebra kite = Z+K"
+  "memo": "zebra kite = zk"
  },
  {
   "category": "L3",
   "Hangul": "캬",
   "RR": "kya",
   "Dubeolsik key": "zi",
-  "memo": "zebra ink = Z+I"
+  "memo": "zebra ink = zi"
  },
  {
   "category": "L3",
   "Hangul": "커",
   "RR": "keo",
   "Dubeolsik key": "zj",
-  "memo": "zebra jam = Z+J"
+  "memo": "zebra jam = zj"
  },
  {
   "category": "L3",
   "Hangul": "켜",
   "RR": "kyeo",
   "Dubeolsik key": "zu",
-  "memo": "zebra umbrella = Z+U"
+  "memo": "zebra umbrella = zu"
  },
  {
   "category": "L3",
   "Hangul": "코",
   "RR": "ko",
   "Dubeolsik key": "zh",
-  "memo": "zebra hat = Z+H"
+  "memo": "zebra hat = zh"
  },
  {
   "category": "L3",
   "Hangul": "쿄",
   "RR": "kyo",
   "Dubeolsik key": "zy",
-  "memo": "zebra yoyo = Z+Y"
+  "memo": "zebra yoyo = zy"
  },
  {
   "category": "L3",
   "Hangul": "쿠",
   "RR": "ku",
   "Dubeolsik key": "zn",
-  "memo": "zebra nose = Z+N"
+  "memo": "zebra nose = zn"
  },
  {
   "category": "L3",
   "Hangul": "큐",
   "RR": "kyu",
   "Dubeolsik key": "zb",
-  "memo": "zebra ball = Z+B"
+  "memo": "zebra ball = zb"
  },
  {
   "category": "L3",
   "Hangul": "크",
   "RR": "keu",
   "Dubeolsik key": "zm",
-  "memo": "zebra moon = Z+M"
+  "memo": "zebra moon = zm"
  },
  {
   "category": "L3",
   "Hangul": "키",
   "RR": "ki",
   "Dubeolsik key": "zl",
-  "memo": "zebra lion = Z+L"
+  "memo": "zebra lion = zl"
  },
  {
   "category": "L3",
   "Hangul": "타",
   "RR": "ta",
   "Dubeolsik key": "xk",
-  "memo": "x-ray kite = X+K"
+  "memo": "x-ray kite = xk"
  },
  {
   "category": "L3",
   "Hangul": "탸",
   "RR": "tya",
   "Dubeolsik key": "xi",
-  "memo": "x-ray ink = X+I"
+  "memo": "x-ray ink = xi"
  },
  {
   "category": "L3",
   "Hangul": "터",
   "RR": "teo",
   "Dubeolsik key": "xj",
-  "memo": "x-ray jam = X+J"
+  "memo": "x-ray jam = xj"
  },
  {
   "category": "L3",
   "Hangul": "텨",
   "RR": "tyeo",
   "Dubeolsik key": "xu",
-  "memo": "x-ray umbrella = X+U"
+  "memo": "x-ray umbrella = xu"
  },
  {
   "category": "L3",
   "Hangul": "토",
   "RR": "to",
   "Dubeolsik key": "xh",
-  "memo": "x-ray hat = X+H"
+  "memo": "x-ray hat = xh"
  },
  {
   "category": "L3",
   "Hangul": "투",
   "RR": "tu",
   "Dubeolsik key": "xn",
-  "memo": "x-ray nose = X+N"
+  "memo": "x-ray nose = xn"
  },
  {
   "category": "L3",
   "Hangul": "튜",
   "RR": "tyu",
   "Dubeolsik key": "xb",
-  "memo": "x-ray ball = X+B"
+  "memo": "x-ray ball = xb"
  },
  {
   "category": "L3",
   "Hangul": "트",
   "RR": "teu",
   "Dubeolsik key": "xm",
-  "memo": "x-ray moon = X+M"
+  "memo": "x-ray moon = xm"
  },
  {
   "category": "L3",
   "Hangul": "티",
   "RR": "ti",
   "Dubeolsik key": "xl",
-  "memo": "x-ray lion = X+L"
+  "memo": "x-ray lion = xl"
  },
  {
   "category": "L3",
   "Hangul": "파",
   "RR": "pa",
   "Dubeolsik key": "vk",
-  "memo": "violin kite = V+K"
+  "memo": "violin kite = vk"
  },
  {
   "category": "L3",
   "Hangul": "퍼",
   "RR": "peo",
   "Dubeolsik key": "vj",
-  "memo": "violin jam = V+J"
+  "memo": "violin jam = vj"
  },
  {
   "category": "L3",
   "Hangul": "펴",
   "RR": "pyeo",
   "Dubeolsik key": "vu",
-  "memo": "violin umbrella = V+U"
+  "memo": "violin umbrella = vu"
  },
  {
   "category": "L3",
   "Hangul": "포",
   "RR": "po",
   "Dubeolsik key": "vh",
-  "memo": "violin hat = V+H"
+  "memo": "violin hat = vh"
  },
  {
   "category": "L3",
   "Hangul": "표",
   "RR": "pyo",
   "Dubeolsik key": "vy",
-  "memo": "violin yoyo = V+Y"
+  "memo": "violin yoyo = vy"
  },
  {
   "category": "L3",
   "Hangul": "푸",
   "RR": "pu",
   "Dubeolsik key": "vn",
-  "memo": "violin nose = V+N"
+  "memo": "violin nose = vn"
  },
  {
   "category": "L3",
   "Hangul": "퓨",
   "RR": "pyu",
   "Dubeolsik key": "vb",
-  "memo": "violin ball = V+B"
+  "memo": "violin ball = vb"
  },
  {
   "category": "L3",
   "Hangul": "프",
   "RR": "peu",
   "Dubeolsik key": "vm",
-  "memo": "violin moon = V+M"
+  "memo": "violin moon = vm"
  },
  {
   "category": "L3",
   "Hangul": "피",
   "RR": "pi",
   "Dubeolsik key": "vl",
-  "memo": "violin lion = V+L"
+  "memo": "violin lion = vl"
  },
  {
   "category": "L3",
   "Hangul": "하",
   "RR": "ha",
   "Dubeolsik key": "gk",
-  "memo": "gun kite = G+K"
+  "memo": "gun kite = gk"
  },
  {
   "category": "L3",
   "Hangul": "햐",
   "RR": "hya",
   "Dubeolsik key": "gi",
-  "memo": "gun ink = G+I"
+  "memo": "gun ink = gi"
  },
  {
   "category": "L3",
   "Hangul": "허",
   "RR": "heo",
   "Dubeolsik key": "gj",
-  "memo": "gun jam = G+J"
+  "memo": "gun jam = gj"
  },
  {
   "category": "L3",
   "Hangul": "혀",
   "RR": "hyeo",
   "Dubeolsik key": "gu",
-  "memo": "gun umbrella = G+U"
+  "memo": "gun umbrella = gu"
  },
  {
   "category": "L3",
   "Hangul": "호",
   "RR": "ho",
   "Dubeolsik key": "gh",
-  "memo": "gun hat = G+H"
+  "memo": "gun hat = gh"
  },
  {
   "category": "L3",
   "Hangul": "효",
   "RR": "hyo",
   "Dubeolsik key": "gy",
-  "memo": "gun yoyo = G+Y"
+  "memo": "gun yoyo = gy"
  },
  {
   "category": "L3",
   "Hangul": "후",
   "RR": "hu",
   "Dubeolsik key": "gn",
-  "memo": "gun nose = G+N"
+  "memo": "gun nose = gn"
  },
  {
   "category": "L3",
   "Hangul": "휴",
   "RR": "hyu",
   "Dubeolsik key": "gb",
-  "memo": "gun ball = G+B"
+  "memo": "gun ball = gb"
  },
  {
   "category": "L3",
   "Hangul": "흐",
   "RR": "heu",
   "Dubeolsik key": "gm",
-  "memo": "gun moon = G+M"
+  "memo": "gun moon = gm"
  },
  {
   "category": "L3",
   "Hangul": "히",
   "RR": "hi",
   "Dubeolsik key": "gl",
-  "memo": "gun lion = G+L"
+  "memo": "gun lion = gl"
  },
  {
   "category": "L4",
   "Hangul": "개",
   "RR": "gae",
   "Dubeolsik key": "ro",
-  "memo": "rabbit orange = R+O"
+  "memo": "rabbit orange = ro"
  },
  {
   "category": "L4",
   "Hangul": "걔",
   "RR": "gyae",
   "Dubeolsik key": "rO",
-  "memo": "rabbit ORANGE = R+O"
+  "memo": "rabbit ORANGE = rO"
  },
  {
   "category": "L4",
   "Hangul": "게",
   "RR": "ge",
   "Dubeolsik key": "rp",
-  "memo": "rabbit pen = R+P"
+  "memo": "rabbit pen = rp"
  },
  {
   "category": "L4",
   "Hangul": "계",
   "RR": "gye",
   "Dubeolsik key": "rP",
-  "memo": "rabbit PEN = R+P"
+  "memo": "rabbit PEN = rP"
  },
  {
   "category": "L4",
   "Hangul": "과",
   "RR": "gwa",
   "Dubeolsik key": "rhk",
-  "memo": "rabbit hat kite = R+H+K"
+  "memo": "rabbit hat kite = rhk"
  },
  {
   "category": "L4",
   "Hangul": "괘",
   "RR": "gwae",
   "Dubeolsik key": "rho",
-  "memo": "rabbit hat orange = R+H+O"
+  "memo": "rabbit hat orange = rho"
  },
  {
   "category": "L4",
   "Hangul": "괴",
   "RR": "goe",
   "Dubeolsik key": "rhl",
-  "memo": "rabbit hat lion = R+H+L"
+  "memo": "rabbit hat lion = rhl"
  },
  {
   "category": "L4",
   "Hangul": "궈",
   "RR": "gwo",
   "Dubeolsik key": "rnj",
-  "memo": "rabbit nose jam = R+N+J"
+  "memo": "rabbit nose jam = rnj"
  },
  {
   "category": "L4",
   "Hangul": "궤",
   "RR": "gwe",
   "Dubeolsik key": "rnp",
-  "memo": "rabbit nose pen = R+N+P"
+  "memo": "rabbit nose pen = rnp"
  },
  {
   "category": "L4",
   "Hangul": "귀",
   "RR": "gwi",
   "Dubeolsik key": "rnl",
-  "memo": "rabbit nose lion = R+N+L"
+  "memo": "rabbit nose lion = rnl"
  },
  {
   "category": "L4",
   "Hangul": "긔",
   "RR": "gui",
   "Dubeolsik key": "rml",
-  "memo": "rabbit moon lion = R+M+L"
+  "memo": "rabbit moon lion = rml"
  },
  {
   "category": "L4",
   "Hangul": "깨",
   "RR": "kkae",
   "Dubeolsik key": "Ro",
-  "memo": "RABBIT orange = R+O"
+  "memo": "RABBIT orange = Ro"
  },
  {
   "category": "L4",
   "Hangul": "꺠",
   "RR": "kkyae",
   "Dubeolsik key": "RO",
-  "memo": "RABBIT ORANGE = R+O"
+  "memo": "RABBIT ORANGE = RO"
  },
  {
   "category": "L4",
   "Hangul": "께",
   "RR": "kke",
   "Dubeolsik key": "Rp",
-  "memo": "RABBIT pen = R+P"
+  "memo": "RABBIT pen = Rp"
  },
  {
   "category": "L4",
   "Hangul": "꼐",
   "RR": "kkye",
   "Dubeolsik key": "RP",
-  "memo": "RABBIT PEN = R+P"
+  "memo": "RABBIT PEN = RP"
  },
  {
   "category": "L4",
   "Hangul": "꽈",
   "RR": "kkwa",
   "Dubeolsik key": "Rhk",
-  "memo": "RABBIT hat kite = R+H+K"
+  "memo": "RABBIT hat kite = Rhk"
  },
  {
   "category": "L4",
   "Hangul": "꽤",
   "RR": "kkwae",
   "Dubeolsik key": "Rho",
-  "memo": "RABBIT hat orange = R+H+O"
+  "memo": "RABBIT hat orange = Rho"
  },
  {
   "category": "L4",
   "Hangul": "꾀",
   "RR": "kkoe",
   "Dubeolsik key": "Rhl",
-  "memo": "RABBIT hat lion = R+H+L"
+  "memo": "RABBIT hat lion = Rhl"
  },
  {
   "category": "L4",
   "Hangul": "꿔",
   "RR": "kkwo",
   "Dubeolsik key": "Rnj",
-  "memo": "RABBIT nose jam = R+N+J"
+  "memo": "RABBIT nose jam = Rnj"
  },
  {
   "category": "L4",
   "Hangul": "꿰",
   "RR": "kkwe",
   "Dubeolsik key": "Rnp",
-  "memo": "RABBIT nose pen = R+N+P"
+  "memo": "RABBIT nose pen = Rnp"
  },
  {
   "category": "L4",
   "Hangul": "뀌",
   "RR": "kkwi",
   "Dubeolsik key": "Rnl",
-  "memo": "RABBIT nose lion = R+N+L"
+  "memo": "RABBIT nose lion = Rnl"
  },
  {
   "category": "L4",
   "Hangul": "내",
   "RR": "nae",
   "Dubeolsik key": "so",
-  "memo": "snake orange = S+O"
+  "memo": "snake orange = so"
  },
  {
   "category": "L4",
   "Hangul": "네",
   "RR": "ne",
   "Dubeolsik key": "sp",
-  "memo": "snake pen = S+P"
+  "memo": "snake pen = sp"
  },
  {
   "category": "L4",
   "Hangul": "녜",
   "RR": "nye",
   "Dubeolsik key": "sP",
-  "memo": "snake PEN = S+P"
+  "memo": "snake PEN = sP"
  },
  {
   "category": "L4",
   "Hangul": "놔",
   "RR": "nwa",
   "Dubeolsik key": "shk",
-  "memo": "snake hat kite = S+H+K"
+  "memo": "snake hat kite = shk"
  },
  {
   "category": "L4",
   "Hangul": "놰",
   "RR": "nwae",
   "Dubeolsik key": "sho",
-  "memo": "snake hat orange = S+H+O"
+  "memo": "snake hat orange = sho"
  },
  {
   "category": "L4",
   "Hangul": "뇌",
   "RR": "noe",
   "Dubeolsik key": "shl",
-  "memo": "snake hat lion = S+H+L"
+  "memo": "snake hat lion = shl"
  },
  {
   "category": "L4",
   "Hangul": "눠",
   "RR": "nwo",
   "Dubeolsik key": "snj",
-  "memo": "snake nose jam = S+N+J"
+  "memo": "snake nose jam = snj"
  },
  {
   "category": "L4",
   "Hangul": "눼",
   "RR": "nwe",
   "Dubeolsik key": "snp",
-  "memo": "snake nose pen = S+N+P"
+  "memo": "snake nose pen = snp"
  },
  {
   "category": "L4",
   "Hangul": "뉘",
   "RR": "nwi",
   "Dubeolsik key": "snl",
-  "memo": "snake nose lion = S+N+L"
+  "memo": "snake nose lion = snl"
  },
  {
   "category": "L4",
   "Hangul": "늬",
   "RR": "nui",
   "Dubeolsik key": "sml",
-  "memo": "snake moon lion = S+M+L"
+  "memo": "snake moon lion = sml"
  },
  {
   "category": "L4",
   "Hangul": "대",
   "RR": "dae",
   "Dubeolsik key": "eo",
-  "memo": "egg orange = E+O"
+  "memo": "egg orange = eo"
  },
  {
   "category": "L4",
   "Hangul": "데",
   "RR": "de",
   "Dubeolsik key": "ep",
-  "memo": "egg pen = E+P"
+  "memo": "egg pen = ep"
  },
  {
   "category": "L4",
   "Hangul": "뎨",
   "RR": "dye",
   "Dubeolsik key": "eP",
-  "memo": "egg PEN = E+P"
+  "memo": "egg PEN = eP"
  },
  {
   "category": "L4",
   "Hangul": "돠",
   "RR": "dwa",
   "Dubeolsik key": "ehk",
-  "memo": "egg hat kite = E+H+K"
+  "memo": "egg hat kite = ehk"
  },
  {
   "category": "L4",
   "Hangul": "돼",
   "RR": "dwae",
   "Dubeolsik key": "eho",
-  "memo": "egg hat orange = E+H+O"
+  "memo": "egg hat orange = eho"
  },
  {
   "category": "L4",
   "Hangul": "되",
   "RR": "doe",
   "Dubeolsik key": "ehl",
-  "memo": "egg hat lion = E+H+L"
+  "memo": "egg hat lion = ehl"
  },
  {
   "category": "L4",
   "Hangul": "둬",
   "RR": "dwo",
   "Dubeolsik key": "enj",
-  "memo": "egg nose jam = E+N+J"
+  "memo": "egg nose jam = enj"
  },
  {
   "category": "L4",
   "Hangul": "뒈",
   "RR": "dwe",
   "Dubeolsik key": "enp",
-  "memo": "egg nose pen = E+N+P"
+  "memo": "egg nose pen = enp"
  },
  {
   "category": "L4",
   "Hangul": "뒤",
   "RR": "dwi",
   "Dubeolsik key": "enl",
-  "memo": "egg nose lion = E+N+L"
+  "memo": "egg nose lion = enl"
  },
  {
   "category": "L4",
   "Hangul": "듸",
   "RR": "dui",
   "Dubeolsik key": "eml",
-  "memo": "egg moon lion = E+M+L"
+  "memo": "egg moon lion = eml"
  },
  {
   "category": "L4",
   "Hangul": "때",
   "RR": "ttae",
   "Dubeolsik key": "Eo",
-  "memo": "EGG orange = E+O"
+  "memo": "EGG orange = Eo"
  },
  {
   "category": "L4",
   "Hangul": "떄",
   "RR": "ttyae",
   "Dubeolsik key": "EO",
-  "memo": "EGG ORANGE = E+O"
+  "memo": "EGG ORANGE = EO"
  },
  {
   "category": "L4",
   "Hangul": "떼",
   "RR": "tte",
   "Dubeolsik key": "Ep",
-  "memo": "EGG pen = E+P"
+  "memo": "EGG pen = Ep"
  },
  {
   "category": "L4",
   "Hangul": "뗴",
   "RR": "ttye",
   "Dubeolsik key": "EP",
-  "memo": "EGG PEN = E+P"
+  "memo": "EGG PEN = EP"
  },
  {
   "category": "L4",
   "Hangul": "똬",
   "RR": "ttwa",
   "Dubeolsik key": "Ehk",
-  "memo": "EGG hat kite = E+H+K"
+  "memo": "EGG hat kite = Ehk"
  },
  {
   "category": "L4",
   "Hangul": "뙈",
   "RR": "ttwae",
   "Dubeolsik key": "Eho",
-  "memo": "EGG hat orange = E+H+O"
+  "memo": "EGG hat orange = Eho"
  },
  {
   "category": "L4",
   "Hangul": "뙤",
   "RR": "ttoe",
   "Dubeolsik key": "Ehl",
-  "memo": "EGG hat lion = E+H+L"
+  "memo": "EGG hat lion = Ehl"
  },
  {
   "category": "L4",
   "Hangul": "뛰",
   "RR": "ttwi",
   "Dubeolsik key": "Enl",
-  "memo": "EGG nose lion = E+N+L"
+  "memo": "EGG nose lion = Enl"
  },
  {
   "category": "L4",
   "Hangul": "띄",
   "RR": "ttui",
   "Dubeolsik key": "Eml",
-  "memo": "EGG moon lion = E+M+L"
+  "memo": "EGG moon lion = Eml"
  },
  {
   "category": "L4",
   "Hangul": "래",
   "RR": "rae",
   "Dubeolsik key": "fo",
-  "memo": "fish orange = F+O"
+  "memo": "fish orange = fo"
  },
  {
   "category": "L4",
   "Hangul": "레",
   "RR": "re",
   "Dubeolsik key": "fp",
-  "memo": "fish pen = F+P"
+  "memo": "fish pen = fp"
  },
  {
   "category": "L4",
   "Hangul": "례",
   "RR": "rye",
   "Dubeolsik key": "fP",
-  "memo": "fish PEN = F+P"
+  "memo": "fish PEN = fP"
  },
  {
   "category": "L4",
   "Hangul": "롸",
   "RR": "rwa",
   "Dubeolsik key": "fhk",
-  "memo": "fish hat kite = F+H+K"
+  "memo": "fish hat kite = fhk"
  },
  {
   "category": "L4",
   "Hangul": "뢔",
   "RR": "rwae",
   "Dubeolsik key": "fho",
-  "memo": "fish hat orange = F+H+O"
+  "memo": "fish hat orange = fho"
  },
  {
   "category": "L4",
   "Hangul": "뢰",
   "RR": "roe",
   "Dubeolsik key": "fhl",
-  "memo": "fish hat lion = F+H+L"
+  "memo": "fish hat lion = fhl"
  },
  {
   "category": "L4",
   "Hangul": "뤄",
   "RR": "rwo",
   "Dubeolsik key": "fnj",
-  "memo": "fish nose jam = F+N+J"
+  "memo": "fish nose jam = fnj"
  },
  {
   "category": "L4",
   "Hangul": "뤠",
   "RR": "rwe",
   "Dubeolsik key": "fnp",
-  "memo": "fish nose pen = F+N+P"
+  "memo": "fish nose pen = fnp"
  },
  {
   "category": "L4",
   "Hangul": "뤼",
   "RR": "rwi",
   "Dubeolsik key": "fnl",
-  "memo": "fish nose lion = F+N+L"
+  "memo": "fish nose lion = fnl"
  },
  {
   "category": "L4",
   "Hangul": "릐",
   "RR": "rui",
   "Dubeolsik key": "fml",
-  "memo": "fish moon lion = F+M+L"
+  "memo": "fish moon lion = fml"
  },
  {
   "category": "L4",
   "Hangul": "매",
   "RR": "mae",
   "Dubeolsik key": "ao",
-  "memo": "apple orange = A+O"
+  "memo": "apple orange = ao"
  },
  {
   "category": "L4",
   "Hangul": "메",
   "RR": "me",
   "Dubeolsik key": "ap",
-  "memo": "apple pen = A+P"
+  "memo": "apple pen = ap"
  },
  {
   "category": "L4",
   "Hangul": "뫄",
   "RR": "mwa",
   "Dubeolsik key": "ahk",
-  "memo": "apple hat kite = A+H+K"
+  "memo": "apple hat kite = ahk"
  },
  {
   "category": "L4",
   "Hangul": "뫼",
   "RR": "moe",
   "Dubeolsik key": "ahl",
-  "memo": "apple hat lion = A+H+L"
+  "memo": "apple hat lion = ahl"
  },
  {
   "category": "L4",
   "Hangul": "뭐",
   "RR": "mwo",
   "Dubeolsik key": "anj",
-  "memo": "apple nose jam = A+N+J"
+  "memo": "apple nose jam = anj"
  },
  {
   "category": "L4",
   "Hangul": "뭬",
   "RR": "mwe",
   "Dubeolsik key": "anp",
-  "memo": "apple nose pen = A+N+P"
+  "memo": "apple nose pen = anp"
  },
  {
   "category": "L4",
   "Hangul": "뮈",
   "RR": "mwi",
   "Dubeolsik key": "anl",
-  "memo": "apple nose lion = A+N+L"
+  "memo": "apple nose lion = anl"
  },
  {
   "category": "L4",
   "Hangul": "배",
   "RR": "bae",
   "Dubeolsik key": "qo",
-  "memo": "queen orange = Q+O"
+  "memo": "queen orange = qo"
  },
  {
   "category": "L4",
   "Hangul": "베",
   "RR": "be",
   "Dubeolsik key": "qp",
-  "memo": "queen pen = Q+P"
+  "memo": "queen pen = qp"
  },
  {
   "category": "L4",
   "Hangul": "봐",
   "RR": "bwa",
   "Dubeolsik key": "qhk",
-  "memo": "queen hat kite = Q+H+K"
+  "memo": "queen hat kite = qhk"
  },
  {
   "category": "L4",
   "Hangul": "봬",
   "RR": "bwae",
   "Dubeolsik key": "qho",
-  "memo": "queen hat orange = Q+H+O"
+  "memo": "queen hat orange = qho"
  },
  {
   "category": "L4",
   "Hangul": "뵈",
   "RR": "boe",
   "Dubeolsik key": "qhl",
-  "memo": "queen hat lion = Q+H+L"
+  "memo": "queen hat lion = qhl"
  },
  {
   "category": "L4",
   "Hangul": "뷔",
   "RR": "bwi",
   "Dubeolsik key": "qnl",
-  "memo": "queen nose lion = Q+N+L"
+  "memo": "queen nose lion = qnl"
  },
  {
   "category": "L4",
   "Hangul": "븨",
   "RR": "bui",
   "Dubeolsik key": "qml",
-  "memo": "queen moon lion = Q+M+L"
+  "memo": "queen moon lion = qml"
  },
  {
   "category": "L4",
   "Hangul": "빼",
   "RR": "ppae",
   "Dubeolsik key": "Qo",
-  "memo": "QUEEN orange = Q+O"
+  "memo": "QUEEN orange = Qo"
  },
  {
   "category": "L4",
   "Hangul": "뺴",
   "RR": "ppyae",
   "Dubeolsik key": "QO",
-  "memo": "QUEEN ORANGE = Q+O"
+  "memo": "QUEEN ORANGE = QO"
  },
  {
   "category": "L4",
   "Hangul": "뻬",
   "RR": "ppe",
   "Dubeolsik key": "Qp",
-  "memo": "QUEEN pen = Q+P"
+  "memo": "QUEEN pen = Qp"
  },
  {
   "category": "L4",
   "Hangul": "뽜",
   "RR": "ppwa",
   "Dubeolsik key": "Qhk",
-  "memo": "QUEEN hat kite = Q+H+K"
+  "memo": "QUEEN hat kite = Qhk"
  },
  {
   "category": "L4",
   "Hangul": "새",
   "RR": "sae",
   "Dubeolsik key": "to",
-  "memo": "tiger orange = T+O"
+  "memo": "tiger orange = to"
  },
  {
   "category": "L4",
   "Hangul": "섀",
   "RR": "syae",
   "Dubeolsik key": "tO",
-  "memo": "tiger ORANGE = T+O"
+  "memo": "tiger ORANGE = tO"
  },
  {
   "category": "L4",
   "Hangul": "세",
   "RR": "se",
   "Dubeolsik key": "tp",
-  "memo": "tiger pen = T+P"
+  "memo": "tiger pen = tp"
  },
  {
   "category": "L4",
   "Hangul": "셰",
   "RR": "sye",
   "Dubeolsik key": "tP",
-  "memo": "tiger PEN = T+P"
+  "memo": "tiger PEN = tP"
  },
  {
   "category": "L4",
   "Hangul": "솨",
   "RR": "swa",
   "Dubeolsik key": "thk",
-  "memo": "tiger hat kite = T+H+K"
+  "memo": "tiger hat kite = thk"
  },
  {
   "category": "L4",
   "Hangul": "쇄",
   "RR": "swae",
   "Dubeolsik key": "tho",
-  "memo": "tiger hat orange = T+H+O"
+  "memo": "tiger hat orange = tho"
  },
  {
   "category": "L4",
   "Hangul": "쇠",
   "RR": "soe",
   "Dubeolsik key": "thl",
-  "memo": "tiger hat lion = T+H+L"
+  "memo": "tiger hat lion = thl"
  },
  {
   "category": "L4",
   "Hangul": "숴",
   "RR": "swo",
   "Dubeolsik key": "tnj",
-  "memo": "tiger nose jam = T+N+J"
+  "memo": "tiger nose jam = tnj"
  },
  {
   "category": "L4",
   "Hangul": "쉐",
   "RR": "swe",
   "Dubeolsik key": "tnp",
-  "memo": "tiger nose pen = T+N+P"
+  "memo": "tiger nose pen = tnp"
  },
  {
   "category": "L4",
   "Hangul": "쉬",
   "RR": "swi",
   "Dubeolsik key": "tnl",
-  "memo": "tiger nose lion = T+N+L"
+  "memo": "tiger nose lion = tnl"
  },
  {
   "category": "L4",
   "Hangul": "쌔",
   "RR": "ssae",
   "Dubeolsik key": "To",
-  "memo": "TIGER orange = T+O"
+  "memo": "TIGER orange = To"
  },
  {
   "category": "L4",
   "Hangul": "쎄",
   "RR": "sse",
   "Dubeolsik key": "Tp",
-  "memo": "TIGER pen = T+P"
+  "memo": "TIGER pen = Tp"
  },
  {
   "category": "L4",
   "Hangul": "쎼",
   "RR": "ssye",
   "Dubeolsik key": "TP",
-  "memo": "TIGER PEN = T+P"
+  "memo": "TIGER PEN = TP"
  },
  {
   "category": "L4",
   "Hangul": "쏴",
   "RR": "sswa",
   "Dubeolsik key": "Thk",
-  "memo": "TIGER hat kite = T+H+K"
+  "memo": "TIGER hat kite = Thk"
  },
  {
   "category": "L4",
   "Hangul": "쐐",
   "RR": "sswae",
   "Dubeolsik key": "Tho",
-  "memo": "TIGER hat orange = T+H+O"
+  "memo": "TIGER hat orange = Tho"
  },
  {
   "category": "L4",
   "Hangul": "쐬",
   "RR": "ssoe",
   "Dubeolsik key": "Thl",
-  "memo": "TIGER hat lion = T+H+L"
+  "memo": "TIGER hat lion = Thl"
  },
  {
   "category": "L4",
   "Hangul": "쒀",
   "RR": "sswo",
   "Dubeolsik key": "Tnj",
-  "memo": "TIGER nose jam = T+N+J"
+  "memo": "TIGER nose jam = Tnj"
  },
  {
   "category": "L4",
   "Hangul": "쒸",
   "RR": "sswi",
   "Dubeolsik key": "Tnl",
-  "memo": "TIGER nose lion = T+N+L"
+  "memo": "TIGER nose lion = Tnl"
  },
  {
   "category": "L4",
   "Hangul": "씌",
   "RR": "ssui",
   "Dubeolsik key": "Tml",
-  "memo": "TIGER moon lion = T+M+L"
+  "memo": "TIGER moon lion = Tml"
  },
  {
   "category": "L4",
   "Hangul": "재",
   "RR": "jae",
   "Dubeolsik key": "wo",
-  "memo": "whale orange = W+O"
+  "memo": "whale orange = wo"
  },
  {
   "category": "L4",
   "Hangul": "쟤",
   "RR": "jyae",
   "Dubeolsik key": "wO",
-  "memo": "whale ORANGE = W+O"
+  "memo": "whale ORANGE = wO"
  },
  {
   "category": "L4",
   "Hangul": "제",
   "RR": "je",
   "Dubeolsik key": "wp",
-  "memo": "whale pen = W+P"
+  "memo": "whale pen = wp"
  },
  {
   "category": "L4",
   "Hangul": "졔",
   "RR": "jye",
   "Dubeolsik key": "wP",
-  "memo": "whale PEN = W+P"
+  "memo": "whale PEN = wP"
  },
  {
   "category": "L4",
   "Hangul": "좌",
   "RR": "jwa",
   "Dubeolsik key": "whk",
-  "memo": "whale hat kite = W+H+K"
+  "memo": "whale hat kite = whk"
  },
  {
   "category": "L4",
   "Hangul": "죄",
   "RR": "joe",
   "Dubeolsik key": "whl",
-  "memo": "whale hat lion = W+H+L"
+  "memo": "whale hat lion = whl"
  },
  {
   "category": "L4",
   "Hangul": "줘",
   "RR": "jwo",
   "Dubeolsik key": "wnj",
-  "memo": "whale nose jam = W+N+J"
+  "memo": "whale nose jam = wnj"
  },
  {
   "category": "L4",
   "Hangul": "줴",
   "RR": "jwe",
   "Dubeolsik key": "wnp",
-  "memo": "whale nose pen = W+N+P"
+  "memo": "whale nose pen = wnp"
  },
  {
   "category": "L4",
   "Hangul": "쥐",
   "RR": "jwi",
   "Dubeolsik key": "wnl",
-  "memo": "whale nose lion = W+N+L"
+  "memo": "whale nose lion = wnl"
  },
  {
   "category": "L4",
   "Hangul": "째",
   "RR": "jjae",
   "Dubeolsik key": "Wo",
-  "memo": "WHALE orange = W+O"
+  "memo": "WHALE orange = Wo"
  },
  {
   "category": "L4",
   "Hangul": "쨰",
   "RR": "jjyae",
   "Dubeolsik key": "WO",
-  "memo": "WHALE ORANGE = W+O"
+  "memo": "WHALE ORANGE = WO"
  },
  {
   "category": "L4",
   "Hangul": "쩨",
   "RR": "jje",
   "Dubeolsik key": "Wp",
-  "memo": "WHALE pen = W+P"
+  "memo": "WHALE pen = Wp"
  },
  {
   "category": "L4",
   "Hangul": "쫘",
   "RR": "jjwa",
   "Dubeolsik key": "Whk",
-  "memo": "WHALE hat kite = W+H+K"
+  "memo": "WHALE hat kite = Whk"
  },
  {
   "category": "L4",
   "Hangul": "쫴",
   "RR": "jjwae",
   "Dubeolsik key": "Who",
-  "memo": "WHALE hat orange = W+H+O"
+  "memo": "WHALE hat orange = Who"
  },
  {
   "category": "L4",
   "Hangul": "쬐",
   "RR": "jjoe",
   "Dubeolsik key": "Whl",
-  "memo": "WHALE hat lion = W+H+L"
+  "memo": "WHALE hat lion = Whl"
  },
  {
   "category": "L4",
   "Hangul": "쭤",
   "RR": "jjwo",
   "Dubeolsik key": "Wnj",
-  "memo": "WHALE nose jam = W+N+J"
+  "memo": "WHALE nose jam = Wnj"
  },
  {
   "category": "L4",
   "Hangul": "쮜",
   "RR": "jjwi",
   "Dubeolsik key": "Wnl",
-  "memo": "WHALE nose lion = W+N+L"
+  "memo": "WHALE nose lion = Wnl"
  },
  {
   "category": "L4",
   "Hangul": "채",
   "RR": "chae",
   "Dubeolsik key": "co",
-  "memo": "cat orange = C+O"
+  "memo": "cat orange = co"
  },
  {
   "category": "L4",
   "Hangul": "체",
   "RR": "che",
   "Dubeolsik key": "cp",
-  "memo": "cat pen = C+P"
+  "memo": "cat pen = cp"
  },
  {
   "category": "L4",
   "Hangul": "쵀",
   "RR": "chwae",
   "Dubeolsik key": "cho",
-  "memo": "cat hat orange = C+H+O"
+  "memo": "cat hat orange = cho"
  },
  {
   "category": "L4",
   "Hangul": "최",
   "RR": "choe",
   "Dubeolsik key": "chl",
-  "memo": "cat hat lion = C+H+L"
+  "memo": "cat hat lion = chl"
  },
  {
   "category": "L4",
   "Hangul": "춰",
   "RR": "chwo",
   "Dubeolsik key": "cnj",
-  "memo": "cat nose jam = C+N+J"
+  "memo": "cat nose jam = cnj"
  },
  {
   "category": "L4",
   "Hangul": "췌",
   "RR": "chwe",
   "Dubeolsik key": "cnp",
-  "memo": "cat nose pen = C+N+P"
+  "memo": "cat nose pen = cnp"
  },
  {
   "category": "L4",
   "Hangul": "취",
   "RR": "chwi",
   "Dubeolsik key": "cnl",
-  "memo": "cat nose lion = C+N+L"
+  "memo": "cat nose lion = cnl"
  },
  {
   "category": "L4",
   "Hangul": "캐",
   "RR": "kae",
   "Dubeolsik key": "zo",
-  "memo": "zebra orange = Z+O"
+  "memo": "zebra orange = zo"
  },
  {
   "category": "L4",
   "Hangul": "케",
   "RR": "ke",
   "Dubeolsik key": "zp",
-  "memo": "zebra pen = Z+P"
+  "memo": "zebra pen = zp"
  },
  {
   "category": "L4",
   "Hangul": "켸",
   "RR": "kye",
   "Dubeolsik key": "zP",
-  "memo": "zebra PEN = Z+P"
+  "memo": "zebra PEN = zP"
  },
  {
   "category": "L4",
   "Hangul": "콰",
   "RR": "kwa",
   "Dubeolsik key": "zhk",
-  "memo": "zebra hat kite = Z+H+K"
+  "memo": "zebra hat kite = zhk"
  },
  {
   "category": "L4",
   "Hangul": "쾌",
   "RR": "kwae",
   "Dubeolsik key": "zho",
-  "memo": "zebra hat orange = Z+H+O"
+  "memo": "zebra hat orange = zho"
  },
  {
   "category": "L4",
   "Hangul": "쾨",
   "RR": "koe",
   "Dubeolsik key": "zhl",
-  "memo": "zebra hat lion = Z+H+L"
+  "memo": "zebra hat lion = zhl"
  },
  {
   "category": "L4",
   "Hangul": "쿼",
   "RR": "kwo",
   "Dubeolsik key": "znj",
-  "memo": "zebra nose jam = Z+N+J"
+  "memo": "zebra nose jam = znj"
  },
  {
   "category": "L4",
   "Hangul": "퀘",
   "RR": "kwe",
   "Dubeolsik key": "znp",
-  "memo": "zebra nose pen = Z+N+P"
+  "memo": "zebra nose pen = znp"
  },
  {
   "category": "L4",
   "Hangul": "퀴",
   "RR": "kwi",
   "Dubeolsik key": "znl",
-  "memo": "zebra nose lion = Z+N+L"
+  "memo": "zebra nose lion = znl"
  },
  {
   "category": "L4",
   "Hangul": "태",
   "RR": "tae",
   "Dubeolsik key": "xo",
-  "memo": "x-ray orange = X+O"
+  "memo": "x-ray orange = xo"
  },
  {
   "category": "L4",
   "Hangul": "테",
   "RR": "te",
   "Dubeolsik key": "xp",
-  "memo": "x-ray pen = X+P"
+  "memo": "x-ray pen = xp"
  },
  {
   "category": "L4",
   "Hangul": "퇘",
   "RR": "twae",
   "Dubeolsik key": "xho",
-  "memo": "x-ray hat orange = X+H+O"
+  "memo": "x-ray hat orange = xho"
  },
  {
   "category": "L4",
   "Hangul": "퇴",
   "RR": "toe",
   "Dubeolsik key": "xhl",
-  "memo": "x-ray hat lion = X+H+L"
+  "memo": "x-ray hat lion = xhl"
  },
  {
   "category": "L4",
   "Hangul": "퉈",
   "RR": "two",
   "Dubeolsik key": "xnj",
-  "memo": "x-ray nose jam = X+N+J"
+  "memo": "x-ray nose jam = xnj"
  },
  {
   "category": "L4",
   "Hangul": "퉤",
   "RR": "twe",
   "Dubeolsik key": "xnp",
-  "memo": "x-ray nose pen = X+N+P"
+  "memo": "x-ray nose pen = xnp"
  },
  {
   "category": "L4",
   "Hangul": "튀",
   "RR": "twi",
   "Dubeolsik key": "xnl",
-  "memo": "x-ray nose lion = X+N+L"
+  "memo": "x-ray nose lion = xnl"
  },
  {
   "category": "L4",
   "Hangul": "틔",
   "RR": "tui",
   "Dubeolsik key": "xml",
-  "memo": "x-ray moon lion = X+M+L"
+  "memo": "x-ray moon lion = xml"
  },
  {
   "category": "L4",
   "Hangul": "패",
   "RR": "pae",
   "Dubeolsik key": "vo",
-  "memo": "violin orange = V+O"
+  "memo": "violin orange = vo"
  },
  {
   "category": "L4",
   "Hangul": "페",
   "RR": "pe",
   "Dubeolsik key": "vp",
-  "memo": "violin pen = V+P"
+  "memo": "violin pen = vp"
  },
  {
   "category": "L4",
   "Hangul": "폐",
   "RR": "pye",
   "Dubeolsik key": "vP",
-  "memo": "violin PEN = V+P"
+  "memo": "violin PEN = vP"
  },
  {
   "category": "L4",
   "Hangul": "퐈",
   "RR": "pwa",
   "Dubeolsik key": "vhk",
-  "memo": "violin hat kite = V+H+K"
+  "memo": "violin hat kite = vhk"
  },
  {
   "category": "L4",
   "Hangul": "풔",
   "RR": "pwo",
   "Dubeolsik key": "vnj",
-  "memo": "violin nose jam = V+N+J"
+  "memo": "violin nose jam = vnj"
  },
  {
   "category": "L4",
   "Hangul": "퓌",
   "RR": "pwi",
   "Dubeolsik key": "vnl",
-  "memo": "violin nose lion = V+N+L"
+  "memo": "violin nose lion = vnl"
  },
  {
   "category": "L4",
   "Hangul": "해",
   "RR": "hae",
   "Dubeolsik key": "go",
-  "memo": "gun orange = G+O"
+  "memo": "gun orange = go"
  },
  {
   "category": "L4",
   "Hangul": "햬",
   "RR": "hyae",
   "Dubeolsik key": "gO",
-  "memo": "gun ORANGE = G+O"
+  "memo": "gun ORANGE = gO"
  },
  {
   "category": "L4",
   "Hangul": "헤",
   "RR": "he",
   "Dubeolsik key": "gp",
-  "memo": "gun pen = G+P"
+  "memo": "gun pen = gp"
  },
  {
   "category": "L4",
   "Hangul": "혜",
   "RR": "hye",
   "Dubeolsik key": "gP",
-  "memo": "gun PEN = G+P"
+  "memo": "gun PEN = gP"
  },
  {
   "category": "L4",
   "Hangul": "화",
   "RR": "hwa",
   "Dubeolsik key": "ghk",
-  "memo": "gun hat kite = G+H+K"
+  "memo": "gun hat kite = ghk"
  },
  {
   "category": "L4",
   "Hangul": "홰",
   "RR": "hwae",
   "Dubeolsik key": "gho",
-  "memo": "gun hat orange = G+H+O"
+  "memo": "gun hat orange = gho"
  },
  {
   "category": "L4",
   "Hangul": "회",
   "RR": "hoe",
   "Dubeolsik key": "ghl",
-  "memo": "gun hat lion = G+H+L"
+  "memo": "gun hat lion = ghl"
  },
  {
   "category": "L4",
   "Hangul": "훠",
   "RR": "hwo",
   "Dubeolsik key": "gnj",
-  "memo": "gun nose jam = G+N+J"
+  "memo": "gun nose jam = gnj"
  },
  {
   "category": "L4",
   "Hangul": "훼",
   "RR": "hwe",
   "Dubeolsik key": "gnp",
-  "memo": "gun nose pen = G+N+P"
+  "memo": "gun nose pen = gnp"
  },
  {
   "category": "L4",
   "Hangul": "휘",
   "RR": "hwi",
   "Dubeolsik key": "gnl",
-  "memo": "gun nose lion = G+N+L"
+  "memo": "gun nose lion = gnl"
  },
  {
   "category": "L4",
   "Hangul": "희",
   "RR": "hui",
   "Dubeolsik key": "gml",
-  "memo": "gun moon lion = G+M+L"
+  "memo": "gun moon lion = gml"
  },
  {
   "category": "L5",
   "Hangul": "각",
   "RR": "gak",
   "Dubeolsik key": "rkr",
-  "memo": "rabbit kite rabbit = R+K+R"
+  "memo": "rabbit kite rabbit = rkr"
  },
  {
   "category": "L5",
   "Hangul": "간",
   "RR": "gan",
   "Dubeolsik key": "rks",
-  "memo": "rabbit kite snake = R+K+S"
+  "memo": "rabbit kite snake = rks"
  },
  {
   "category": "L5",
   "Hangul": "갈",
   "RR": "gal",
   "Dubeolsik key": "rkf",
-  "memo": "rabbit kite fish = R+K+F"
+  "memo": "rabbit kite fish = rkf"
  },
  {
   "category": "L5",
   "Hangul": "감",
   "RR": "gam",
   "Dubeolsik key": "rka",
-  "memo": "rabbit kite apple = R+K+A"
+  "memo": "rabbit kite apple = rka"
  },
  {
   "category": "L5",
   "Hangul": "갑",
   "RR": "gap",
   "Dubeolsik key": "rkq",
-  "memo": "rabbit kite queen = R+K+Q"
+  "memo": "rabbit kite queen = rkq"
  },
  {
   "category": "L5",
   "Hangul": "강",
   "RR": "gang",
   "Dubeolsik key": "rkd",
-  "memo": "arked = R+K+D"
+  "memo": "arked = rkd"
  },
  {
   "category": "L5",
   "Hangul": "같",
   "RR": "gat",
   "Dubeolsik key": "rkx",
-  "memo": "rabbit kite x-ray = R+K+X"
+  "memo": "rabbit kite x-ray = rkx"
  },
  {
   "category": "L5",
   "Hangul": "건",
   "RR": "geon",
   "Dubeolsik key": "rjs",
-  "memo": "rabbit jam snake = R+J+S"
+  "memo": "rabbit jam snake = rjs"
  },
  {
   "category": "L5",
   "Hangul": "걸",
   "RR": "geol",
   "Dubeolsik key": "rjf",
-  "memo": "rabbit jam fish = R+J+F"
+  "memo": "rabbit jam fish = rjf"
  },
  {
   "category": "L5",
   "Hangul": "검",
   "RR": "geom",
   "Dubeolsik key": "rja",
-  "memo": "rabbit jam apple = R+J+A"
+  "memo": "rabbit jam apple = rja"
  },
  {
   "category": "L5",
   "Hangul": "겁",
   "RR": "geop",
   "Dubeolsik key": "rjq",
-  "memo": "rabbit jam queen = R+J+Q"
+  "memo": "rabbit jam queen = rjq"
  },
  {
   "category": "L5",
   "Hangul": "견",
   "RR": "gyeon",
   "Dubeolsik key": "rus",
-  "memo": "rabbit umbrella snake = R+U+S"
+  "memo": "rabbit umbrella snake = rus"
  },
  {
   "category": "L5",
   "Hangul": "결",
   "RR": "gyeol",
   "Dubeolsik key": "ruf",
-  "memo": "rabbit umbrella fish = R+U+F"
+  "memo": "rabbit umbrella fish = ruf"
  },
  {
   "category": "L5",
   "Hangul": "겸",
   "RR": "gyeom",
   "Dubeolsik key": "rua",
-  "memo": "rabbit umbrella apple = R+U+A"
+  "memo": "rabbit umbrella apple = rua"
  },
  {
   "category": "L5",
   "Hangul": "격",
   "RR": "gyeok",
   "Dubeolsik key": "rur",
-  "memo": "rabbit umbrella rabbit = R+U+R"
+  "memo": "rabbit umbrella rabbit = rur"
  },
  {
   "category": "L5",
   "Hangul": "곁",
   "RR": "gyeot",
   "Dubeolsik key": "rux",
-  "memo": "rabbit umbrella x-ray = R+U+X"
+  "memo": "rabbit umbrella x-ray = rux"
  },
  {
   "category": "L5",
   "Hangul": "곤",
   "RR": "gon",
   "Dubeolsik key": "rhs",
-  "memo": "rabbit hat snake = R+H+S"
+  "memo": "rabbit hat snake = rhs"
  },
  {
   "category": "L5",
   "Hangul": "골",
   "RR": "gol",
   "Dubeolsik key": "rhf",
-  "memo": "rabbit hat fish = R+H+F"
+  "memo": "rabbit hat fish = rhf"
  },
  {
   "category": "L5",
   "Hangul": "곰",
   "RR": "gom",
   "Dubeolsik key": "rha",
-  "memo": "rabbit hat apple = R+H+A"
+  "memo": "rabbit hat apple = rha"
  },
  {
   "category": "L5",
   "Hangul": "곱",
   "RR": "gop",
   "Dubeolsik key": "rhq",
-  "memo": "rabbit hat queen = R+H+Q"
+  "memo": "rabbit hat queen = rhq"
  },
  {
   "category": "L5",
   "Hangul": "공",
   "RR": "gong",
   "Dubeolsik key": "rhd",
-  "memo": "rabbit hat dog = R+H+D"
+  "memo": "rabbit hat dog = rhd"
  },
  {
   "category": "L5",
   "Hangul": "관",
   "RR": "gwan",
   "Dubeolsik key": "rhks",
-  "memo": "rabbit hat kite snake = R+H+K+S"
+  "memo": "rabbit hat kite snake = rhks"
  },
  {
   "category": "L5",
   "Hangul": "괄",
   "RR": "gwal",
   "Dubeolsik key": "rhkf",
-  "memo": "rabbit hat kite fish = R+H+K+F"
+  "memo": "rabbit hat kite fish = rhkf"
  },
  {
   "category": "L5",
   "Hangul": "광",
   "RR": "gwang",
   "Dubeolsik key": "rhkd",
-  "memo": "rabbit hat kite dog = R+H+K+D"
+  "memo": "rabbit hat kite dog = rhkd"
  },
  {
   "category": "L5",
   "Hangul": "국",
   "RR": "guk",
   "Dubeolsik key": "rnr",
-  "memo": "rabbit nose rabbit = R+N+R"
+  "memo": "rabbit nose rabbit = rnr"
  },
  {
   "category": "L5",
   "Hangul": "군",
   "RR": "gun",
   "Dubeolsik key": "rns",
-  "memo": "rabbit nose snake = R+N+S"
+  "memo": "rabbit nose snake = rns"
  },
  {
   "category": "L5",
   "Hangul": "굴",
   "RR": "gul",
   "Dubeolsik key": "rnf",
-  "memo": "rabbit nose fish = R+N+F"
+  "memo": "rabbit nose fish = rnf"
  },
  {
   "category": "L5",
   "Hangul": "굽",
   "RR": "gup",
   "Dubeolsik key": "rnq",
-  "memo": "rabbit nose queen = R+N+Q"
+  "memo": "rabbit nose queen = rnq"
  },
  {
   "category": "L5",
   "Hangul": "궁",
   "RR": "gung",
   "Dubeolsik key": "rnd",
-  "memo": "rabbit nose dog = R+N+D"
+  "memo": "rabbit nose dog = rnd"
  },
  {
   "category": "L5",
   "Hangul": "극",
   "RR": "geuk",
   "Dubeolsik key": "rmr",
-  "memo": "rabbit moon rabbit = R+M+R"
+  "memo": "rabbit moon rabbit = rmr"
  },
  {
   "category": "L5",
   "Hangul": "근",
   "RR": "geun",
   "Dubeolsik key": "rms",
-  "memo": "rabbit moon snake = R+M+S"
+  "memo": "rabbit moon snake = rms"
  },
  {
   "category": "L5",
   "Hangul": "글",
   "RR": "geul",
   "Dubeolsik key": "rmf",
-  "memo": "rabbit moon fish = R+M+F"
+  "memo": "rabbit moon fish = rmf"
  },
  {
   "category": "L5",
   "Hangul": "금",
   "RR": "geum",
   "Dubeolsik key": "rma",
-  "memo": "rabbit moon apple = R+M+A"
+  "memo": "rabbit moon apple = rma"
  },
  {
   "category": "L5",
   "Hangul": "급",
   "RR": "geup",
   "Dubeolsik key": "rmq",
-  "memo": "rabbit moon queen = R+M+Q"
+  "memo": "rabbit moon queen = rmq"
  },
  {
   "category": "L5",
   "Hangul": "긍",
   "RR": "geung",
   "Dubeolsik key": "rmd",
-  "memo": "rabbit moon dog = R+M+D"
+  "memo": "rabbit moon dog = rmd"
  },
  {
   "category": "L5",
   "Hangul": "긴",
   "RR": "gin",
   "Dubeolsik key": "rls",
-  "memo": "rabbit lion snake = R+L+S"
+  "memo": "rabbit lion snake = rls"
  },
  {
   "category": "L5",
   "Hangul": "길",
   "RR": "gil",
   "Dubeolsik key": "rlf",
-  "memo": "rabbit lion fish = R+L+F"
+  "memo": "rabbit lion fish = rlf"
  },
  {
   "category": "L5",
   "Hangul": "김",
   "RR": "gim",
   "Dubeolsik key": "rla",
-  "memo": "rabbit lion apple = R+L+A"
+  "memo": "rabbit lion apple = rla"
  },
  {
   "category": "L5",
   "Hangul": "난",
   "RR": "nan",
   "Dubeolsik key": "sks",
-  "memo": "snake kite snake = S+K+S"
+  "memo": "snake kite snake = sks"
  },
  {
   "category": "L5",
   "Hangul": "날",
   "RR": "nal",
   "Dubeolsik key": "skf",
-  "memo": "snake kite fish = S+K+F"
+  "memo": "snake kite fish = skf"
  },
  {
   "category": "L5",
   "Hangul": "남",
   "RR": "nam",
   "Dubeolsik key": "ska",
-  "memo": "snake kite apple = S+K+A"
+  "memo": "snake kite apple = ska"
  },
  {
   "category": "L5",
   "Hangul": "납",
   "RR": "nap",
   "Dubeolsik key": "skq",
-  "memo": "snake kite queen = S+K+Q"
+  "memo": "snake kite queen = skq"
  },
  {
   "category": "L5",
   "Hangul": "낭",
   "RR": "nang",
   "Dubeolsik key": "skd",
-  "memo": "snake kite dog = S+K+D"
+  "memo": "snake kite dog = skd"
  },
  {
   "category": "L5",
   "Hangul": "냉",
   "RR": "naeng",
   "Dubeolsik key": "sod",
-  "memo": "snake orange dog = S+O+D"
+  "memo": "snake orange dog = sod"
  },
  {
   "category": "L5",
   "Hangul": "넌",
   "RR": "neon",
   "Dubeolsik key": "sjs",
-  "memo": "snake jam snake = S+J+S"
+  "memo": "snake jam snake = sjs"
  },
  {
   "category": "L5",
   "Hangul": "널",
   "RR": "neol",
   "Dubeolsik key": "sjf",
-  "memo": "snake jam fish = S+J+F"
+  "memo": "snake jam fish = sjf"
  },
  {
   "category": "L5",
   "Hangul": "넘",
   "RR": "neom",
   "Dubeolsik key": "sja",
-  "memo": "snake jam apple = S+J+A"
+  "memo": "snake jam apple = sja"
  },
  {
   "category": "L5",
   "Hangul": "년",
   "RR": "nyeon",
   "Dubeolsik key": "sus",
-  "memo": "snake umbrella snake = S+U+S"
+  "memo": "snake umbrella snake = sus"
  },
  {
   "category": "L5",
   "Hangul": "념",
   "RR": "nyeom",
   "Dubeolsik key": "sua",
-  "memo": "snake umbrella apple = S+U+A"
+  "memo": "snake umbrella apple = sua"
  },
  {
   "category": "L5",
   "Hangul": "녕",
   "RR": "nyeong",
   "Dubeolsik key": "sud",
-  "memo": "snake umbrella dog = S+U+D"
+  "memo": "snake umbrella dog = sud"
  },
  {
   "category": "L5",
   "Hangul": "녹",
   "RR": "nok",
   "Dubeolsik key": "shr",
-  "memo": "snake hat rabbit = S+H+R"
+  "memo": "snake hat rabbit = shr"
  },
  {
   "category": "L5",
   "Hangul": "논",
   "RR": "non",
   "Dubeolsik key": "shs",
-  "memo": "snake hat snake = S+H+S"
+  "memo": "snake hat snake = shs"
  },
  {
   "category": "L5",
   "Hangul": "놀",
   "RR": "nol",
   "Dubeolsik key": "shf",
-  "memo": "snake hat fish = S+H+F"
+  "memo": "snake hat fish = shf"
  },
  {
   "category": "L5",
   "Hangul": "농",
   "RR": "nong",
   "Dubeolsik key": "shd",
-  "memo": "snake hat dog = S+H+D"
+  "memo": "snake hat dog = shd"
  },
  {
   "category": "L5",
   "Hangul": "눈",
   "RR": "nun",
   "Dubeolsik key": "sns",
-  "memo": "snake nose snake = S+N+S"
+  "memo": "snake nose snake = sns"
  },
  {
   "category": "L5",
   "Hangul": "눌",
   "RR": "nul",
   "Dubeolsik key": "snf",
-  "memo": "snake nose fish = S+N+F"
+  "memo": "snake nose fish = snf"
  },
  {
   "category": "L5",
   "Hangul": "늑",
   "RR": "neuk",
   "Dubeolsik key": "smr",
-  "memo": "snake moon rabbit = S+M+R"
+  "memo": "snake moon rabbit = smr"
  },
  {
   "category": "L5",
   "Hangul": "능",
   "RR": "neung",
   "Dubeolsik key": "smd",
-  "memo": "snake moon dog = S+M+D"
+  "memo": "snake moon dog = smd"
  },
  {
   "category": "L5",
   "Hangul": "닉",
   "RR": "nik",
   "Dubeolsik key": "slr",
-  "memo": "snake lion rabbit = S+L+R"
+  "memo": "snake lion rabbit = slr"
  },
  {
   "category": "L5",
   "Hangul": "닌",
   "RR": "nin",
   "Dubeolsik key": "sls",
-  "memo": "snake lion snake = S+L+S"
+  "memo": "snake lion snake = sls"
  },
  {
   "category": "L5",
   "Hangul": "닐",
   "RR": "nil",
   "Dubeolsik key": "slf",
-  "memo": "snake lion fish = S+L+F"
+  "memo": "snake lion fish = slf"
  },
  {
   "category": "L5",
   "Hangul": "님",
   "RR": "nim",
   "Dubeolsik key": "sla",
-  "memo": "snake lion apple = S+L+A"
+  "memo": "snake lion apple = sla"
  },
  {
   "category": "L5",
   "Hangul": "닙",
   "RR": "nip",
   "Dubeolsik key": "slq",
-  "memo": "snake lion queen = S+L+Q"
+  "memo": "snake lion queen = slq"
  },
  {
   "category": "L5",
   "Hangul": "닝",
   "RR": "ning",
   "Dubeolsik key": "sld",
-  "memo": "snake lion dog = S+L+D"
+  "memo": "snake lion dog = sld"
  },
  {
   "category": "L5",
   "Hangul": "단",
   "RR": "dan",
   "Dubeolsik key": "eks",
-  "memo": "egg kite snake = E+K+S"
+  "memo": "egg kite snake = eks"
  },
  {
   "category": "L5",
   "Hangul": "달",
   "RR": "dal",
   "Dubeolsik key": "ekf",
-  "memo": "egg kite fish = E+K+F"
+  "memo": "egg kite fish = ekf"
  },
  {
   "category": "L5",
   "Hangul": "담",
   "RR": "dam",
   "Dubeolsik key": "eka",
-  "memo": "egg kite apple = E+K+A"
+  "memo": "egg kite apple = eka"
  },
  {
   "category": "L5",
   "Hangul": "답",
   "RR": "dap",
   "Dubeolsik key": "ekq",
-  "memo": "egg kite queen = E+K+Q"
+  "memo": "egg kite queen = ekq"
  },
  {
   "category": "L5",
   "Hangul": "당",
   "RR": "dang",
   "Dubeolsik key": "ekd",
-  "memo": "egg kite dog = E+K+D"
+  "memo": "egg kite dog = ekd"
  },
  {
   "category": "L5",
   "Hangul": "덕",
   "RR": "deok",
   "Dubeolsik key": "ejr",
-  "memo": "egg jam rabbit = E+J+R"
+  "memo": "egg jam rabbit = ejr"
  },
  {
   "category": "L5",
   "Hangul": "던",
   "RR": "deon",
   "Dubeolsik key": "ejs",
-  "memo": "egg jam snake = E+J+S"
+  "memo": "egg jam snake = ejs"
  },
  {
   "category": "L5",
   "Hangul": "덜",
   "RR": "deol",
   "Dubeolsik key": "ejf",
-  "memo": "egg jam fish = E+J+F"
+  "memo": "egg jam fish = ejf"
  },
  {
   "category": "L5",
   "Hangul": "덤",
   "RR": "deom",
   "Dubeolsik key": "eja",
-  "memo": "egg jam apple = E+J+A"
+  "memo": "egg jam apple = eja"
  },
  {
   "category": "L5",
   "Hangul": "덥",
   "RR": "deop",
   "Dubeolsik key": "ejq",
-  "memo": "egg jam queen = E+J+Q"
+  "memo": "egg jam queen = ejq"
  },
  {
   "category": "L5",
   "Hangul": "덩",
   "RR": "deong",
   "Dubeolsik key": "ejd",
-  "memo": "egg jam dog = E+J+D"
+  "memo": "egg jam dog = ejd"
  },
  {
   "category": "L5",
   "Hangul": "독",
   "RR": "dok",
   "Dubeolsik key": "ehr",
-  "memo": "egg hat rabbit = E+H+R"
+  "memo": "egg hat rabbit = ehr"
  },
  {
   "category": "L5",
   "Hangul": "돈",
   "RR": "don",
   "Dubeolsik key": "ehs",
-  "memo": "egg hat snake = E+H+S"
+  "memo": "egg hat snake = ehs"
  },
  {
   "category": "L5",
   "Hangul": "돌",
   "RR": "dol",
   "Dubeolsik key": "ehf",
-  "memo": "egg hat fish = E+H+F"
+  "memo": "egg hat fish = ehf"
  },
  {
   "category": "L5",
   "Hangul": "동",
   "RR": "dong",
   "Dubeolsik key": "ehd",
-  "memo": "egg hat dog = E+H+D"
+  "memo": "egg hat dog = ehd"
  },
  {
   "category": "L5",
   "Hangul": "둑",
   "RR": "duk",
   "Dubeolsik key": "enr",
-  "memo": "egg nose rabbit = E+N+R"
+  "memo": "egg nose rabbit = enr"
  },
  {
   "category": "L5",
   "Hangul": "둔",
   "RR": "dun",
   "Dubeolsik key": "ens",
-  "memo": "egg nose snake = E+N+S"
+  "memo": "egg nose snake = ens"
  },
  {
   "category": "L5",
   "Hangul": "둘",
   "RR": "dul",
   "Dubeolsik key": "enf",
-  "memo": "egg nose fish = E+N+F"
+  "memo": "egg nose fish = enf"
  },
  {
   "category": "L5",
   "Hangul": "둠",
   "RR": "dum",
   "Dubeolsik key": "ena",
-  "memo": "egg nose apple = E+N+A"
+  "memo": "egg nose apple = ena"
  },
  {
   "category": "L5",
   "Hangul": "둥",
   "RR": "dung",
   "Dubeolsik key": "end",
-  "memo": "egg nose dog = E+N+D"
+  "memo": "egg nose dog = end"
  },
  {
   "category": "L5",
   "Hangul": "득",
   "RR": "deuk",
   "Dubeolsik key": "emr",
-  "memo": "egg moon rabbit = E+M+R"
+  "memo": "egg moon rabbit = emr"
  },
  {
   "category": "L5",
   "Hangul": "든",
   "RR": "deun",
   "Dubeolsik key": "ems",
-  "memo": "egg moon snake = E+M+S"
+  "memo": "egg moon snake = ems"
  },
  {
   "category": "L5",
   "Hangul": "들",
   "RR": "deul",
   "Dubeolsik key": "emf",
-  "memo": "egg moon fish = E+M+F"
+  "memo": "egg moon fish = emf"
  },
  {
   "category": "L5",
   "Hangul": "듬",
   "RR": "deum",
   "Dubeolsik key": "ema",
-  "memo": "egg moon apple = E+M+A"
+  "memo": "egg moon apple = ema"
  },
  {
   "category": "L5",
   "Hangul": "듭",
   "RR": "deup",
   "Dubeolsik key": "emq",
-  "memo": "egg moon queen = E+M+Q"
+  "memo": "egg moon queen = emq"
  },
  {
   "category": "L5",
   "Hangul": "등",
   "RR": "deung",
   "Dubeolsik key": "emd",
-  "memo": "egg moon dog = E+M+D"
+  "memo": "egg moon dog = emd"
  },
  {
   "category": "L5",
   "Hangul": "딘",
   "RR": "din",
   "Dubeolsik key": "els",
-  "memo": "egg lion snake = E+L+S"
+  "memo": "egg lion snake = els"
  },
  {
   "category": "L5",
   "Hangul": "딜",
   "RR": "dil",
   "Dubeolsik key": "elf",
-  "memo": "egg lion fish = E+L+F"
+  "memo": "egg lion fish = elf"
  },
  {
   "category": "L5",
   "Hangul": "락",
   "RR": "rak",
   "Dubeolsik key": "fkr",
-  "memo": "fish kite rabbit = F+K+R"
+  "memo": "fish kite rabbit = fkr"
  },
  {
   "category": "L5",
   "Hangul": "란",
   "RR": "ran",
   "Dubeolsik key": "fks",
-  "memo": "fish kite snake = F+K+S"
+  "memo": "fish kite snake = fks"
  },
  {
   "category": "L5",
   "Hangul": "랄",
   "RR": "ral",
   "Dubeolsik key": "fkf",
-  "memo": "fish kite fish = F+K+F"
+  "memo": "fish kite fish = fkf"
  },
  {
   "category": "L5",
   "Hangul": "람",
   "RR": "ram",
   "Dubeolsik key": "fka",
-  "memo": "fish kite apple = F+K+A"
+  "memo": "fish kite apple = fka"
  },
  {
   "category": "L5",
   "Hangul": "랍",
   "RR": "rap",
   "Dubeolsik key": "fkq",
-  "memo": "fish kite queen = F+K+Q"
+  "memo": "fish kite queen = fkq"
  },
  {
   "category": "L5",
   "Hangul": "랑",
   "RR": "rang",
   "Dubeolsik key": "fkd",
-  "memo": "fish kite dog = F+K+D"
+  "memo": "fish kite dog = fkd"
  },
  {
   "category": "L5",
   "Hangul": "랙",
   "RR": "raek",
   "Dubeolsik key": "for",
-  "memo": "fish orange rabbit = F+O+R"
+  "memo": "fish orange rabbit = for"
  },
  {
   "category": "L5",
   "Hangul": "량",
   "RR": "ryang",
   "Dubeolsik key": "fid",
-  "memo": "fish ink dog = F+I+D"
+  "memo": "fish ink dog = fid"
  },
  {
   "category": "L5",
   "Hangul": "럭",
   "RR": "reok",
   "Dubeolsik key": "fjr",
-  "memo": "fish jam rabbit = F+J+R"
+  "memo": "fish jam rabbit = fjr"
  },
  {
   "category": "L5",
   "Hangul": "력",
   "RR": "ryeok",
   "Dubeolsik key": "fur",
-  "memo": "fish umbrella rabbit = F+U+R"
+  "memo": "fish umbrella rabbit = fur"
  },
  {
   "category": "L5",
   "Hangul": "련",
   "RR": "ryeon",
   "Dubeolsik key": "fus",
-  "memo": "fish umbrella snake = F+U+S"
+  "memo": "fish umbrella snake = fus"
  },
  {
   "category": "L5",
   "Hangul": "렬",
   "RR": "ryeol",
   "Dubeolsik key": "fuf",
-  "memo": "fish umbrella fish = F+U+F"
+  "memo": "fish umbrella fish = fuf"
  },
  {
   "category": "L5",
   "Hangul": "렴",
   "RR": "ryeom",
   "Dubeolsik key": "fua",
-  "memo": "fish umbrella apple = F+U+A"
+  "memo": "fish umbrella apple = fua"
  },
  {
   "category": "L5",
   "Hangul": "렵",
   "RR": "ryeop",
   "Dubeolsik key": "fuq",
-  "memo": "fish umbrella queen = F+U+Q"
+  "memo": "fish umbrella queen = fuq"
  },
  {
   "category": "L5",
   "Hangul": "령",
   "RR": "ryeong",
   "Dubeolsik key": "fud",
-  "memo": "fish umbrella dog = F+U+D"
+  "memo": "fish umbrella dog = fud"
  },
  {
   "category": "L5",
   "Hangul": "록",
   "RR": "rok",
   "Dubeolsik key": "fhr",
-  "memo": "fish hat rabbit = F+H+R"
+  "memo": "fish hat rabbit = fhr"
  },
  {
   "category": "L5",
   "Hangul": "론",
   "RR": "ron",
   "Dubeolsik key": "fhs",
-  "memo": "fish hat snake = F+H+S"
+  "memo": "fish hat snake = fhs"
  },
  {
   "category": "L5",
   "Hangul": "롤",
   "RR": "rol",
   "Dubeolsik key": "fhf",
-  "memo": "fish hat fish = F+H+F"
+  "memo": "fish hat fish = fhf"
  },
  {
   "category": "L5",
   "Hangul": "룡",
   "RR": "ryong",
   "Dubeolsik key": "fyd",
-  "memo": "fish yoyo dog = F+Y+D"
+  "memo": "fish yoyo dog = fyd"
  },
  {
   "category": "L5",
   "Hangul": "룩",
   "RR": "ruk",
   "Dubeolsik key": "fnr",
-  "memo": "fish nose rabbit = F+N+R"
+  "memo": "fish nose rabbit = fnr"
  },
  {
   "category": "L5",
   "Hangul": "륜",
   "RR": "ryun",
   "Dubeolsik key": "fbs",
-  "memo": "fish ball snake = F+B+S"
+  "memo": "fish ball snake = fbs"
  },
  {
   "category": "L5",
   "Hangul": "률",
   "RR": "ryul",
   "Dubeolsik key": "fbf",
-  "memo": "fish ball fish = F+B+F"
+  "memo": "fish ball fish = fbf"
  },
  {
   "category": "L5",
   "Hangul": "륭",
   "RR": "ryung",
   "Dubeolsik key": "fbd",
-  "memo": "fish ball dog = F+B+D"
+  "memo": "fish ball dog = fbd"
  },
  {
   "category": "L5",
   "Hangul": "륵",
   "RR": "reuk",
   "Dubeolsik key": "fmr",
-  "memo": "fish moon rabbit = F+M+R"
+  "memo": "fish moon rabbit = fmr"
  },
  {
   "category": "L5",
   "Hangul": "른",
   "RR": "reun",
   "Dubeolsik key": "fms",
-  "memo": "fish moon snake = F+M+S"
+  "memo": "fish moon snake = fms"
  },
  {
   "category": "L5",
   "Hangul": "를",
   "RR": "reul",
   "Dubeolsik key": "fmf",
-  "memo": "fish moon fish = F+M+F"
+  "memo": "fish moon fish = fmf"
  },
  {
   "category": "L5",
   "Hangul": "름",
   "RR": "reum",
   "Dubeolsik key": "fma",
-  "memo": "fish moon apple = F+M+A"
+  "memo": "fish moon apple = fma"
  },
  {
   "category": "L5",
   "Hangul": "릅",
   "RR": "reup",
   "Dubeolsik key": "fmq",
-  "memo": "fish moon queen = F+M+Q"
+  "memo": "fish moon queen = fmq"
  },
  {
   "category": "L5",
   "Hangul": "릉",
   "RR": "reung",
   "Dubeolsik key": "fmd",
-  "memo": "fish moon dog = F+M+D"
+  "memo": "fish moon dog = fmd"
  },
  {
   "category": "L5",
   "Hangul": "린",
   "RR": "rin",
   "Dubeolsik key": "fls",
-  "memo": "fish lion snake = F+L+S"
+  "memo": "fish lion snake = fls"
  },
  {
   "category": "L5",
   "Hangul": "릴",
   "RR": "ril",
   "Dubeolsik key": "flf",
-  "memo": "fish lion fish = F+L+F"
+  "memo": "fish lion fish = flf"
  },
  {
   "category": "L5",
   "Hangul": "림",
   "RR": "rim",
   "Dubeolsik key": "fla",
-  "memo": "fish lion apple = F+L+A"
+  "memo": "fish lion apple = fla"
  },
  {
   "category": "L5",
   "Hangul": "립",
   "RR": "rip",
   "Dubeolsik key": "flq",
-  "memo": "fish lion queen = F+L+Q"
+  "memo": "fish lion queen = flq"
  },
  {
   "category": "L5",
   "Hangul": "막",
   "RR": "mak",
   "Dubeolsik key": "akr",
-  "memo": "apple kite rabbit = A+K+R"
+  "memo": "apple kite rabbit = akr"
  },
  {
   "category": "L5",
   "Hangul": "만",
   "RR": "man",
   "Dubeolsik key": "aks",
-  "memo": "apple kite snake = A+K+S"
+  "memo": "apple kite snake = aks"
  },
  {
   "category": "L5",
   "Hangul": "말",
   "RR": "mal",
   "Dubeolsik key": "akf",
-  "memo": "apple kite fish = A+K+F"
+  "memo": "apple kite fish = akf"
  },
  {
   "category": "L5",
   "Hangul": "맘",
   "RR": "mam",
   "Dubeolsik key": "aka",
-  "memo": "apple kite apple = A+K+A"
+  "memo": "apple kite apple = aka"
  },
  {
   "category": "L5",
   "Hangul": "맙",
   "RR": "map",
   "Dubeolsik key": "akq",
-  "memo": "apple kite queen = A+K+Q"
+  "memo": "apple kite queen = akq"
  },
  {
   "category": "L5",
   "Hangul": "망",
   "RR": "mang",
   "Dubeolsik key": "akd",
-  "memo": "apple kite dog = A+K+D"
+  "memo": "apple kite dog = akd"
  },
  {
   "category": "L5",
   "Hangul": "맥",
   "RR": "maek",
   "Dubeolsik key": "aor",
-  "memo": "apple orange rabbit = A+O+R"
+  "memo": "apple orange rabbit = aor"
  },
  {
   "category": "L5",
   "Hangul": "먹",
   "RR": "meok",
   "Dubeolsik key": "ajr",
-  "memo": "apple jam rabbit = A+J+R"
+  "memo": "apple jam rabbit = ajr"
  },
  {
   "category": "L5",
   "Hangul": "먼",
   "RR": "meon",
   "Dubeolsik key": "ajs",
-  "memo": "apple jam snake = A+J+S"
+  "memo": "apple jam snake = ajs"
  },
  {
   "category": "L5",
   "Hangul": "멀",
   "RR": "meol",
   "Dubeolsik key": "ajf",
-  "memo": "apple jam fish = A+J+F"
+  "memo": "apple jam fish = ajf"
  },
  {
   "category": "L5",
   "Hangul": "멍",
   "RR": "meong",
   "Dubeolsik key": "ajd",
-  "memo": "apple jam dog = A+J+D"
+  "memo": "apple jam dog = ajd"
  },
  {
   "category": "L5",
   "Hangul": "면",
   "RR": "myeon",
   "Dubeolsik key": "aus",
-  "memo": "apple umbrella snake = A+U+S"
+  "memo": "apple umbrella snake = aus"
  },
  {
   "category": "L5",
   "Hangul": "멸",
   "RR": "myeol",
   "Dubeolsik key": "auf",
-  "memo": "apple umbrella fish = A+U+F"
+  "memo": "apple umbrella fish = auf"
  },
  {
   "category": "L5",
   "Hangul": "명",
   "RR": "myeong",
   "Dubeolsik key": "aud",
-  "memo": "apple umbrella dog = A+U+D"
+  "memo": "apple umbrella dog = aud"
  },
  {
   "category": "L5",
   "Hangul": "목",
   "RR": "mok",
   "Dubeolsik key": "ahr",
-  "memo": "apple hat rabbit = A+H+R"
+  "memo": "apple hat rabbit = ahr"
  },
  {
   "category": "L5",
   "Hangul": "몰",
   "RR": "mol",
   "Dubeolsik key": "ahf",
-  "memo": "apple hat fish = A+H+F"
+  "memo": "apple hat fish = ahf"
  },
  {
   "category": "L5",
   "Hangul": "몸",
   "RR": "mom",
   "Dubeolsik key": "aha",
-  "memo": "apple hat apple = A+H+A"
+  "memo": "apple hat apple = aha"
  },
  {
   "category": "L5",
   "Hangul": "못",
   "RR": "mot",
   "Dubeolsik key": "aht",
-  "memo": "apple hat tiger = A+H+T"
+  "memo": "apple hat tiger = aht"
  },
  {
   "category": "L5",
   "Hangul": "몽",
   "RR": "mong",
   "Dubeolsik key": "ahd",
-  "memo": "apple hat dog = A+H+D"
+  "memo": "apple hat dog = ahd"
  },
  {
   "category": "L5",
   "Hangul": "묵",
   "RR": "muk",
   "Dubeolsik key": "anr",
-  "memo": "apple nose rabbit = A+N+R"
+  "memo": "apple nose rabbit = anr"
  },
  {
   "category": "L5",
   "Hangul": "문",
   "RR": "mun",
   "Dubeolsik key": "ans",
-  "memo": "apple nose snake = A+N+S"
+  "memo": "apple nose snake = ans"
  },
  {
   "category": "L5",
   "Hangul": "물",
   "RR": "mul",
   "Dubeolsik key": "anf",
-  "memo": "apple nose fish = A+N+F"
+  "memo": "apple nose fish = anf"
  },
  {
   "category": "L5",
   "Hangul": "뭉",
   "RR": "mung",
   "Dubeolsik key": "and",
-  "memo": "apple nose dog = A+N+D"
+  "memo": "apple nose dog = and"
  },
  {
   "category": "L5",
   "Hangul": "민",
   "RR": "min",
   "Dubeolsik key": "als",
-  "memo": "apple lion snake = A+L+S"
+  "memo": "apple lion snake = als"
  },
  {
   "category": "L5",
   "Hangul": "밀",
   "RR": "mil",
   "Dubeolsik key": "alf",
-  "memo": "apple lion fish = A+L+F"
+  "memo": "apple lion fish = alf"
  },
  {
   "category": "L5",
   "Hangul": "밉",
   "RR": "mip",
   "Dubeolsik key": "alq",
-  "memo": "apple lion queen = A+L+Q"
+  "memo": "apple lion queen = alq"
  },
  {
   "category": "L5",
   "Hangul": "및",
   "RR": "mit",
   "Dubeolsik key": "alc",
-  "memo": "apple lion cat = A+L+C"
+  "memo": "apple lion cat = alc"
  },
  {
   "category": "L5",
   "Hangul": "박",
   "RR": "bak",
   "Dubeolsik key": "qkr",
-  "memo": "queen kite rabbit = Q+K+R"
+  "memo": "queen kite rabbit = qkr"
  },
  {
   "category": "L5",
   "Hangul": "반",
   "RR": "ban",
   "Dubeolsik key": "qks",
-  "memo": "queen kite snake = Q+K+S"
+  "memo": "queen kite snake = qks"
  },
  {
   "category": "L5",
   "Hangul": "발",
   "RR": "bal",
   "Dubeolsik key": "qkf",
-  "memo": "queen kite fish = Q+K+F"
+  "memo": "queen kite fish = qkf"
  },
  {
   "category": "L5",
   "Hangul": "밤",
   "RR": "bam",
   "Dubeolsik key": "qka",
-  "memo": "queen kite apple = Q+K+A"
+  "memo": "queen kite apple = qka"
  },
  {
   "category": "L5",
   "Hangul": "밥",
   "RR": "bap",
   "Dubeolsik key": "qkq",
-  "memo": "queen kite queen = Q+K+Q"
+  "memo": "queen kite queen = qkq"
  },
  {
   "category": "L5",
   "Hangul": "방",
   "RR": "bang",
   "Dubeolsik key": "qkd",
-  "memo": "queen kite dog = Q+K+D"
+  "memo": "queen kite dog = qkd"
  },
  {
   "category": "L5",
   "Hangul": "밭",
   "RR": "bat",
   "Dubeolsik key": "qkx",
-  "memo": "queen kite x-ray = Q+K+X"
+  "memo": "queen kite x-ray = qkx"
  },
  {
   "category": "L5",
   "Hangul": "백",
   "RR": "baek",
   "Dubeolsik key": "qor",
-  "memo": "queen orange rabbit = Q+O+R"
+  "memo": "queen orange rabbit = qor"
  },
  {
   "category": "L5",
   "Hangul": "번",
   "RR": "beon",
   "Dubeolsik key": "qjs",
-  "memo": "queen jam snake = Q+J+S"
+  "memo": "queen jam snake = qjs"
  },
  {
   "category": "L5",
   "Hangul": "벌",
   "RR": "beol",
   "Dubeolsik key": "qjf",
-  "memo": "queen jam fish = Q+J+F"
+  "memo": "queen jam fish = qjf"
  },
  {
   "category": "L5",
   "Hangul": "범",
   "RR": "beom",
   "Dubeolsik key": "qja",
-  "memo": "queen jam apple = Q+J+A"
+  "memo": "queen jam apple = qja"
  },
  {
   "category": "L5",
   "Hangul": "법",
   "RR": "beop",
   "Dubeolsik key": "qjq",
-  "memo": "queen jam queen = Q+J+Q"
+  "memo": "queen jam queen = qjq"
  },
  {
   "category": "L5",
   "Hangul": "벽",
   "RR": "byeok",
   "Dubeolsik key": "qur",
-  "memo": "queen umbrella rabbit = Q+U+R"
+  "memo": "queen umbrella rabbit = qur"
  },
  {
   "category": "L5",
   "Hangul": "변",
   "RR": "byeon",
   "Dubeolsik key": "qus",
-  "memo": "queen umbrella snake = Q+U+S"
+  "memo": "queen umbrella snake = qus"
  },
  {
   "category": "L5",
   "Hangul": "별",
   "RR": "byeol",
   "Dubeolsik key": "quf",
-  "memo": "queen umbrella fish = Q+U+F"
+  "memo": "queen umbrella fish = quf"
  },
  {
   "category": "L5",
   "Hangul": "병",
   "RR": "byeong",
   "Dubeolsik key": "qud",
-  "memo": "queen umbrella dog = Q+U+D"
+  "memo": "queen umbrella dog = qud"
  },
  {
   "category": "L5",
   "Hangul": "복",
   "RR": "bok",
   "Dubeolsik key": "qhr",
-  "memo": "queen hat rabbit = Q+H+R"
+  "memo": "queen hat rabbit = qhr"
  },
  {
   "category": "L5",
   "Hangul": "본",
   "RR": "bon",
   "Dubeolsik key": "qhs",
-  "memo": "queen hat snake = Q+H+S"
+  "memo": "queen hat snake = qhs"
  },
  {
   "category": "L5",
   "Hangul": "볼",
   "RR": "bol",
   "Dubeolsik key": "qhf",
-  "memo": "queen hat fish = Q+H+F"
+  "memo": "queen hat fish = qhf"
  },
  {
   "category": "L5",
   "Hangul": "봄",
   "RR": "bom",
   "Dubeolsik key": "qha",
-  "memo": "queen hat apple = Q+H+A"
+  "memo": "queen hat apple = qha"
  },
  {
   "category": "L5",
   "Hangul": "봉",
   "RR": "bong",
   "Dubeolsik key": "qhd",
-  "memo": "queen hat dog = Q+H+D"
+  "memo": "queen hat dog = qhd"
  },
  {
   "category": "L5",
   "Hangul": "북",
   "RR": "buk",
   "Dubeolsik key": "qnr",
-  "memo": "queen nose rabbit = Q+N+R"
+  "memo": "queen nose rabbit = qnr"
  },
  {
   "category": "L5",
   "Hangul": "분",
   "RR": "bun",
   "Dubeolsik key": "qns",
-  "memo": "queen nose snake = Q+N+S"
+  "memo": "queen nose snake = qns"
  },
  {
   "category": "L5",
   "Hangul": "불",
   "RR": "bul",
   "Dubeolsik key": "qnf",
-  "memo": "queen nose fish = Q+N+F"
+  "memo": "queen nose fish = qnf"
  },
  {
   "category": "L5",
   "Hangul": "붕",
   "RR": "bung",
   "Dubeolsik key": "qnd",
-  "memo": "queen nose dog = Q+N+D"
+  "memo": "queen nose dog = qnd"
  },
  {
   "category": "L5",
   "Hangul": "빈",
   "RR": "bin",
   "Dubeolsik key": "qls",
-  "memo": "queen lion snake = Q+L+S"
+  "memo": "queen lion snake = qls"
  },
  {
   "category": "L5",
   "Hangul": "빌",
   "RR": "bil",
   "Dubeolsik key": "qlf",
-  "memo": "queen lion fish = Q+L+F"
+  "memo": "queen lion fish = qlf"
  },
  {
   "category": "L5",
   "Hangul": "빔",
   "RR": "bim",
   "Dubeolsik key": "qla",
-  "memo": "queen lion apple = Q+L+A"
+  "memo": "queen lion apple = qla"
  },
  {
   "category": "L5",
   "Hangul": "빕",
   "RR": "bip",
   "Dubeolsik key": "qlq",
-  "memo": "queen lion queen = Q+L+Q"
+  "memo": "queen lion queen = qlq"
  },
  {
   "category": "L5",
   "Hangul": "빛",
   "RR": "bit",
   "Dubeolsik key": "qlc",
-  "memo": "queen lion cat = Q+L+C"
+  "memo": "queen lion cat = qlc"
  },
  {
   "category": "L5",
   "Hangul": "삭",
   "RR": "sak",
   "Dubeolsik key": "tkr",
-  "memo": "tiger kite rabbit = T+K+R"
+  "memo": "tiger kite rabbit = tkr"
  },
  {
   "category": "L5",
   "Hangul": "산",
   "RR": "san",
   "Dubeolsik key": "tks",
-  "memo": "tiger kite snake = T+K+S"
+  "memo": "tiger kite snake = tks"
  },
  {
   "category": "L5",
   "Hangul": "살",
   "RR": "sal",
   "Dubeolsik key": "tkf",
-  "memo": "tiger kite fish = T+K+F"
+  "memo": "tiger kite fish = tkf"
  },
  {
   "category": "L5",
   "Hangul": "삼",
   "RR": "sam",
   "Dubeolsik key": "tka",
-  "memo": "tiger kite apple = T+K+A"
+  "memo": "tiger kite apple = tka"
  },
  {
   "category": "L5",
   "Hangul": "삽",
   "RR": "sap",
   "Dubeolsik key": "tkq",
-  "memo": "tiger kite queen = T+K+Q"
+  "memo": "tiger kite queen = tkq"
  },
  {
   "category": "L5",
   "Hangul": "상",
   "RR": "sang",
   "Dubeolsik key": "tkd",
-  "memo": "tiger kite dog = T+K+D"
+  "memo": "tiger kite dog = tkd"
  },
  {
   "category": "L5",
   "Hangul": "색",
   "RR": "saek",
   "Dubeolsik key": "tor",
-  "memo": "tiger orange rabbit = T+O+R"
+  "memo": "tiger orange rabbit = tor"
  },
  {
   "category": "L5",
   "Hangul": "생",
   "RR": "saeng",
   "Dubeolsik key": "tod",
-  "memo": "tiger orange dog = T+O+D"
+  "memo": "tiger orange dog = tod"
  },
  {
   "category": "L5",
   "Hangul": "석",
   "RR": "seok",
   "Dubeolsik key": "tjr",
-  "memo": "tiger jam rabbit = T+J+R"
+  "memo": "tiger jam rabbit = tjr"
  },
  {
   "category": "L5",
   "Hangul": "선",
   "RR": "seon",
   "Dubeolsik key": "tjs",
-  "memo": "tiger jam snake = T+J+S"
+  "memo": "tiger jam snake = tjs"
  },
  {
   "category": "L5",
   "Hangul": "설",
   "RR": "seol",
   "Dubeolsik key": "tjf",
-  "memo": "tiger jam fish = T+J+F"
+  "memo": "tiger jam fish = tjf"
  },
  {
   "category": "L5",
   "Hangul": "섬",
   "RR": "seom",
   "Dubeolsik key": "tja",
-  "memo": "tiger jam apple = T+J+A"
+  "memo": "tiger jam apple = tja"
  },
  {
   "category": "L5",
   "Hangul": "섭",
   "RR": "seop",
   "Dubeolsik key": "tjq",
-  "memo": "tiger jam queen = T+J+Q"
+  "memo": "tiger jam queen = tjq"
  },
  {
   "category": "L5",
   "Hangul": "성",
   "RR": "seong",
   "Dubeolsik key": "tjd",
-  "memo": "tiger jam dog = T+J+D"
+  "memo": "tiger jam dog = tjd"
  },
  {
   "category": "L5",
   "Hangul": "셈",
   "RR": "sem",
   "Dubeolsik key": "tpa",
-  "memo": "tiger pen apple = T+P+A"
+  "memo": "tiger pen apple = tpa"
  },
  {
   "category": "L5",
   "Hangul": "셋",
   "RR": "set",
   "Dubeolsik key": "tpt",
-  "memo": "tiger pen tiger = T+P+T"
+  "memo": "tiger pen tiger = tpt"
  },
  {
   "category": "L5",
   "Hangul": "속",
   "RR": "sok",
   "Dubeolsik key": "thr",
-  "memo": "tiger hat rabbit = T+H+R"
+  "memo": "tiger hat rabbit = thr"
  },
  {
   "category": "L5",
   "Hangul": "손",
   "RR": "son",
   "Dubeolsik key": "ths",
-  "memo": "tiger hat snake = T+H+S"
+  "memo": "tiger hat snake = ths"
  },
  {
   "category": "L5",
   "Hangul": "솔",
   "RR": "sol",
   "Dubeolsik key": "thf",
-  "memo": "tiger hat fish = T+H+F"
+  "memo": "tiger hat fish = thf"
  },
  {
   "category": "L5",
   "Hangul": "솜",
   "RR": "som",
   "Dubeolsik key": "tha",
-  "memo": "tiger hat apple = T+H+A"
+  "memo": "tiger hat apple = tha"
  },
  {
   "category": "L5",
   "Hangul": "송",
   "RR": "song",
   "Dubeolsik key": "thd",
-  "memo": "tiger hat dog = T+H+D"
+  "memo": "tiger hat dog = thd"
  },
  {
   "category": "L5",
   "Hangul": "숙",
   "RR": "suk",
   "Dubeolsik key": "tnr",
-  "memo": "tiger nose rabbit = T+N+R"
+  "memo": "tiger nose rabbit = tnr"
  },
  {
   "category": "L5",
   "Hangul": "순",
   "RR": "sun",
   "Dubeolsik key": "tns",
-  "memo": "tiger nose snake = T+N+S"
+  "memo": "tiger nose snake = tns"
  },
  {
   "category": "L5",
   "Hangul": "술",
   "RR": "sul",
   "Dubeolsik key": "tnf",
-  "memo": "tiger nose fish = T+N+F"
+  "memo": "tiger nose fish = tnf"
  },
  {
   "category": "L5",
   "Hangul": "숨",
   "RR": "sum",
   "Dubeolsik key": "tna",
-  "memo": "tiger nose apple = T+N+A"
+  "memo": "tiger nose apple = tna"
  },
  {
   "category": "L5",
   "Hangul": "숭",
   "RR": "sung",
   "Dubeolsik key": "tnd",
-  "memo": "tiger nose dog = T+N+D"
+  "memo": "tiger nose dog = tnd"
  },
  {
   "category": "L5",
   "Hangul": "슬",
   "RR": "seul",
   "Dubeolsik key": "tmf",
-  "memo": "tiger moon fish = T+M+F"
+  "memo": "tiger moon fish = tmf"
  },
  {
   "category": "L5",
   "Hangul": "슴",
   "RR": "seum",
   "Dubeolsik key": "tma",
-  "memo": "tiger moon apple = T+M+A"
+  "memo": "tiger moon apple = tma"
  },
  {
   "category": "L5",
   "Hangul": "습",
   "RR": "seup",
   "Dubeolsik key": "tmq",
-  "memo": "tiger moon queen = T+M+Q"
+  "memo": "tiger moon queen = tmq"
  },
  {
   "category": "L5",
   "Hangul": "승",
   "RR": "seung",
   "Dubeolsik key": "tmd",
-  "memo": "tiger moon dog = T+M+D"
+  "memo": "tiger moon dog = tmd"
  },
  {
   "category": "L5",
   "Hangul": "식",
   "RR": "sik",
   "Dubeolsik key": "tlr",
-  "memo": "tiger lion rabbit = T+L+R"
+  "memo": "tiger lion rabbit = tlr"
  },
  {
   "category": "L5",
   "Hangul": "신",
   "RR": "sin",
   "Dubeolsik key": "tls",
-  "memo": "tiger lion snake = T+L+S"
+  "memo": "tiger lion snake = tls"
  },
  {
   "category": "L5",
   "Hangul": "실",
   "RR": "sil",
   "Dubeolsik key": "tlf",
-  "memo": "tiger lion fish = T+L+F"
+  "memo": "tiger lion fish = tlf"
  },
  {
   "category": "L5",
   "Hangul": "심",
   "RR": "sim",
   "Dubeolsik key": "tla",
-  "memo": "tiger lion apple = T+L+A"
+  "memo": "tiger lion apple = tla"
  },
  {
   "category": "L5",
   "Hangul": "십",
   "RR": "sip",
   "Dubeolsik key": "tlq",
-  "memo": "tiger lion queen = T+L+Q"
+  "memo": "tiger lion queen = tlq"
  },
  {
   "category": "L5",
   "Hangul": "악",
   "RR": "ak",
   "Dubeolsik key": "dkr",
-  "memo": "dog kite rabbit = D+K+R"
+  "memo": "dog kite rabbit = dkr"
  },
  {
   "category": "L5",
   "Hangul": "안",
   "RR": "an",
   "Dubeolsik key": "dks",
-  "memo": "dog kite snake = D+K+S"
+  "memo": "dog kite snake = dks"
  },
  {
   "category": "L5",
   "Hangul": "알",
   "RR": "al",
   "Dubeolsik key": "dkf",
-  "memo": "dog kite fish = D+K+F"
+  "memo": "dog kite fish = dkf"
  },
  {
   "category": "L5",
   "Hangul": "암",
   "RR": "am",
   "Dubeolsik key": "dka",
-  "memo": "dog kite apple = D+K+A"
+  "memo": "dog kite apple = dka"
  },
  {
   "category": "L5",
   "Hangul": "압",
   "RR": "ap",
   "Dubeolsik key": "dkq",
-  "memo": "dog kite queen = D+K+Q"
+  "memo": "dog kite queen = dkq"
  },
  {
   "category": "L5",
   "Hangul": "앙",
   "RR": "ang",
   "Dubeolsik key": "dkd",
-  "memo": "dog kite dog = D+K+D"
+  "memo": "dog kite dog = dkd"
  },
  {
   "category": "L5",
   "Hangul": "액",
   "RR": "aek",
   "Dubeolsik key": "dor",
-  "memo": "dog orange rabbit = D+O+R"
+  "memo": "dog orange rabbit = dor"
  },
  {
   "category": "L5",
   "Hangul": "약",
   "RR": "yak",
   "Dubeolsik key": "dir",
-  "memo": "dog ink rabbit = D+I+R"
+  "memo": "dog ink rabbit = dir"
  },
  {
   "category": "L5",
   "Hangul": "양",
   "RR": "yang",
   "Dubeolsik key": "did",
-  "memo": "dog ink dog = D+I+D"
+  "memo": "dog ink dog = did"
  },
  {
   "category": "L5",
   "Hangul": "억",
   "RR": "eok",
   "Dubeolsik key": "djr",
-  "memo": "dog jam rabbit = D+J+R"
+  "memo": "dog jam rabbit = djr"
  },
  {
   "category": "L5",
   "Hangul": "언",
   "RR": "eon",
   "Dubeolsik key": "djs",
-  "memo": "dog jam snake = D+J+S"
+  "memo": "dog jam snake = djs"
  },
  {
   "category": "L5",
   "Hangul": "얼",
   "RR": "eol",
   "Dubeolsik key": "djf",
-  "memo": "dog jam fish = D+J+F"
+  "memo": "dog jam fish = djf"
  },
  {
   "category": "L5",
   "Hangul": "엄",
   "RR": "eom",
   "Dubeolsik key": "dja",
-  "memo": "dog jam apple = D+J+A"
+  "memo": "dog jam apple = dja"
  },
  {
   "category": "L5",
   "Hangul": "업",
   "RR": "eop",
   "Dubeolsik key": "djq",
-  "memo": "dog jam queen = D+J+Q"
+  "memo": "dog jam queen = djq"
  },
  {
   "category": "L5",
   "Hangul": "엉",
   "RR": "eong",
   "Dubeolsik key": "djd",
-  "memo": "dog jam dog = D+J+D"
+  "memo": "dog jam dog = djd"
  },
  {
   "category": "L5",
   "Hangul": "염",
   "RR": "yeom",
   "Dubeolsik key": "dua",
-  "memo": "dog umbrella apple = D+U+A"
+  "memo": "dog umbrella apple = dua"
  },
  {
   "category": "L5",
   "Hangul": "엽",
   "RR": "yeop",
   "Dubeolsik key": "duq",
-  "memo": "dog umbrella queen = D+U+Q"
+  "memo": "dog umbrella queen = duq"
  },
  {
   "category": "L5",
   "Hangul": "영",
   "RR": "yeong",
   "Dubeolsik key": "dud",
-  "memo": "dog umbrella dog = D+U+D"
+  "memo": "dog umbrella dog = dud"
  },
  {
   "category": "L5",
   "Hangul": "옥",
   "RR": "ok",
   "Dubeolsik key": "dhr",
-  "memo": "dog hat rabbit = D+H+R"
+  "memo": "dog hat rabbit = dhr"
  },
  {
   "category": "L5",
   "Hangul": "온",
   "RR": "on",
   "Dubeolsik key": "dhs",
-  "memo": "dog hat snake = D+H+S"
+  "memo": "dog hat snake = dhs"
  },
  {
   "category": "L5",
   "Hangul": "올",
   "RR": "ol",
   "Dubeolsik key": "dhf",
-  "memo": "dog hat fish = D+H+F"
+  "memo": "dog hat fish = dhf"
  },
  {
   "category": "L5",
   "Hangul": "옴",
   "RR": "om",
   "Dubeolsik key": "dha",
-  "memo": "dog hat apple = D+H+A"
+  "memo": "dog hat apple = dha"
  },
  {
   "category": "L5",
   "Hangul": "옵",
   "RR": "op",
   "Dubeolsik key": "dhq",
-  "memo": "dog hat queen = D+H+Q"
+  "memo": "dog hat queen = dhq"
  },
  {
   "category": "L5",
   "Hangul": "옹",
   "RR": "ong",
   "Dubeolsik key": "dhd",
-  "memo": "dog hat dog = D+H+D"
+  "memo": "dog hat dog = dhd"
  },
  {
   "category": "L5",
   "Hangul": "완",
   "RR": "wan",
   "Dubeolsik key": "dhks",
-  "memo": "dog hat kite snake = D+H+K+S"
+  "memo": "dog hat kite snake = dhks"
  },
  {
   "category": "L5",
   "Hangul": "왕",
   "RR": "wang",
   "Dubeolsik key": "dhkd",
-  "memo": "dog hat kite dog = D+H+K+D"
+  "memo": "dog hat kite dog = dhkd"
  },
  {
   "category": "L5",
   "Hangul": "욕",
   "RR": "yok",
   "Dubeolsik key": "dyr",
-  "memo": "dog yoyo rabbit = D+Y+R"
+  "memo": "dog yoyo rabbit = dyr"
  },
  {
   "category": "L5",
   "Hangul": "울",
   "RR": "ul",
   "Dubeolsik key": "dnf",
-  "memo": "dog nose fish = D+N+F"
+  "memo": "dog nose fish = dnf"
  },
  {
   "category": "L5",
   "Hangul": "움",
   "RR": "um",
   "Dubeolsik key": "dna",
-  "memo": "dog nose apple = D+N+A"
+  "memo": "dog nose apple = dna"
  },
  {
   "category": "L5",
   "Hangul": "웁",
   "RR": "up",
   "Dubeolsik key": "dnq",
-  "memo": "dog nose queen = D+N+Q"
+  "memo": "dog nose queen = dnq"
  },
  {
   "category": "L5",
   "Hangul": "웅",
   "RR": "ung",
   "Dubeolsik key": "dnd",
-  "memo": "dog nose dog = D+N+D"
+  "memo": "dog nose dog = dnd"
  },
  {
   "category": "L5",
   "Hangul": "원",
   "RR": "won",
   "Dubeolsik key": "dnjs",
-  "memo": "dog nose jam snake = D+N+J+S"
+  "memo": "dog nose jam snake = dnjs"
  },
  {
   "category": "L5",
   "Hangul": "월",
   "RR": "wol",
   "Dubeolsik key": "dnjf",
-  "memo": "dog nose jam fish = D+N+J+F"
+  "memo": "dog nose jam fish = dnjf"
  },
  {
   "category": "L5",
   "Hangul": "육",
   "RR": "yuk",
   "Dubeolsik key": "dbr",
-  "memo": "dog ball rabbit = D+B+R"
+  "memo": "dog ball rabbit = dbr"
  },
  {
   "category": "L5",
   "Hangul": "윤",
   "RR": "yun",
   "Dubeolsik key": "dbs",
-  "memo": "dog ball snake = D+B+S"
+  "memo": "dog ball snake = dbs"
  },
  {
   "category": "L5",
   "Hangul": "율",
   "RR": "yul",
   "Dubeolsik key": "dbf",
-  "memo": "dog ball fish = D+B+F"
+  "memo": "dog ball fish = dbf"
  },
  {
   "category": "L5",
   "Hangul": "융",
   "RR": "yung",
   "Dubeolsik key": "dbd",
-  "memo": "dog ball dog = D+B+D"
+  "memo": "dog ball dog = dbd"
  },
  {
   "category": "L5",
   "Hangul": "을",
   "RR": "eul",
   "Dubeolsik key": "dmf",
-  "memo": "dog moon fish = D+M+F"
+  "memo": "dog moon fish = dmf"
  },
  {
   "category": "L5",
   "Hangul": "음",
   "RR": "eum",
   "Dubeolsik key": "dma",
-  "memo": "dog moon apple = D+M+A"
+  "memo": "dog moon apple = dma"
  },
  {
   "category": "L5",
   "Hangul": "읍",
   "RR": "eup",
   "Dubeolsik key": "dmq",
-  "memo": "dog moon queen = D+M+Q"
+  "memo": "dog moon queen = dmq"
  },
  {
   "category": "L5",
   "Hangul": "응",
   "RR": "eung",
   "Dubeolsik key": "dmd",
-  "memo": "dog moon dog = D+M+D"
+  "memo": "dog moon dog = dmd"
  },
  {
   "category": "L5",
   "Hangul": "익",
   "RR": "ik",
   "Dubeolsik key": "dlr",
-  "memo": "dog lion rabbit = D+L+R"
+  "memo": "dog lion rabbit = dlr"
  },
  {
   "category": "L5",
   "Hangul": "인",
   "RR": "in",
   "Dubeolsik key": "dls",
-  "memo": "dog lion snake = D+L+S"
+  "memo": "dog lion snake = dls"
  },
  {
   "category": "L5",
   "Hangul": "일",
   "RR": "il",
   "Dubeolsik key": "dlf",
-  "memo": "dog lion fish = D+L+F"
+  "memo": "dog lion fish = dlf"
  },
  {
   "category": "L5",
   "Hangul": "임",
   "RR": "im",
   "Dubeolsik key": "dla",
-  "memo": "dog lion apple = D+L+A"
+  "memo": "dog lion apple = dla"
  },
  {
   "category": "L5",
   "Hangul": "입",
   "RR": "ip",
   "Dubeolsik key": "dlq",
-  "memo": "dog lion queen = D+L+Q"
+  "memo": "dog lion queen = dlq"
  },
  {
   "category": "L5",
   "Hangul": "있",
   "RR": "it",
   "Dubeolsik key": "dlT",
-  "memo": "dog lion TIGER = D+L+T"
+  "memo": "dog lion TIGER = dlT"
  },
  {
   "category": "L5",
   "Hangul": "잊",
   "RR": "it",
   "Dubeolsik key": "dlw",
-  "memo": "dog lion whale = D+L+W"
+  "memo": "dog lion whale = dlw"
  },
  {
   "category": "L5",
   "Hangul": "작",
   "RR": "jak",
   "Dubeolsik key": "wkr",
-  "memo": "whale kite rabbit = W+K+R"
+  "memo": "whale kite rabbit = wkr"
  },
  {
   "category": "L5",
   "Hangul": "잔",
   "RR": "jan",
   "Dubeolsik key": "wks",
-  "memo": "whale kite snake = W+K+S"
+  "memo": "whale kite snake = wks"
  },
  {
   "category": "L5",
   "Hangul": "잘",
   "RR": "jal",
   "Dubeolsik key": "wkf",
-  "memo": "whale kite fish = W+K+F"
+  "memo": "whale kite fish = wkf"
  },
  {
   "category": "L5",
   "Hangul": "잠",
   "RR": "jam",
   "Dubeolsik key": "wka",
-  "memo": "whale kite apple = W+K+A"
+  "memo": "whale kite apple = wka"
  },
  {
   "category": "L5",
   "Hangul": "잡",
   "RR": "jap",
   "Dubeolsik key": "wkq",
-  "memo": "whale kite queen = W+K+Q"
+  "memo": "whale kite queen = wkq"
  },
  {
   "category": "L5",
   "Hangul": "장",
   "RR": "jang",
   "Dubeolsik key": "wkd",
-  "memo": "whale kite dog = W+K+D"
+  "memo": "whale kite dog = wkd"
  },
  {
   "category": "L5",
   "Hangul": "적",
   "RR": "jeok",
   "Dubeolsik key": "wjr",
-  "memo": "whale jam rabbit = W+J+R"
+  "memo": "whale jam rabbit = wjr"
  },
  {
   "category": "L5",
   "Hangul": "전",
   "RR": "jeon",
   "Dubeolsik key": "wjs",
-  "memo": "whale jam snake = W+J+S"
+  "memo": "whale jam snake = wjs"
  },
  {
   "category": "L5",
   "Hangul": "절",
   "RR": "jeol",
   "Dubeolsik key": "wjf",
-  "memo": "whale jam fish = W+J+F"
+  "memo": "whale jam fish = wjf"
  },
  {
   "category": "L5",
   "Hangul": "점",
   "RR": "jeom",
   "Dubeolsik key": "wja",
-  "memo": "whale jam apple = W+J+A"
+  "memo": "whale jam apple = wja"
  },
  {
   "category": "L5",
   "Hangul": "접",
   "RR": "jeop",
   "Dubeolsik key": "wjq",
-  "memo": "whale jam queen = W+J+Q"
+  "memo": "whale jam queen = wjq"
  },
  {
   "category": "L5",
   "Hangul": "정",
   "RR": "jeong",
   "Dubeolsik key": "wjd",
-  "memo": "whale jam dog = W+J+D"
+  "memo": "whale jam dog = wjd"
  },
  {
   "category": "L5",
   "Hangul": "족",
   "RR": "jok",
   "Dubeolsik key": "whr",
-  "memo": "whale hat rabbit = W+H+R"
+  "memo": "whale hat rabbit = whr"
  },
  {
   "category": "L5",
   "Hangul": "존",
   "RR": "jon",
   "Dubeolsik key": "whs",
-  "memo": "whale hat snake = W+H+S"
+  "memo": "whale hat snake = whs"
  },
  {
   "category": "L5",
   "Hangul": "졸",
   "RR": "jol",
   "Dubeolsik key": "whf",
-  "memo": "whale hat fish = W+H+F"
+  "memo": "whale hat fish = whf"
  },
  {
   "category": "L5",
   "Hangul": "종",
   "RR": "jong",
   "Dubeolsik key": "whd",
-  "memo": "whale hat dog = W+H+D"
+  "memo": "whale hat dog = whd"
  },
  {
   "category": "L5",
   "Hangul": "죽",
   "RR": "juk",
   "Dubeolsik key": "wnr",
-  "memo": "whale nose rabbit = W+N+R"
+  "memo": "whale nose rabbit = wnr"
  },
  {
   "category": "L5",
   "Hangul": "준",
   "RR": "jun",
   "Dubeolsik key": "wns",
-  "memo": "whale nose snake = W+N+S"
+  "memo": "whale nose snake = wns"
  },
  {
   "category": "L5",
   "Hangul": "줄",
   "RR": "jul",
   "Dubeolsik key": "wnf",
-  "memo": "whale nose fish = W+N+F"
+  "memo": "whale nose fish = wnf"
  },
  {
   "category": "L5",
   "Hangul": "줍",
   "RR": "jup",
   "Dubeolsik key": "wnq",
-  "memo": "whale nose queen = W+N+Q"
+  "memo": "whale nose queen = wnq"
  },
  {
   "category": "L5",
   "Hangul": "중",
   "RR": "jung",
   "Dubeolsik key": "wnd",
-  "memo": "whale nose dog = W+N+D"
+  "memo": "whale nose dog = wnd"
  },
  {
   "category": "L5",
   "Hangul": "즉",
   "RR": "jeuk",
   "Dubeolsik key": "wmr",
-  "memo": "whale moon rabbit = W+M+R"
+  "memo": "whale moon rabbit = wmr"
  },
  {
   "category": "L5",
   "Hangul": "즐",
   "RR": "jeul",
   "Dubeolsik key": "wmf",
-  "memo": "whale moon fish = W+M+F"
+  "memo": "whale moon fish = wmf"
  },
  {
   "category": "L5",
   "Hangul": "즘",
   "RR": "jeum",
   "Dubeolsik key": "wma",
-  "memo": "whale moon apple = W+M+A"
+  "memo": "whale moon apple = wma"
  },
  {
   "category": "L5",
   "Hangul": "즙",
   "RR": "jeup",
   "Dubeolsik key": "wmq",
-  "memo": "whale moon queen = W+M+Q"
+  "memo": "whale moon queen = wmq"
  },
  {
   "category": "L5",
   "Hangul": "증",
   "RR": "jeung",
   "Dubeolsik key": "wmd",
-  "memo": "whale moon dog = W+M+D"
+  "memo": "whale moon dog = wmd"
  },
  {
   "category": "L5",
   "Hangul": "직",
   "RR": "jik",
   "Dubeolsik key": "wlr",
-  "memo": "whale lion rabbit = W+L+R"
+  "memo": "whale lion rabbit = wlr"
  },
  {
   "category": "L5",
   "Hangul": "진",
   "RR": "jin",
   "Dubeolsik key": "wls",
-  "memo": "whale lion snake = W+L+S"
+  "memo": "whale lion snake = wls"
  },
  {
   "category": "L5",
   "Hangul": "질",
   "RR": "jil",
   "Dubeolsik key": "wlf",
-  "memo": "whale lion fish = W+L+F"
+  "memo": "whale lion fish = wlf"
  },
  {
   "category": "L5",
   "Hangul": "짐",
   "RR": "jim",
   "Dubeolsik key": "wla",
-  "memo": "whale lion apple = W+L+A"
+  "memo": "whale lion apple = wla"
  },
  {
   "category": "L5",
   "Hangul": "집",
   "RR": "jip",
   "Dubeolsik key": "wlq",
-  "memo": "whale lion queen = W+L+Q"
+  "memo": "whale lion queen = wlq"
  },
  {
   "category": "L5",
   "Hangul": "짓",
   "RR": "jit",
   "Dubeolsik key": "wlt",
-  "memo": "whale lion tiger = W+L+T"
+  "memo": "whale lion tiger = wlt"
  },
  {
   "category": "L5",
   "Hangul": "착",
   "RR": "chak",
   "Dubeolsik key": "ckr",
-  "memo": "cat kite rabbit = C+K+R"
+  "memo": "cat kite rabbit = ckr"
  },
  {
   "category": "L5",
   "Hangul": "찬",
   "RR": "chan",
   "Dubeolsik key": "cks",
-  "memo": "cat kite snake = C+K+S"
+  "memo": "cat kite snake = cks"
  },
  {
   "category": "L5",
   "Hangul": "찰",
   "RR": "chal",
   "Dubeolsik key": "ckf",
-  "memo": "cat kite fish = C+K+F"
+  "memo": "cat kite fish = ckf"
  },
  {
   "category": "L5",
   "Hangul": "참",
   "RR": "cham",
   "Dubeolsik key": "cka",
-  "memo": "cat kite apple = C+K+A"
+  "memo": "cat kite apple = cka"
  },
  {
   "category": "L5",
   "Hangul": "창",
   "RR": "chang",
   "Dubeolsik key": "ckd",
-  "memo": "cat kite dog = C+K+D"
+  "memo": "cat kite dog = ckd"
  },
  {
   "category": "L5",
   "Hangul": "책",
   "RR": "chaek",
   "Dubeolsik key": "cor",
-  "memo": "cat orange rabbit = C+O+R"
+  "memo": "cat orange rabbit = cor"
  },
  {
   "category": "L5",
   "Hangul": "척",
   "RR": "cheok",
   "Dubeolsik key": "cjr",
-  "memo": "cat jam rabbit = C+J+R"
+  "memo": "cat jam rabbit = cjr"
  },
  {
   "category": "L5",
   "Hangul": "천",
   "RR": "cheon",
   "Dubeolsik key": "cjs",
-  "memo": "cat jam snake = C+J+S"
+  "memo": "cat jam snake = cjs"
  },
  {
   "category": "L5",
   "Hangul": "철",
   "RR": "cheol",
   "Dubeolsik key": "cjf",
-  "memo": "cat jam fish = C+J+F"
+  "memo": "cat jam fish = cjf"
  },
  {
   "category": "L5",
   "Hangul": "첨",
   "RR": "cheom",
   "Dubeolsik key": "cja",
-  "memo": "cat jam apple = C+J+A"
+  "memo": "cat jam apple = cja"
  },
  {
   "category": "L5",
   "Hangul": "첩",
   "RR": "cheop",
   "Dubeolsik key": "cjq",
-  "memo": "cat jam queen = C+J+Q"
+  "memo": "cat jam queen = cjq"
  },
  {
   "category": "L5",
   "Hangul": "청",
   "RR": "cheong",
   "Dubeolsik key": "cjd",
-  "memo": "cat jam dog = C+J+D"
+  "memo": "cat jam dog = cjd"
  },
  {
   "category": "L5",
   "Hangul": "촉",
   "RR": "chok",
   "Dubeolsik key": "chr",
-  "memo": "cat hat rabbit = C+H+R"
+  "memo": "cat hat rabbit = chr"
  },
  {
   "category": "L5",
   "Hangul": "총",
   "RR": "chong",
   "Dubeolsik key": "chd",
-  "memo": "cat hat dog = C+H+D"
+  "memo": "cat hat dog = chd"
  },
  {
   "category": "L5",
   "Hangul": "축",
   "RR": "chuk",
   "Dubeolsik key": "cnr",
-  "memo": "cat nose rabbit = C+N+R"
+  "memo": "cat nose rabbit = cnr"
  },
  {
   "category": "L5",
   "Hangul": "춘",
   "RR": "chun",
   "Dubeolsik key": "cns",
-  "memo": "cat nose snake = C+N+S"
+  "memo": "cat nose snake = cns"
  },
  {
   "category": "L5",
   "Hangul": "출",
   "RR": "chul",
   "Dubeolsik key": "cnf",
-  "memo": "cat nose fish = C+N+F"
+  "memo": "cat nose fish = cnf"
  },
  {
   "category": "L5",
   "Hangul": "충",
   "RR": "chung",
   "Dubeolsik key": "cnd",
-  "memo": "cat nose dog = C+N+D"
+  "memo": "cat nose dog = cnd"
  },
  {
   "category": "L5",
   "Hangul": "층",
   "RR": "cheung",
   "Dubeolsik key": "cmd",
-  "memo": "cat moon dog = C+M+D"
+  "memo": "cat moon dog = cmd"
  },
  {
   "category": "L5",
   "Hangul": "칙",
   "RR": "chik",
   "Dubeolsik key": "clr",
-  "memo": "cat lion rabbit = C+L+R"
+  "memo": "cat lion rabbit = clr"
  },
  {
   "category": "L5",
   "Hangul": "친",
   "RR": "chin",
   "Dubeolsik key": "cls",
-  "memo": "cat lion snake = C+L+S"
+  "memo": "cat lion snake = cls"
  },
  {
   "category": "L5",
   "Hangul": "칠",
   "RR": "chil",
   "Dubeolsik key": "clf",
-  "memo": "cat lion fish = C+L+F"
+  "memo": "cat lion fish = clf"
  },
  {
   "category": "L5",
   "Hangul": "침",
   "RR": "chim",
   "Dubeolsik key": "cla",
-  "memo": "cat lion apple = C+L+A"
+  "memo": "cat lion apple = cla"
  },
  {
   "category": "L5",
   "Hangul": "칩",
   "RR": "chip",
   "Dubeolsik key": "clq",
-  "memo": "cat lion queen = C+L+Q"
+  "memo": "cat lion queen = clq"
  },
  {
   "category": "L5",
   "Hangul": "칭",
   "RR": "ching",
   "Dubeolsik key": "cld",
-  "memo": "cat lion dog = C+L+D"
+  "memo": "cat lion dog = cld"
  },
  {
   "category": "L5",
   "Hangul": "칸",
   "RR": "kan",
   "Dubeolsik key": "zks",
-  "memo": "zebra kite snake = Z+K+S"
+  "memo": "zebra kite snake = zks"
  },
  {
   "category": "L5",
   "Hangul": "칼",
   "RR": "kal",
   "Dubeolsik key": "zkf",
-  "memo": "zebra kite fish = Z+K+F"
+  "memo": "zebra kite fish = zkf"
  },
  {
   "category": "L5",
   "Hangul": "캄",
   "RR": "kam",
   "Dubeolsik key": "zka",
-  "memo": "zebra kite apple = Z+K+A"
+  "memo": "zebra kite apple = zka"
  },
  {
   "category": "L5",
   "Hangul": "캉",
   "RR": "kang",
   "Dubeolsik key": "zkd",
-  "memo": "zebra kite dog = Z+K+D"
+  "memo": "zebra kite dog = zkd"
  },
  {
   "category": "L5",
   "Hangul": "컵",
   "RR": "keop",
   "Dubeolsik key": "zjq",
-  "memo": "zebra jam queen = Z+J+Q"
+  "memo": "zebra jam queen = zjq"
  },
  {
   "category": "L5",
   "Hangul": "콕",
   "RR": "kok",
   "Dubeolsik key": "zhr",
-  "memo": "zebra hat rabbit = Z+H+R"
+  "memo": "zebra hat rabbit = zhr"
  },
  {
   "category": "L5",
   "Hangul": "콘",
   "RR": "kon",
   "Dubeolsik key": "zhs",
-  "memo": "zebra hat snake = Z+H+S"
+  "memo": "zebra hat snake = zhs"
  },
  {
   "category": "L5",
   "Hangul": "콜",
   "RR": "kol",
   "Dubeolsik key": "zhf",
-  "memo": "zebra hat fish = Z+H+F"
+  "memo": "zebra hat fish = zhf"
  },
  {
   "category": "L5",
   "Hangul": "콩",
   "RR": "kong",
   "Dubeolsik key": "zhd",
-  "memo": "zebra hat dog = Z+H+D"
+  "memo": "zebra hat dog = zhd"
  },
  {
   "category": "L5",
   "Hangul": "큼",
   "RR": "keum",
   "Dubeolsik key": "zma",
-  "memo": "zebra moon apple = Z+M+A"
+  "memo": "zebra moon apple = zma"
  },
  {
   "category": "L5",
   "Hangul": "탁",
   "RR": "tak",
   "Dubeolsik key": "xkr",
-  "memo": "x-ray kite rabbit = X+K+R"
+  "memo": "x-ray kite rabbit = xkr"
  },
  {
   "category": "L5",
   "Hangul": "탄",
   "RR": "tan",
   "Dubeolsik key": "xks",
-  "memo": "x-ray kite snake = X+K+S"
+  "memo": "x-ray kite snake = xks"
  },
  {
   "category": "L5",
   "Hangul": "탈",
   "RR": "tal",
   "Dubeolsik key": "xkf",
-  "memo": "x-ray kite fish = X+K+F"
+  "memo": "x-ray kite fish = xkf"
  },
  {
   "category": "L5",
   "Hangul": "탐",
   "RR": "tam",
   "Dubeolsik key": "xka",
-  "memo": "x-ray kite apple = X+K+A"
+  "memo": "x-ray kite apple = xka"
  },
  {
   "category": "L5",
   "Hangul": "탑",
   "RR": "tap",
   "Dubeolsik key": "xkq",
-  "memo": "x-ray kite queen = X+K+Q"
+  "memo": "x-ray kite queen = xkq"
  },
  {
   "category": "L5",
   "Hangul": "탕",
   "RR": "tang",
   "Dubeolsik key": "xkd",
-  "memo": "x-ray kite dog = X+K+D"
+  "memo": "x-ray kite dog = xkd"
  },
  {
   "category": "L5",
   "Hangul": "택",
   "RR": "taek",
   "Dubeolsik key": "xor",
-  "memo": "x-ray orange rabbit = X+O+R"
+  "memo": "x-ray orange rabbit = xor"
  },
  {
   "category": "L5",
   "Hangul": "턱",
   "RR": "teok",
   "Dubeolsik key": "xjr",
-  "memo": "x-ray jam rabbit = X+J+R"
+  "memo": "x-ray jam rabbit = xjr"
  },
  {
   "category": "L5",
   "Hangul": "털",
   "RR": "teol",
   "Dubeolsik key": "xjf",
-  "memo": "x-ray jam fish = X+J+F"
+  "memo": "x-ray jam fish = xjf"
  },
  {
   "category": "L5",
   "Hangul": "톤",
   "RR": "ton",
   "Dubeolsik key": "xhs",
-  "memo": "x-ray hat snake = X+H+S"
+  "memo": "x-ray hat snake = xhs"
  },
  {
   "category": "L5",
   "Hangul": "통",
   "RR": "tong",
   "Dubeolsik key": "xhd",
-  "memo": "x-ray hat dog = X+H+D"
+  "memo": "x-ray hat dog = xhd"
  },
  {
   "category": "L5",
   "Hangul": "툭",
   "RR": "tuk",
   "Dubeolsik key": "xnr",
-  "memo": "x-ray nose rabbit = X+N+R"
+  "memo": "x-ray nose rabbit = xnr"
  },
  {
   "category": "L5",
   "Hangul": "퉁",
   "RR": "tung",
   "Dubeolsik key": "xnd",
-  "memo": "x-ray nose dog = X+N+D"
+  "memo": "x-ray nose dog = xnd"
  },
  {
   "category": "L5",
   "Hangul": "특",
   "RR": "teuk",
   "Dubeolsik key": "xmr",
-  "memo": "x-ray moon rabbit = X+M+R"
+  "memo": "x-ray moon rabbit = xmr"
  },
  {
   "category": "L5",
   "Hangul": "튼",
   "RR": "teun",
   "Dubeolsik key": "xms",
-  "memo": "x-ray moon snake = X+M+S"
+  "memo": "x-ray moon snake = xms"
  },
  {
   "category": "L5",
   "Hangul": "틀",
   "RR": "teul",
   "Dubeolsik key": "xmf",
-  "memo": "x-ray moon fish = X+M+F"
+  "memo": "x-ray moon fish = xmf"
  },
  {
   "category": "L5",
   "Hangul": "틈",
   "RR": "teum",
   "Dubeolsik key": "xma",
-  "memo": "x-ray moon apple = X+M+A"
+  "memo": "x-ray moon apple = xma"
  },
  {
   "category": "L5",
   "Hangul": "팀",
   "RR": "tim",
   "Dubeolsik key": "xla",
-  "memo": "x-ray lion apple = X+L+A"
+  "memo": "x-ray lion apple = xla"
  },
  {
   "category": "L5",
   "Hangul": "판",
   "RR": "pan",
   "Dubeolsik key": "vks",
-  "memo": "violin kite snake = V+K+S"
+  "memo": "violin kite snake = vks"
  },
  {
   "category": "L5",
   "Hangul": "팔",
   "RR": "pal",
   "Dubeolsik key": "vkf",
-  "memo": "violin kite fish = V+K+F"
+  "memo": "violin kite fish = vkf"
  },
  {
   "category": "L5",
   "Hangul": "팜",
   "RR": "pam",
   "Dubeolsik key": "vka",
-  "memo": "violin kite apple = V+K+A"
+  "memo": "violin kite apple = vka"
  },
  {
   "category": "L5",
   "Hangul": "팝",
   "RR": "pap",
   "Dubeolsik key": "vkq",
-  "memo": "violin kite queen = V+K+Q"
+  "memo": "violin kite queen = vkq"
  },
  {
   "category": "L5",
   "Hangul": "팡",
   "RR": "pang",
   "Dubeolsik key": "vkd",
-  "memo": "violin kite dog = V+K+D"
+  "memo": "violin kite dog = vkd"
  },
  {
   "category": "L5",
   "Hangul": "팩",
   "RR": "paek",
   "Dubeolsik key": "vor",
-  "memo": "violin orange rabbit = V+O+R"
+  "memo": "violin orange rabbit = vor"
  },
  {
   "category": "L5",
   "Hangul": "팬",
   "RR": "paen",
   "Dubeolsik key": "vos",
-  "memo": "violin orange snake = V+O+S"
+  "memo": "violin orange snake = vos"
  },
  {
   "category": "L5",
   "Hangul": "펄",
   "RR": "peol",
   "Dubeolsik key": "vjf",
-  "memo": "violin jam fish = V+J+F"
+  "memo": "violin jam fish = vjf"
  },
  {
   "category": "L5",
   "Hangul": "펜",
   "RR": "pen",
   "Dubeolsik key": "vps",
-  "memo": "violin pen snake = V+P+S"
+  "memo": "violin pen snake = vps"
  },
  {
   "category": "L5",
   "Hangul": "폄",
   "RR": "pyeom",
   "Dubeolsik key": "vua",
-  "memo": "violin umbrella apple = V+U+A"
+  "memo": "violin umbrella apple = vua"
  },
  {
   "category": "L5",
   "Hangul": "평",
   "RR": "pyeong",
   "Dubeolsik key": "vud",
-  "memo": "violin umbrella dog = V+U+D"
+  "memo": "violin umbrella dog = vud"
  },
  {
   "category": "L5",
   "Hangul": "폭",
   "RR": "pok",
   "Dubeolsik key": "vhr",
-  "memo": "violin hat rabbit = V+H+R"
+  "memo": "violin hat rabbit = vhr"
  },
  {
   "category": "L5",
   "Hangul": "폰",
   "RR": "pon",
   "Dubeolsik key": "vhs",
-  "memo": "violin hat snake = V+H+S"
+  "memo": "violin hat snake = vhs"
  },
  {
   "category": "L5",
   "Hangul": "폴",
   "RR": "pol",
   "Dubeolsik key": "vhf",
-  "memo": "violin hat fish = V+H+F"
+  "memo": "violin hat fish = vhf"
  },
  {
   "category": "L5",
   "Hangul": "퐁",
   "RR": "pong",
   "Dubeolsik key": "vhd",
-  "memo": "violin hat dog = V+H+D"
+  "memo": "violin hat dog = vhd"
  },
  {
   "category": "L5",
   "Hangul": "풍",
   "RR": "pung",
   "Dubeolsik key": "vnd",
-  "memo": "violin nose dog = V+N+D"
+  "memo": "violin nose dog = vnd"
  },
  {
   "category": "L5",
   "Hangul": "픽",
   "RR": "pik",
   "Dubeolsik key": "vlr",
-  "memo": "violin lion rabbit = V+L+R"
+  "memo": "violin lion rabbit = vlr"
  },
  {
   "category": "L5",
   "Hangul": "필",
   "RR": "pil",
   "Dubeolsik key": "vlf",
-  "memo": "violin lion fish = V+L+F"
+  "memo": "violin lion fish = vlf"
  },
  {
   "category": "L5",
   "Hangul": "핌",
   "RR": "pim",
   "Dubeolsik key": "vla",
-  "memo": "violin lion apple = V+L+A"
+  "memo": "violin lion apple = vla"
  },
  {
   "category": "L5",
   "Hangul": "핍",
   "RR": "pip",
   "Dubeolsik key": "vlq",
-  "memo": "violin lion queen = V+L+Q"
+  "memo": "violin lion queen = vlq"
  },
  {
   "category": "L5",
   "Hangul": "학",
   "RR": "hak",
   "Dubeolsik key": "gkr",
-  "memo": "gun kite rabbit = G+K+R"
+  "memo": "gun kite rabbit = gkr"
  },
  {
   "category": "L5",
   "Hangul": "한",
   "RR": "han",
   "Dubeolsik key": "gks",
-  "memo": "gun kite snake = G+K+S"
+  "memo": "gun kite snake = gks"
  },
  {
   "category": "L5",
   "Hangul": "할",
   "RR": "hal",
   "Dubeolsik key": "gkf",
-  "memo": "gun kite fish = G+K+F"
+  "memo": "gun kite fish = gkf"
  },
  {
   "category": "L5",
   "Hangul": "함",
   "RR": "ham",
   "Dubeolsik key": "gka",
-  "memo": "gun kite apple = G+K+A"
+  "memo": "gun kite apple = gka"
  },
  {
   "category": "L5",
   "Hangul": "합",
   "RR": "hap",
   "Dubeolsik key": "gkq",
-  "memo": "gun kite queen = G+K+Q"
+  "memo": "gun kite queen = gkq"
  },
  {
   "category": "L5",
   "Hangul": "항",
   "RR": "hang",
   "Dubeolsik key": "gkd",
-  "memo": "gun kite dog = G+K+D"
+  "memo": "gun kite dog = gkd"
  },
  {
   "category": "L5",
   "Hangul": "핵",
   "RR": "haek",
   "Dubeolsik key": "gor",
-  "memo": "gun orange rabbit = G+O+R"
+  "memo": "gun orange rabbit = gor"
  },
  {
   "category": "L5",
   "Hangul": "행",
   "RR": "haeng",
   "Dubeolsik key": "god",
-  "memo": "gun orange dog = G+O+D"
+  "memo": "gun orange dog = god"
  },
  {
   "category": "L5",
   "Hangul": "향",
   "RR": "hyang",
   "Dubeolsik key": "gid",
-  "memo": "gun ink dog = G+I+D"
+  "memo": "gun ink dog = gid"
  },
  {
   "category": "L5",
   "Hangul": "헌",
   "RR": "heon",
   "Dubeolsik key": "gjs",
-  "memo": "gun jam snake = G+J+S"
+  "memo": "gun jam snake = gjs"
  },
  {
   "category": "L5",
   "Hangul": "헐",
   "RR": "heol",
   "Dubeolsik key": "gjf",
-  "memo": "gun jam fish = G+J+F"
+  "memo": "gun jam fish = gjf"
  },
  {
   "category": "L5",
   "Hangul": "험",
   "RR": "heom",
   "Dubeolsik key": "gja",
-  "memo": "gun jam apple = G+J+A"
+  "memo": "gun jam apple = gja"
  },
  {
   "category": "L5",
   "Hangul": "혁",
   "RR": "hyeok",
   "Dubeolsik key": "gur",
-  "memo": "gun umbrella rabbit = G+U+R"
+  "memo": "gun umbrella rabbit = gur"
  },
  {
   "category": "L5",
   "Hangul": "현",
   "RR": "hyeon",
   "Dubeolsik key": "gus",
-  "memo": "gun umbrella snake = G+U+S"
+  "memo": "gun umbrella snake = gus"
  },
  {
   "category": "L5",
   "Hangul": "혈",
   "RR": "hyeol",
   "Dubeolsik key": "guf",
-  "memo": "gun umbrella fish = G+U+F"
+  "memo": "gun umbrella fish = guf"
  },
  {
   "category": "L5",
   "Hangul": "혐",
   "RR": "hyeom",
   "Dubeolsik key": "gua",
-  "memo": "gun umbrella apple = G+U+A"
+  "memo": "gun umbrella apple = gua"
  },
  {
   "category": "L5",
   "Hangul": "협",
   "RR": "hyeop",
   "Dubeolsik key": "guq",
-  "memo": "gun umbrella queen = G+U+Q"
+  "memo": "gun umbrella queen = guq"
  },
  {
   "category": "L5",
   "Hangul": "형",
   "RR": "hyeong",
   "Dubeolsik key": "gud",
-  "memo": "gun umbrella dog = G+U+D"
+  "memo": "gun umbrella dog = gud"
  },
  {
   "category": "L5",
   "Hangul": "혹",
   "RR": "hok",
   "Dubeolsik key": "ghr",
-  "memo": "gun hat rabbit = G+H+R"
+  "memo": "gun hat rabbit = ghr"
  },
  {
   "category": "L5",
   "Hangul": "혼",
   "RR": "hon",
   "Dubeolsik key": "ghs",
-  "memo": "gun hat snake = G+H+S"
+  "memo": "gun hat snake = ghs"
  },
  {
   "category": "L5",
   "Hangul": "홀",
   "RR": "hol",
   "Dubeolsik key": "ghf",
-  "memo": "gun hat fish = G+H+F"
+  "memo": "gun hat fish = ghf"
  },
  {
   "category": "L5",
   "Hangul": "홉",
   "RR": "hop",
   "Dubeolsik key": "ghq",
-  "memo": "gun hat queen = G+H+Q"
+  "memo": "gun hat queen = ghq"
  },
  {
   "category": "L5",
   "Hangul": "홍",
   "RR": "hong",
   "Dubeolsik key": "ghd",
-  "memo": "gun hat dog = G+H+D"
+  "memo": "gun hat dog = ghd"
  },
  {
   "category": "L5",
   "Hangul": "확",
   "RR": "hwak",
   "Dubeolsik key": "ghkr",
-  "memo": "gun hat kite rabbit = G+H+K+R"
+  "memo": "gun hat kite rabbit = ghkr"
  },
  {
   "category": "L5",
   "Hangul": "환",
   "RR": "hwan",
   "Dubeolsik key": "ghks",
-  "memo": "gun hat kite snake = G+H+K+S"
+  "memo": "gun hat kite snake = ghks"
  },
  {
   "category": "L5",
   "Hangul": "활",
   "RR": "hwal",
   "Dubeolsik key": "ghkf",
-  "memo": "gun hat kite fish = G+H+K+F"
+  "memo": "gun hat kite fish = ghkf"
  },
  {
   "category": "L5",
   "Hangul": "황",
   "RR": "hwang",
   "Dubeolsik key": "ghkd",
-  "memo": "gun hat kite dog = G+H+K+D"
+  "memo": "gun hat kite dog = ghkd"
  },
  {
   "category": "L5",
   "Hangul": "획",
   "RR": "hoek",
   "Dubeolsik key": "ghlr",
-  "memo": "gun hat lion rabbit = G+H+L+R"
+  "memo": "gun hat lion rabbit = ghlr"
  },
  {
   "category": "L5",
   "Hangul": "훈",
   "RR": "hun",
   "Dubeolsik key": "gns",
-  "memo": "gun nose snake = G+N+S"
+  "memo": "gun nose snake = gns"
  },
  {
   "category": "L5",
   "Hangul": "훌",
   "RR": "hul",
   "Dubeolsik key": "gnf",
-  "memo": "gun nose fish = G+N+F"
+  "memo": "gun nose fish = gnf"
  },
  {
   "category": "L5",
   "Hangul": "훔",
   "RR": "hum",
   "Dubeolsik key": "gna",
-  "memo": "gun nose apple = G+N+A"
+  "memo": "gun nose apple = gna"
  },
  {
   "category": "L5",
   "Hangul": "흑",
   "RR": "heuk",
   "Dubeolsik key": "gmr",
-  "memo": "gun moon rabbit = G+M+R"
+  "memo": "gun moon rabbit = gmr"
  },
  {
   "category": "L5",
   "Hangul": "흔",
   "RR": "heun",
   "Dubeolsik key": "gms",
-  "memo": "gun moon snake = G+M+S"
+  "memo": "gun moon snake = gms"
  },
  {
   "category": "L5",
   "Hangul": "흘",
   "RR": "heul",
   "Dubeolsik key": "gmf",
-  "memo": "gun moon fish = G+M+F"
+  "memo": "gun moon fish = gmf"
  },
  {
   "category": "L5",
   "Hangul": "흠",
   "RR": "heum",
   "Dubeolsik key": "gma",
-  "memo": "gun moon apple = G+M+A"
+  "memo": "gun moon apple = gma"
  },
  {
   "category": "L5",
   "Hangul": "흡",
   "RR": "heup",
   "Dubeolsik key": "gmq",
-  "memo": "gun moon queen = G+M+Q"
+  "memo": "gun moon queen = gmq"
  },
  {
   "category": "L5",
   "Hangul": "흥",
   "RR": "heung",
   "Dubeolsik key": "gmd",
-  "memo": "gun moon dog = G+M+D"
+  "memo": "gun moon dog = gmd"
  },
  {
   "category": "L5",
   "Hangul": "힘",
   "RR": "him",
   "Dubeolsik key": "gla",
-  "memo": "gun lion apple = G+L+A"
+  "memo": "gun lion apple = gla"
  },
  {
   "category": "L5",
   "Hangul": "힙",
   "RR": "hip",
   "Dubeolsik key": "glq",
-  "memo": "gun lion queen = G+L+Q"
+  "memo": "gun lion queen = glq"
  },
  {
   "category": "L6",
   "Hangul": "몫",
   "RR": "mok",
   "Dubeolsik key": "ahrt",
-  "memo": "apple hat rabbit tiger = A+H+R+T"
+  "memo": "apple hat rabbit tiger = ahrt"
  },
  {
   "category": "L6",
   "Hangul": "넋",
   "RR": "neok",
   "Dubeolsik key": "sjrt",
-  "memo": "snake jam rabbit tiger = S+J+R+T"
+  "memo": "snake jam rabbit tiger = sjrt"
  },
  {
   "category": "L6",
   "Hangul": "삯",
   "RR": "sak",
   "Dubeolsik key": "tkrt",
-  "memo": "tiger kite rabbit tiger = T+K+R+T"
+  "memo": "tiger kite rabbit tiger = tkrt"
  },
  {
   "category": "L6",
   "Hangul": "앉",
   "RR": "anj",
   "Dubeolsik key": "dksw",
-  "memo": "dog kite snake whale = D+K+S+W"
+  "memo": "dog kite snake whale = dksw"
  },
  {
   "category": "L6",
   "Hangul": "얹",
   "RR": "eonj",
   "Dubeolsik key": "djsw",
-  "memo": "dog jam snake whale = D+J+S+W"
+  "memo": "dog jam snake whale = djsw"
  },
  {
   "category": "L6",
   "Hangul": "많",
   "RR": "manh",
   "Dubeolsik key": "aksg",
-  "memo": "apple kite snake gun = A+K+S+G"
+  "memo": "apple kite snake gun = aksg"
  },
  {
   "category": "L6",
   "Hangul": "않",
   "RR": "anh",
   "Dubeolsik key": "dksg",
-  "memo": "dog kite snake gun = D+K+S+G"
+  "memo": "dog kite snake gun = dksg"
  },
  {
   "category": "L6",
   "Hangul": "끊",
   "RR": "kkeunh",
   "Dubeolsik key": "Rmsg",
-  "memo": "RABBIT moon snake gun = R+M+S+G"
+  "memo": "RABBIT moon snake gun = Rmsg"
  },
  {
   "category": "L6",
   "Hangul": "닭",
   "RR": "dak",
   "Dubeolsik key": "ekfr",
-  "memo": "egg kite fish rabbit = E+K+F+R"
+  "memo": "egg kite fish rabbit = ekfr"
  },
  {
   "category": "L6",
   "Hangul": "흙",
   "RR": "heuk",
   "Dubeolsik key": "gmfr",
-  "memo": "gun moon fish rabbit = G+M+F+R"
+  "memo": "gun moon fish rabbit = gmfr"
  },
  {
   "category": "L6",
   "Hangul": "맑",
   "RR": "malg",
   "Dubeolsik key": "akfr",
-  "memo": "apple kite fish rabbit = A+K+F+R"
+  "memo": "apple kite fish rabbit = akfr"
  },
  {
   "category": "L6",
   "Hangul": "읽",
   "RR": "ilg",
   "Dubeolsik key": "dlfr",
-  "memo": "dog lion fish rabbit = D+L+F+R"
+  "memo": "dog lion fish rabbit = dlfr"
  },
  {
   "category": "L6",
   "Hangul": "삶",
   "RR": "sam",
   "Dubeolsik key": "tkfa",
-  "memo": "tiger kite fish apple = T+K+F+A"
+  "memo": "tiger kite fish apple = tkfa"
  },
  {
   "category": "L6",
   "Hangul": "젊",
   "RR": "jeolm",
   "Dubeolsik key": "wjfa",
-  "memo": "whale jam fish apple = W+J+F+A"
+  "memo": "whale jam fish apple = wjfa"
  },
  {
   "category": "L6",
   "Hangul": "굶",
   "RR": "gulm",
   "Dubeolsik key": "rnfa",
-  "memo": "rabbit nose fish apple = R+N+F+A"
+  "memo": "rabbit nose fish apple = rnfa"
  },
  {
   "category": "L6",
   "Hangul": "닮",
   "RR": "dalm",
   "Dubeolsik key": "ekfa",
-  "memo": "egg kite fish apple = E+K+F+A"
+  "memo": "egg kite fish apple = ekfa"
  },
  {
   "category": "L6",
   "Hangul": "앎",
   "RR": "alm",
   "Dubeolsik key": "dkfa",
-  "memo": "dog kite fish apple = D+K+F+A"
+  "memo": "dog kite fish apple = dkfa"
  },
  {
   "category": "L6",
   "Hangul": "짧",
   "RR": "jjalb",
   "Dubeolsik key": "Wkfq",
-  "memo": "WHALE kite fish queen = W+K+F+Q"
+  "memo": "WHALE kite fish queen = Wkfq"
  },
  {
   "category": "L6",
   "Hangul": "밟",
   "RR": "balb",
   "Dubeolsik key": "qkfq",
-  "memo": "queen kite fish queen = Q+K+F+Q"
+  "memo": "queen kite fish queen = qkfq"
  },
  {
   "category": "L6",
   "Hangul": "넓",
   "RR": "neolb",
   "Dubeolsik key": "sjfq",
-  "memo": "snake jam fish queen = S+J+F+Q"
+  "memo": "snake jam fish queen = sjfq"
  },
  {
   "category": "L6",
   "Hangul": "얇",
   "RR": "yalb",
   "Dubeolsik key": "difq",
-  "memo": "dog ink fish queen = D+I+F+Q"
+  "memo": "dog ink fish queen = difq"
  },
  {
   "category": "L6",
   "Hangul": "떫",
   "RR": "tteolb",
   "Dubeolsik key": "Ejfq",
-  "memo": "EGG jam fish queen = E+J+F+Q"
+  "memo": "EGG jam fish queen = Ejfq"
  },
  {
   "category": "L6",
   "Hangul": "핥",
   "RR": "halt",
   "Dubeolsik key": "gkfx",
-  "memo": "gun kite fish x-ray = G+K+F+X"
+  "memo": "gun kite fish x-ray = gkfx"
  },
  {
   "category": "L6",
   "Hangul": "훑",
   "RR": "hult",
   "Dubeolsik key": "gnfx",
-  "memo": "gun nose fish x-ray = G+N+F+X"
+  "memo": "gun nose fish x-ray = gnfx"
  },
  {
   "category": "L6",
   "Hangul": "읊",
   "RR": "eulp",
   "Dubeolsik key": "dmfv",
-  "memo": "dog moon fish violin = D+M+F+V"
+  "memo": "dog moon fish violin = dmfv"
  },
  {
   "category": "L6",
   "Hangul": "옳",
   "RR": "olh",
   "Dubeolsik key": "dhfg",
-  "memo": "dog hat fish gun = D+H+F+G"
+  "memo": "dog hat fish gun = dhfg"
  },
  {
   "category": "L6",
   "Hangul": "싫",
   "RR": "silh",
   "Dubeolsik key": "tlfg",
-  "memo": "tiger lion fish gun = T+L+F+G"
+  "memo": "tiger lion fish gun = tlfg"
  },
  {
   "category": "L6",
   "Hangul": "잃",
   "RR": "ilh",
   "Dubeolsik key": "dlfg",
-  "memo": "dog lion fish gun = D+L+F+G"
+  "memo": "dog lion fish gun = dlfg"
  },
  {
   "category": "L6",
   "Hangul": "앓",
   "RR": "alh",
   "Dubeolsik key": "dkfg",
-  "memo": "dog kite fish gun = D+K+F+G"
+  "memo": "dog kite fish gun = dkfg"
  },
  {
   "category": "L6",
   "Hangul": "끓",
   "RR": "kkeulh",
   "Dubeolsik key": "Rmfg",
-  "memo": "RABBIT moon fish gun = R+M+F+G"
+  "memo": "RABBIT moon fish gun = Rmfg"
  },
  {
   "category": "L6",
   "Hangul": "뚫",
   "RR": "ttulh",
   "Dubeolsik key": "Enfg",
-  "memo": "EGG nose fish gun = E+N+F+G"
+  "memo": "EGG nose fish gun = Enfg"
  },
  {
   "category": "L6",
   "Hangul": "꿇",
   "RR": "kkulh",
   "Dubeolsik key": "Rnfg",
-  "memo": "RABBIT nose fish gun = R+N+F+G"
+  "memo": "RABBIT nose fish gun = Rnfg"
  },
  {
   "category": "L6",
   "Hangul": "없",
   "RR": "eop",
   "Dubeolsik key": "djqt",
-  "memo": "dog jam queen tiger = D+J+Q+T"
+  "memo": "dog jam queen tiger = djqt"
  },
  {
   "category": "L6",
   "Hangul": "값",
   "RR": "gap",
   "Dubeolsik key": "rkqt",
-  "memo": "rabbit kite queen tiger = R+K+Q+T"
+  "memo": "rabbit kite queen tiger = rkqt"
  }
 ]
