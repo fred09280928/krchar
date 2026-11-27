@@ -85,6 +85,22 @@
   #feedback{min-height:1.6em;text-align:center;font-size:var(--fs-fb);color:var(--muted)}
   #feedback.ok{color:var(--ok)} #feedback.err{color:var(--err)}
   #answerline{text-align:center;font-size:var(--fs-ui);color:var(--muted);min-height:1.2em}
+  /* short windows (laptop half-screen, phone landscape): shrink so nothing is cut off */
+  @media (max-height:640px){
+    :root{
+      --gap: clamp(6px, 1.6vh, 14px);
+      --fs-h1: clamp(1.15rem, 3.6vh, 1.5rem);
+      --fs-ui: clamp(.85rem, 2vh, 1rem);
+      --fs-stat: clamp(.9rem, 2.2vh, 1.05rem);
+      --fs-input: clamp(1.15rem, 3.2vh, 1.5rem);
+      --fs-fb: clamp(.95rem, 2.2vh, 1.1rem);
+      --fs-memo: clamp(.95rem, 2.4vh, 1.15rem);
+      --fs-char: clamp(3rem, 17vh, 6rem);
+    }
+    .card{min-height:96px;padding:10px 14px}
+    .memo{padding:6px 10px}
+    h1{margin:0}
+  }
   @media (max-width:520px){
     .row{gap:6px}
     select{padding:8px 6px;font-size:.95rem}
