@@ -227,6 +227,12 @@ work, the character after the space so you can tell at a glance which clip is wh
 percent-encoded in the page (`AC00 가.mp3` → `AC00%20%EA%B0%80.mp3`); renaming is done by
 `code/rename_audio_files.py`, which also rewrites the manifest.
 
+Practice videos are published at <https://fred09280928.github.io/kr-practice/> — a separate repo
+(`kr-practice`) with `videos/`, `posters/` and `manifest.json`, served by GitHub Pages because Pages
+answers range requests (`206`, `Accept-Ranges: bytes`) so players can seek; `raw.githubusercontent.com`
+sends `Content-Type: text/plain` + `nosniff` and cannot be used for playback. Add a new drill with
+`tools/add_video.py` in that repo, then push.
+
 Listening drill for confusable letters: `code/make_confusable_drill.py` splices the existing clips into
 `practice/ㅅㅈㅊ-drill.mp3` — letter names ㅅ·ㅈ·ㅊ three rounds, then ㅓ/ㅡ/ㅗ/ㅜ/ㅣ/ㅏ groups (서저처,
 스즈츠, 소조초, 수주추, 시지치, 사자차) each three times, 1 s between clips and 2 s between rounds.
