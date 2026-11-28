@@ -122,9 +122,9 @@ Every quiz-able row has one short clip: 793 syllables + 13 consonant names + 3 v
 
 | Row kind | Clip | Example |
 |---|---|---|
-| syllable | the syllable itself | 가 → `audio/syl/AC00.mp3` |
-| consonant letter | its letter name | ㄱ → `audio/jamo/3131.mp3`, spoken 「기역」 |
-| vowel letter | the syllable carrying it | ㅏ → `audio/jamo/314F.mp3`, spoken 「아」 |
+| syllable | the syllable itself | 가 → `audio/syl/AC00 가.mp3` |
+| consonant letter | its letter name | ㄱ → `audio/jamo/3131 ㄱ.mp3`, spoken 「기역」 |
+| vowel letter | the syllable carrying it | ㅏ → `audio/jamo/314F ㅏ.mp3`, spoken 「아」 |
 
 **The audio is committed** (`audio/`, 3.2 MB) so the published page can play it. It is
 synthesised by Microsoft Edge TTS (`ko-KR-HyunsuMultilingualNeural`), which is an unofficial client of
@@ -218,6 +218,11 @@ weight changes, key validation, the admin token and today's counters.
 Answer modes: the prompt is always the character; **Dubeolsik** grades the physical keys
 (`R` = Shift+r) captured on `keydown`, **RR** grades the romanisation from `r` column C.
 Levels are cumulative — L2 drills L1\* + L2 (37 cards), L3 → 211, L4 → 366. L0 never appears. Picking is weight roulette and never serves the same card twice in a row.
+
+File names are `<codepoint> <hangul>.mp3` — the codepoint first so sorting and matching by cp still
+work, the character after the space so you can tell at a glance which clip is which. URLs are
+percent-encoded in the page (`AC00 가.mp3` → `AC00%20%EA%B0%80.mp3`); renaming is done by
+`code/rename_audio_files.py`, which also rewrites the manifest.
 
 Answer feedback: a correct answer plays a short bell (`audio/ui/ding.mp3`, 0.5 s) the moment it is
 judged, then the 2 s advance and the next pronunciation; a wrong answer stays silent and replays

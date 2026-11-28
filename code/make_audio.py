@@ -2,8 +2,8 @@
 """Generate one audio clip per drill row (Korean pronunciation for each character).
 
 Engine : Microsoft Edge TTS, voice ko-KR-InJoonNeural (male)
-Output : audio/syl/<CODEPOINT>.mp3   for syllables   (가 ->  AC00.mp3)
-         audio/jamo/<CODEPOINT>.mp3  for single letters (ㄱ -> 3131.mp3, spoken "기역")
+Output : audio/syl/<CODEPOINT> <HANGUL>.mp3   for syllables   (가 ->  AC00 가.mp3)
+         audio/jamo/<CODEPOINT> <HANGUL>.mp3  for single letters (ㄱ -> 3131 ㄱ.mp3, spoken "기역")
 Manifest: data/audio-manifest.json    (char, codepoint, kind, spoken text, duration, sha256)
 
 The audio files are NOT committed to the repository: Edge TTS output is licensed for
@@ -60,8 +60,9 @@ def spoken_text(ch):
 
 
 def out_path(base, ch):
+    # "<cp> <hangul>.mp3" — codepoint first for sorting, character for the human
     sub = "syl" if 0xAC00 <= ord(ch) <= 0xD7A3 else "jamo"
-    return os.path.join(base, "audio", sub, "%04X.mp3" % ord(ch))
+    return os.path.join(base, "audio", sub, "%04X %s.mp3" % (ord(ch), ch))
 
 
 def probe(path):

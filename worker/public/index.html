@@ -229,7 +229,7 @@ const el = {
 };
 
 const folder = (c) => (c.category === 'L1c' || c.category === 'L1v') ? 'jamo' : 'syl';
-const audioPath = (c) => `audio/${folder(c)}/${c.cp}.mp3`;
+const audioPath = (c) => encodeURI(`audio/${folder(c)}/${c.cp} ${c.hangul}.mp3`);
 // Browsers block audio before the first gesture: retry once the user touches the page.
 ['pointerdown', 'keydown', 'touchstart'].forEach((ev) =>
   window.addEventListener(ev, () => {
