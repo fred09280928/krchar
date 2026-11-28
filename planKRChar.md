@@ -163,6 +163,7 @@ E 欄是提示欄，格式 `<圖像詞> = <鍵位>`（大寫＝Shift）：
 | 22 | 答對提示音 | 答對時播 0.5 秒「叮」（`audio/ui/ding.mp3`），早於 2 秒跳題與下一題發音；答錯不播（只重播字音）（2026-11-28） |
 | 23 | L1 專用聲音 | L1 26 張（13 子音名＋3 母音＋10 音節）改用 macOS `Yuna`（`code/make_audio_l1_yuna.py`），其餘 783 段維持 Hyunsu；`make_audio.py --force` 之後要補跑此腳本（2026-11-28） |
 | 24 | Enter 換題 | 答案已揭露（錯 3 次或答對後 2 秒等待中）按 Enter 等同按 `Next`，不必用滑鼠；編輯對話框開啟時不攔截（2026-11-28） |
+| 25 | 全部換女聲 | 男聲聽久刺耳 → 809 段全部改用 macOS `Yuna`（`make_audio_l1_yuna.py --scope all`）；edge-tts 管線保留作備援（2026-11-28） |
 | 18 | 音檔是否進 repo | **進**：使用者接受 Edge TTS 授權的殘餘風險，公開站要能播放；被要求下架時 `rm -rf audio/` 一個 commit（頁面自動無聲），manifest 保留（2026-11-26） |
 | 19 | 長期資料架構 | **Worker + D1**（同 `esflash-d1` 模式）；Google Sheet 只是初稿，定稿後整份複製進 D1 並停用 Sheet；因不再回寫 Sheet，**不需要 `sheet_pending` 與 `row_no`**（2026-11-26） |
 | 20 | D1 內容切分 | `cards`＝共用內容（含 memo）；`card_stats`＝每人 weight／correct／wrong；`reviews`＝作答紀錄；主鍵用碼點 `cp`，排序用 `ord` 保留 L1→L6 進度（2026-11-26） |

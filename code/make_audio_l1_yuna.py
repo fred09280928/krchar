@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Re-record the L1 letters (26 cards) with the macOS Korean voice Yuna.
+"""Re-record clips with the macOS Korean voice Yuna.
 
 Why a separate script: the bulk of the deck is edge-tts (online, one female/male
 voice), but L1 is only 26 cards and the user prefers the sound of Apple's own
@@ -7,7 +7,8 @@ voice), but L1 is only 26 cards and the user prefers the sound of Apple's own
 `make_audio.py --force` still regenerates the whole deck with edge-tts without
 silently flattening the L1 override — run this one afterwards.
 
-    /usr/bin/python3 code/make_audio_l1_yuna.py [--dry-run]
+    /usr/bin/python3 code/make_audio_l1_yuna.py            # L1 letters only
+    /usr/bin/python3 code/make_audio_l1_yuna.py --scope all  # the whole deck
 
 Writes audio/{syl,jamo}/<cp>.mp3 (mono 24 kHz 48 kbps, same as make_audio.py) and
 updates data/audio-manifest.json (voice, engine, duration, sha256).
@@ -59,12 +60,17 @@ def synth(entry, out_path):
 def main():
     ap = argparse.ArgumentParser()
     ap.add_argument("--dry-run", action="store_true")
+    ap.add_argument("--scope", choices=["l1", "all"], default="l1",
+                    help="l1 = the 26 letters (default), all = every clip in the deck")
     args = ap.parse_args()
 
     manifest = json.load(open(MANIFEST, encoding="utf-8"))
-    l1 = [e for e in manifest if e["category"] in ("L1c", "L1v", "L1")]
-    if len(l1) != 26:
-        sys.exit(f"expected 26 L1 cards, found {len(l1)}")
+    if args.scope == "l1":
+        l1 = [e for e in manifest if e["category"] in ("L1c", "L1v", "L1")]
+        if len(l1) != 26:
+            sys.exit(f"expected 26 L1 cards, found {len(l1)}")
+    else:
+        l1 = list(manifest)
 
     changed = []
     for e in l1:
@@ -77,7 +83,7 @@ def main():
         e["duration"] = pcm_duration(out)
         e["sha256"] = hashlib.sha256(open(out, "rb").read()).hexdigest()
         changed.append((e["cp"], e["char"], e["spoken"], e["duration"]))
-        print(f"  {e['cp']} {e['char']:2} {e['spoken']:3} {e['duration']:.3f}s")
+        print(f"  {len(changed):>3}/{len(l1)} {e['cp']} {e['char']:2} {e['spoken']:4} {e['duration']:.3f}s", flush=True)
 
     if args.dry_run:
         return
