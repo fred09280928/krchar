@@ -213,6 +213,10 @@ Answer modes: the prompt is always the character; **Dubeolsik** grades the physi
 (`R` = Shift+r) captured on `keydown`, **RR** grades the romanisation from `r` column C.
 Levels are cumulative — L2 drills L1\* + L2 (37 cards), L3 → 211, L4 → 366. L0 never appears. Picking is weight roulette and never serves the same card twice in a row.
 
+Answer feedback: a correct answer plays a short bell (`audio/ui/ding.mp3`, 0.5 s) the moment it is
+judged, then the 2 s advance and the next pronunciation; a wrong answer stays silent and replays
+the word instead.
+
 Deploy: `cd worker && npx wrangler secret put ADMIN_TOKEN && npx wrangler deploy`.
 
 ## Verify
