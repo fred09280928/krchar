@@ -16,6 +16,9 @@ worker/.wrangler/
 # copy made by scripts/sync_audio.sh (audio/ at the root is the source of truth)
 worker/public/audio/
 worker/.dev.vars
+# generated practice drills (code/make_confusable_drill.py)
+practice/
+
 # generated admin token for deployed edits
 .admin-token
 node_modules/

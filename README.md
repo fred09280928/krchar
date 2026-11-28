@@ -227,6 +227,11 @@ work, the character after the space so you can tell at a glance which clip is wh
 percent-encoded in the page (`AC00 가.mp3` → `AC00%20%EA%B0%80.mp3`); renaming is done by
 `code/rename_audio_files.py`, which also rewrites the manifest.
 
+Listening drill for confusable letters: `code/make_confusable_drill.py` splices the existing clips into
+`practice/ㅅㅈㅊ-drill.mp3` — letter names ㅅ·ㅈ·ㅊ three rounds, then ㅓ/ㅡ/ㅗ/ㅜ/ㅣ/ㅏ groups (서저처,
+스즈츠, 소조초, 수주추, 시지치, 사자차) each three times, 1 s between clips and 2 s between rounds.
+No new audio: it concatenates the files already in `audio/`.
+
 Answer feedback: a correct answer plays a short bell (`audio/ui/ding.mp3`, 0.5 s) the moment it is
 judged, then the 2 s advance and the next pronunciation; a wrong answer stays silent and replays
 the word instead.
