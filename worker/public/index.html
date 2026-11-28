@@ -222,6 +222,15 @@ const audioPath = (c) => `audio/${folder(c)}/${c.cp}.mp3`;
     if (state.audioBlocked) { state.audioBlocked = false; playAudio(); }
   }, { once: true, capture: true }));
 let audioEl = null;
+let dingEl = null;
+function playDing() {
+  try {
+    if (!dingEl) { dingEl = new Audio('audio/ui/ding.mp3'); dingEl.volume = 0.7; }
+    dingEl.currentTime = 0;
+    const p = dingEl.play();
+    if (p && p.catch) p.catch(() => {});
+  } catch { /* silent */ }
+}
 function playAudio() {
   if (!state.current) return;
   try {
@@ -332,6 +341,7 @@ async function submit() {
   el.check.disabled = true;
 
   if (correct) {
+    playDing();
     state.okSet.add(c.hangul); state.doneSet.add(c.hangul);
     const r = await postReview('correct');
     if (r) state.weight = r.weight;
