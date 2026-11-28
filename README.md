@@ -219,6 +219,9 @@ Answer modes: the prompt is always the character; **Dubeolsik** grades the physi
 (`R` = Shift+r) captured on `keydown`, **RR** grades the romanisation from `r` column C.
 Levels are cumulative — L2 drills L1\* + L2 (37 cards), L3 → 211, L4 → 366. L0 never appears. Picking is weight roulette and never serves the same card twice in a row.
 
+Keys: Enter submits; with the answer on screen (third wrong, or the 2 s window after a correct
+answer) Enter also advances to the next card, so the Next button never needs the mouse.
+
 File names are `<codepoint> <hangul>.mp3` — the codepoint first so sorting and matching by cp still
 work, the character after the space so you can tell at a glance which clip is which. URLs are
 percent-encoded in the page (`AC00 가.mp3` → `AC00%20%EA%B0%80.mp3`); renaming is done by

@@ -461,6 +461,16 @@ function openEdit() {
   $('editErr').textContent = '';
   el.dialog.showModal();
 }
+// While the card is locked (answer revealed) Enter advances, so the mouse never has to
+// travel to the Next button. Covers both the "3 wrong" stop and the 2 s "correct" window.
+document.addEventListener('keydown', (e) => {
+  if (e.key !== 'Enter' || !state.locked) return;   // locked == the answer is on screen
+  if (el.dialog && el.dialog.open) return;
+  e.preventDefault();
+  if (state.timer) { clearTimeout(state.timer); state.timer = null; }
+  nextCard();
+});
+
 el.editBtn.addEventListener('click', openEdit);
 $('cancelEdit').addEventListener('click', () => el.dialog.close());
 
