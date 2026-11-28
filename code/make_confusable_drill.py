@@ -7,8 +7,9 @@ Uses the clips already in audio/ (no new TTS). Sequence, as agreed:
   Part 2 — 18 syllables, per vowel in the order ㅓ ㅡ ㅗ ㅜ ㅣ ㅏ:
            서저처 ×3, 스즈츠 ×3, 소조초 ×3, 수주추 ×3, 시지치 ×3, 사자차 ×3
 
-Gaps: 1 s between clips inside a round, 2 s between rounds and between vowel
-groups (a 2 s break is what makes "that was round one" audible).
+Gaps: `--gap-clip` seconds between clips inside a round (default 2 s, so there is
+time to say the syllable yourself), `--gap-set` seconds between rounds and between
+vowel groups (default 3 s).
 
     /usr/bin/python3 code/make_confusable_drill.py [--out practice/ㅅㅈㅊ-drill.mp3]
 """
@@ -22,8 +23,8 @@ import wave
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 MANIFEST = os.path.join(ROOT, "data", "audio-manifest.json")
 RATE = 24000
-GAP_CLIP = 1.0      # between two clips of the same round
-GAP_SET = 2.0       # between rounds / between vowel groups
+GAP_CLIP = 2.0      # between two clips of the same round (time to repeat aloud)
+GAP_SET = 3.0       # between rounds / between vowel groups
 LEAD, TAIL = 0.4, 0.8
 
 CHO = "ㄱㄲㄴㄷㄸㄹㅁㅂㅃㅅㅆㅇㅈㅉㅊㅋㅌㅍㅎ"
@@ -46,7 +47,7 @@ def pcm(path):
     return a
 
 
-def build(manifest):
+def build(manifest, gap_clip=GAP_CLIP, gap_set=GAP_SET):
     """Return [(label, pcm), ...] already interleaved with silence."""
     by_cp = {e["cp"]: e for e in manifest}
     out, script = [], []
@@ -70,14 +71,14 @@ def build(manifest):
     for _ in range(3):
         for i, ch in enumerate(CONSONANTS):
             add(f"{ch}({by_cp[JAMO_CP[ch]]['spoken']})", JAMO_CP[ch],
-                GAP_CLIP if i else GAP_SET)
+                gap_clip if i else gap_set)
 
     # Part 2: consonant × vowel, each group three times
     for v in VOWELS:
         for _ in range(3):
             for i, ch in enumerate(CONSONANTS):
                 cp = f"{0xAC00 + (CHO.index(ch) * 21 + JUNG.index(v)) * 28:04X}"
-                add(chr(int(cp, 16)), cp, GAP_CLIP if i else GAP_SET)
+                add(chr(int(cp, 16)), cp, gap_clip if i else gap_set)
 
     out.append(silence(TAIL))
     return out, script
@@ -87,10 +88,12 @@ def main():
     ap = argparse.ArgumentParser()
     ap.add_argument("--out", default=os.path.join("practice", "ㅅㅈㅊ-drill.mp3"))
     ap.add_argument("--json", help="write the clip timeline here for checking")
+    ap.add_argument("--gap-clip", type=float, default=GAP_CLIP, help="silence between clips of a round")
+    ap.add_argument("--gap-set", type=float, default=GAP_SET, help="silence between rounds / groups")
     args = ap.parse_args()
 
     manifest = json.load(open(MANIFEST, encoding="utf-8"))
-    chunks, script = build(manifest)
+    chunks, script = build(manifest, args.gap_clip, args.gap_set)
     total = sum(len(c) for c in chunks) / RATE
 
     wav_path = os.path.join(ROOT, "practice", "ㅅㅈㅊ-drill.wav")
