@@ -57,8 +57,11 @@ def build(manifest):
         e = by_cp[cp]
         if added and gap_before:
             out.append(silence(gap_before))
-        out.append(pcm(os.path.join(ROOT, e["file"])))
-        script.append((label, gap_before if added else 0.0, e["duration"]))
+        samples = pcm(os.path.join(ROOT, e["file"]))
+        out.append(samples)
+        # measure the decoded audio, not the manifest: mp3 container padding (~50 ms per
+        # clip) would otherwise make the timeline drift ahead of the sound by seconds
+        script.append((label, gap_before if added else 0.0, round(len(samples) / RATE, 4)))
         added += 1
 
     out.append(silence(LEAD))

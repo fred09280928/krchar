@@ -232,6 +232,12 @@ Listening drill for confusable letters: `code/make_confusable_drill.py` splices 
 스즈츠, 소조초, 수주추, 시지치, 사자차) each three times, 1 s between clips and 2 s between rounds.
 No new audio: it concatenates the files already in `audio/`.
 
+Video version of the drill: `code/make_confusable_drill_video.py` renders one white character per clip
+(1080×1080, black background, Apple SD Gothic Neo Bold, auto-sized to ~78 % of the frame) and muxes it
+with the mp3 using the drill's timeline, so each character appears 0.1 s before its sound.
+`make_confusable_drill.py` records decoded-PCM durations — using the manifest's ffprobe durations
+drags the picture ~3 s behind the audio over 63 clips.
+
 Answer feedback: a correct answer plays a short bell (`audio/ui/ding.mp3`, 0.5 s) the moment it is
 judged, then the 2 s advance and the next pronunciation; a wrong answer stays silent and replays
 the word instead.
