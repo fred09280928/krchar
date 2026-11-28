@@ -151,6 +151,12 @@ python3 code/make_audio.py --limit 50   # batch it
 On this Mac a working 7.3.1 lives in `~/.venvs/edge-tts/bin/` (the Homebrew 7.2.7 returns
 403); pass it explicitly with `--edge-tts ~/.venvs/edge-tts/bin/edge-tts`.
 
+L1 override: the 26 letters are recorded with the macOS Korean voice `Yuna` (`say -v Yuna`,
+`code/make_audio_l1_yuna.py`) because single letters sound better in it; the other 783 clips stay on
+edge-tts `ko-KR-HyunsuMultilingualNeural`. `make_audio.py --force` rewrites **all** of them, so run
+`make_audio_l1_yuna.py` afterwards to restore the override. The manifest records `voice`/`engine` per
+clip, and `license` warns that the Apple voice is for personal use only.
+
 The script trims leading/trailing silence, normalises to −16 LUFS, and writes mono
 24 kHz 48 kbps MP3 (0.29–0.79 s per clip, 809 clips ≈ 3.2 MB). Quiz flow: show the
 question, play its clip, then accept the keystrokes.

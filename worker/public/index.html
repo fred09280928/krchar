@@ -11,7 +11,7 @@
     --ok:#2f6f4e; --err:#b3261e; --warn:#b07d00;
     --q-dubeolsik:#e0a800; --q-rr:#7d97b3;
     /* one scale, driven by viewport height so the page fills the window */
-    --gap: clamp(10px, 2.1vh, 26px);
+    --gap: clamp(9px, 1.8vh, 20px);
     --fs-ui: clamp(1rem, 2.1vh, 1.3rem);
     --fs-h1: clamp(1.6rem, 3.4vh, 2.3rem);
     --fs-stat: clamp(1.05rem, 2.3vh, 1.45rem);
@@ -29,7 +29,7 @@
   html,body{margin:0;background:var(--bg);color:var(--fg);
     font:clamp(17px,2vh,21px)/1.4 -apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,sans-serif}
   body{display:flex;flex-direction:column;min-height:100dvh}
-  main{flex:1;width:100%;max-width:760px;margin:0 auto;padding:var(--gap) 18px;
+  main{flex:1;width:100%;max-width:760px;margin:0 auto;padding:clamp(8px,1.6vh,16px) 18px clamp(6px,1.2vh,12px);
     display:flex;flex-direction:column;gap:var(--gap)}
   h1{font-size:var(--fs-h1);font-weight:700;text-align:center;margin:0;line-height:1.15}
   .headstats{display:flex;justify-content:center;gap:clamp(16px,3vh,34px);
@@ -57,21 +57,31 @@
     background:var(--card);border:1px solid var(--border);border-radius:14px;
     padding:clamp(8px,1.6vh,16px) 12px;font-variant-numeric:tabular-nums}
   .statrow span{white-space:nowrap}
-  .card{flex:1;min-height:clamp(150px,26vh,320px);
+  .card{flex:1;min-height:clamp(140px,22vh,280px);
     background:var(--card);border:1px solid var(--border);border-radius:18px;
     padding:clamp(12px,2.4vh,26px) 16px;
     display:flex;flex-direction:column;align-items:center;justify-content:center;gap:clamp(6px,1.6vh,18px)}
   #char{font-size:var(--fs-char);line-height:1;font-weight:600;color:var(--q-dubeolsik)}
+  body[data-kind="jamo"] #char{font-size:min(calc(var(--fs-char) * 1.45), min(26vh, 44vw))}
   body[data-mode="rr"] #char{color:var(--q-rr)}
   .hintmode{font-size:clamp(.8rem,1.7vh,1.05rem);letter-spacing:.12em;
     text-transform:uppercase;color:var(--muted)}
-  .memo{width:100%;max-width:640px;background:var(--memo-bg);border-radius:14px;
-    padding:clamp(8px,1.5vh,16px) 14px;position:relative;text-align:center;font-size:var(--fs-memo)}
-  .memo .label{font-size:clamp(.68rem,1.2vh,.85rem);letter-spacing:.14em;
-    text-transform:uppercase;color:var(--muted);display:block;margin-bottom:2px}
-  .memo .edit{position:absolute;top:4px;right:8px;border:0;background:transparent;
-    font-size:clamp(.95rem,1.9vh,1.25rem);cursor:pointer;opacity:.75}
-  .memo.empty{color:var(--muted);font-style:italic}
+  /* bottom reference panel: RR, Dubeolsik keys, memo */
+  .refcard{background:var(--card);border:1px solid var(--border);border-radius:14px;
+    padding:clamp(8px,1.5vh,16px) 14px;display:flex;flex-direction:column;gap:clamp(3px,.8vh,8px);
+    transition:box-shadow .18s ease}
+  .refcard.revealed{box-shadow:0 0 0 2px var(--ok) inset}
+  .refrow{display:flex;align-items:center;justify-content:center;gap:10px;flex-wrap:wrap;
+    font-size:var(--fs-memo)}
+  .refrow .label{font-size:clamp(.66rem,1.2vh,.82rem);letter-spacing:.14em;text-transform:uppercase;
+    color:var(--muted);min-width:5.6em;text-align:right}
+  .refrow .val{font-family:ui-monospace,Menlo,monospace;color:var(--fg);letter-spacing:.02em}
+  .refrow.memo{padding-top:clamp(4px,1vh,10px);border-top:1px solid var(--border);margin-top:2px}
+  .refrow.memo .val{font-family:inherit;background:var(--memo-bg);border-radius:10px;
+    padding:2px 10px;max-width:min(100%,30em);text-align:left}
+  .refrow.memo .val.empty{color:var(--muted);font-style:italic;background:transparent}
+  .edit{border:0;background:transparent;font-size:clamp(.95rem,1.9vh,1.25rem);cursor:pointer;opacity:.75;
+    padding:0 2px}
   .inputrow{position:relative;display:flex;justify-content:center;gap:12px}
   #answer{flex:0 0 min(440px,66vw);min-width:0;
     padding:clamp(10px,1.9vh,18px) 16px;border-radius:14px;border:1px solid var(--border);
@@ -84,7 +94,6 @@
   #check[disabled]{opacity:.5;cursor:default}
   #feedback{min-height:1.6em;text-align:center;font-size:var(--fs-fb);color:var(--muted)}
   #feedback.ok{color:var(--ok)} #feedback.err{color:var(--err)}
-  #answerline{text-align:center;font-size:var(--fs-ui);color:var(--muted);min-height:1.2em}
   /* short windows (laptop half-screen, phone landscape): shrink so nothing is cut off */
   @media (max-height:640px){
     :root{
@@ -159,8 +168,6 @@
   <section class="card">
     <div class="hintmode" id="modeHint">Type the Dubeolsik keys</div>
     <div id="char">…</div>
-    <div class="memo" id="memo"><span class="label">Memo</span><span id="memoText">—</span>
-      <button class="edit" id="editBtn" title="Edit card">✏️</button></div>
   </section>
 
   <div class="inputrow">
@@ -168,8 +175,14 @@
            placeholder="your answer">
     <button id="check">✅</button>
   </div>
-  <div id="answerline"></div>
   <div id="feedback"></div>
+
+  <section class="refcard" id="refcard">
+    <div class="refrow"><span class="label">RR</span><span class="val" id="refRr">—</span></div>
+    <div class="refrow"><span class="label">Dubeolsik</span><span class="val" id="refKeys">—</span>
+      <button class="edit" id="editBtn" title="Edit card">✏️</button></div>
+    <div class="refrow memo"><span class="label">Memo</span><span class="val" id="memoText">—</span></div>
+  </section>
 </main>
 
 <dialog id="editDialog">
@@ -207,8 +220,9 @@ const state = {
 
 const $ = (id) => document.getElementById(id);
 const el = {
-  level: $('level'), char: $('char'), memo: $('memo'), memoText: $('memoText'),
-  answer: $('answer'), check: $('check'), feedback: $('feedback'), answerline: $('answerline'),
+  level: $('level'), char: $('char'), memoText: $('memoText'), refRr: $('refRr'),
+  refKeys: $('refKeys'), refcard: $('refcard'),
+  answer: $('answer'), check: $('check'), feedback: $('feedback'),
   sOk: $('sOk'), sErr: $('sErr'), sWeight: $('sWeight'), sPos: $('sPos'),
   todayCount: $('todayCount'), todayAcc: $('todayAcc'), modeHint: $('modeHint'),
   replay: $('replay'), editBtn: $('editBtn'), dialog: $('editDialog'),
@@ -279,7 +293,8 @@ function nextCard() {
   state.attempts = 0; state.locked = false; state.inflight = false;
   state.typed = ''; state.composed = '';
   el.answer.value = ''; el.answer.disabled = false;
-  el.answerline.textContent = ''; el.feedback.textContent = ''; el.feedback.className = '';
+  el.feedback.textContent = ''; el.feedback.className = '';
+  el.refcard.classList.remove('revealed');
   el.check.textContent = '✅'; el.check.disabled = false;
   render();
   playAudio();
@@ -290,8 +305,11 @@ function render() {
   const c = state.current;
   if (!c) { el.char.textContent = '…'; return; }
   el.char.textContent = c.hangul;
+  document.body.dataset.kind = (c.category === 'L1c' || c.category === 'L1v' || c.category.startsWith('L0')) ? 'jamo' : 'syllable';
+  el.refRr.textContent = c.rr || '—';
+  el.refKeys.textContent = c.keys || '—';
   el.memoText.textContent = c.memo || 'no memo yet';
-  el.memo.classList.toggle('empty', !c.memo);
+  el.memoText.classList.toggle('empty', !c.memo);
   el.sWeight.textContent = `⚖️ ${state.weight}`;
   el.sOk.textContent = `⭕ ${state.okSet.size}`;
   el.sErr.textContent = `❌ ${state.errSet.size}`;
@@ -309,8 +327,7 @@ async function refreshStats() {
 }
 
 function revealAnswer() {
-  const c = state.current;
-  el.answerline.textContent = `Answer: ${c.keys}  ·  ${c.rr}`;
+  el.refcard.classList.add('revealed');
 }
 
 async function postReview(result) {
@@ -418,7 +435,7 @@ function setMode(mode) {
   $('mode-rr').setAttribute('aria-pressed', String(mode === 'rr'));
   $('mode-dubeolsik').setAttribute('aria-pressed', String(mode === 'dubeolsik'));
   state.attempts = 0; state.locked = false; state.typed = ''; state.composed = '';
-  el.answer.value = ''; el.answer.disabled = false; el.answerline.textContent = '';
+  el.answer.value = ''; el.answer.disabled = false; el.refcard.classList.remove('revealed');
   el.feedback.textContent = ''; el.check.textContent = '✅';
   render(); el.answer.focus();
 }
